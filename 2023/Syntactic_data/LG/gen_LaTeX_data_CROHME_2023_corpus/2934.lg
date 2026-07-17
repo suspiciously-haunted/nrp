@@ -1,0 +1,41 @@
+# IUD, CROHME_2934
+# Objects(24):
+O, 0, z, 1.0, 0
+O, 1, =, 1.0, 1, 2
+O, 2, k, 1.0, 3
+O, 3, R, 1.0, 4
+O, 4, (, 1.0, 5
+O, 5, c, 1.0, 6
+O, 6, \cos, 1.0, 7
+O, 7, \phi, 1.0, 8, 9
+O, 8, -, 1.0, 10
+O, 9, i, 1.0, 11
+O, 10, \sin, 1.0, 12, 13, 14, 15
+O, 11, \phi, 1.0, 16, 17
+O, 12, ), 1.0, 18
+O, 13, /, 1.0, 19
+O, 14, \sqrt, 1.0, 20
+O, 15, 1, 1.0, 21
+O, 16, -, 1.0, 22
+O, 17, b, 1.0, 23
+O, 18, =, 1.0, 24
+
+# Relations from SRT:
+EO, c_4d861e81-d63e-494f-a16b-e4303c918b84, 2_6ad033ce-967f-43f4-87af-e25a84377647, Sup, 1.0
+EO, c_4d861e81-d63e-494f-a16b-e4303c918b84, -_4a0da49a-6be3-4713-acaf-8db50cbac3ff, Right, 1.0
+EO, -_4a0da49a-6be3-4713-acaf-8db50cbac3ff, 1_8e15d434-68b8-4512-ab71-7c8cba2db279, Right, 1.0
+EO, 14, c_4d861e81-d63e-494f-a16b-e4303c918b84, Inside, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0
+EO, 3, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, 6, Right, 1.0
+EO, 6, \phi_47ab6e4e-2266-466d-a47c-85e3484c586b, Right, 1.0
+EO, \phi_47ab6e4e-2266-466d-a47c-85e3484c586b, 8, Right, 1.0
+EO, 8, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 10, 7, Right, 1.0
+EO, 7, 12, Right, 1.0
+EO, 12, 13, Right, 1.0
+EO, 13, 14, Right, 1.0

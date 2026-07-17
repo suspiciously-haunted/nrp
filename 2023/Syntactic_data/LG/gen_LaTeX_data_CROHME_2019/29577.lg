@@ -1,0 +1,51 @@
+# IUD, CROHME_29577
+# Objects(683):
+O, 0, d, 1.0, 0
+O, 1, p, 1.0, 1, 2
+O, 2, -, 1.0, 3
+O, 3, 1, 1.0, 4
+O, 4, =, 1.0, 5, 6
+O, 5, -, 1.0, 7
+O, 6, 3, 1.0, 8
+O, 7, 2, 1.0, 9
+O, 8, n, 1.0, 10, 11
+O, 9, 4, 1.0, 12, 13
+O, 10, 4, 1.0, 14, 15
+O, 11, (, 1.0, 16
+O, 12, 4, 1.0, 17, 18
+O, 13, (, 1.0, 19
+O, 14, a, 1.0, 20
+O, 15, 0, 1.0, 21
+O, 16, 2, 1.0, 22
+O, 17, +, 1.0, 23, 24
+O, 18, a, 1.0, 25
+O, 19, b, 1.0, 26
+O, 20, +, 1.0, 27, 28
+O, 21, b, 1.0, 29
+O, 22, n, 1.0, 30
+O, 23, 2, 1.0, 31, 32
+
+# Relations from SRT:
+EO, 9, 10, Sup, 1.0
+EO, a_0cce6755-50ea-4896-958f-d2c8e29e3f88, 1, Sup, 1.0
+EO, 99_adb8323c-f64e-421e-be33-469a66d035ab, 99_9bfa4137-3bea-41ba-81af-48ffc61afb38, Right, 1.0
+EO, a_d97e5991-e535-4bad-99a5-cdd47b41126f, 2_815bf3ca-7e47-4f92-8979-3cdeef1a2e5a, Sup, 1.0
+EO, 34_a1789c93-1ef2-404e-9658-eeeb21aae2aa, 34_c745380c-0525-4ee0-bb75-d63c4a0e176a, Right, 1.0
+EO, 467_606abcd8-539e-4db7-af6f-46cbc66692bc, 467_d0035f6b-2b11-4077-a77e-a6d3a0eaaedb, Right, 1.0
+EO, 467_d0035f6b-2b11-4077-a77e-a6d3a0eaaedb, 467_8c569766-9d94-47df-98ba-624681b8e9b3, Right, 1.0
+EO, 11, 12, Right, 1.0
+EO, 12, a_0cce6755-50ea-4896-958f-d2c8e29e3f88, Right, 1.0
+EO, a_0cce6755-50ea-4896-958f-d2c8e29e3f88, +_6eb84354-2f08-4ed0-b07f-7bea96104544, Right, 1.0
+EO, +_6eb84354-2f08-4ed0-b07f-7bea96104544, 99_adb8323c-f64e-421e-be33-469a66d035ab, Right, 1.0
+EO, 99_adb8323c-f64e-421e-be33-469a66d035ab, a_d97e5991-e535-4bad-99a5-cdd47b41126f, Right, 1.0
+EO, a_d97e5991-e535-4bad-99a5-cdd47b41126f, -_88b2dd91-2dd9-49e5-a3d4-5bcbbe19414a, Right, 1.0
+EO, -_88b2dd91-2dd9-49e5-a3d4-5bcbbe19414a, 34_a1789c93-1ef2-404e-9658-eeeb21aae2aa, Right, 1.0
+EO, 34_a1789c93-1ef2-404e-9658-eeeb21aae2aa, a_3d4a7c4e-125c-44d5-ba0d-8ce27790d9a0, Right, 1.0
+EO, a_3d4a7c4e-125c-44d5-ba0d-8ce27790d9a0, +_ab3b5417-1f97-4cab-aa42-19baadfde84e, Right, 1.0
+EO, +_ab3b5417-1f97-4cab-aa42-19baadfde84e, 467_606abcd8-539e-4db7-af6f-46cbc66692bc, Right, 1.0
+EO, 467_606abcd8-539e-4db7-af6f-46cbc66692bc, )_701d6cbd-6a69-4b35-9ac7-bbb71cf60efe, Right, 1.0
+EO, 11, 3_42aca55d-5158-4929-b70d-89498ed47924, Sup, 1.0
+EO, 0, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, 9, Right, 1.0
+EO, 9, 11, Right, 1.0

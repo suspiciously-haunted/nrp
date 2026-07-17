@@ -1,0 +1,57 @@
+# IUD, CROHME_28083
+# Objects(123):
+O, 0, d, 1.0, 0
+O, 1, a, 1.0, 1
+O, 2, t, 1.0, 2, 3
+O, 3, a, 1.0, 4
+O, 4, z, 1.0, 5, 6
+O, 5, -, 1.0, 7
+O, 6, d, 1.0, 8
+O, 7, 2, 1.0, 9
+O, 8, x, 1.0, 10, 11
+O, 9, (, 1.0, 12
+O, 10, 1, 1.0, 13
+O, 11, -, 1.0, 14
+O, 12, 2, 1.0, 15
+O, 13, 4, 1.0, 16
+O, 14, -, 1.0, 17
+O, 15, 2, 1.0, 18
+O, 16, -, 1.0, 19
+O, 17, n, 1.0, 20
+O, 18, (, 1.0, 21
+O, 19, d, 1.0, 22
+O, 20, =, 1.0, 23, 24
+O, 21, 2, 1.0, 25
+O, 22, ., 1.0, 26
+O, 23, 9, 1.0, 27
+O, 24, n, 1.0, 28, 29
+O, 25, 2, 1.0, 30
+O, 26, a, 1.0, 31
+O, 27, 0, 1.0, 32
+
+# Relations from SRT:
+EO, 6, 8, Right, 1.0
+EO, 5, 0, Above, 1.0
+EO, 5, 6, Below, 1.0
+EO, 15, 16, Right, 1.0
+EO, 16, 17, Right, 1.0
+EO, 14, 10, Above, 1.0
+EO, 14, 15, Below, 1.0
+EO, 19, t_5cf33bf7-d7b7-4dfe-8f23-9c8992d27961, Right, 1.0
+EO, d_48523045-2b97-4ae8-92af-942ba7e8e7b1, x_b0f7f7da-6420-4350-9baf-04d6d74002e4, Right, 1.0
+EO, -_9e8350b5-edf1-4872-9e00-abea3026b78d, 19, Above, 1.0
+EO, -_9e8350b5-edf1-4872-9e00-abea3026b78d, d_48523045-2b97-4ae8-92af-942ba7e8e7b1, Below, 1.0
+EO, 18, -_9e8350b5-edf1-4872-9e00-abea3026b78d, Right, 1.0
+EO, -_9e8350b5-edf1-4872-9e00-abea3026b78d, )_bf057eaf-5b11-49d7-9c52-e9ff1184b34e, Right, 1.0
+EO, n_a17ccac4-fab0-4e6e-ab6c-84e3fda79ad6, -_a94f8438-8ecf-4d94-a4fe-ec7a0912e803, Right, 1.0
+EO, -_a94f8438-8ecf-4d94-a4fe-ec7a0912e803, 2_118bdd46-4f24-4932-831d-aa2b48009ea3, Right, 1.0
+EO, 18, n_a17ccac4-fab0-4e6e-ab6c-84e3fda79ad6, Sup, 1.0
+EO, 14, 18, Right, 1.0
+EO, 9, 14, Right, 1.0
+EO, 14, )_dec684ee-ee9e-43b6-8988-234113e3ea06, Right, 1.0
+EO, 5, 9, Right, 1.0
+EO, 9, =_0a6b6664-923f-4759-83f5-7e96a2e46f5a, Right, 1.0
+EO, =_0a6b6664-923f-4759-83f5-7e96a2e46f5a, f_d73df2be-290a-4674-bb96-2b9d8bf2f73b, Right, 1.0
+EO, f_d73df2be-290a-4674-bb96-2b9d8bf2f73b, (_e7ad7120-f1b8-4b8b-a53e-eba51fd3eb75, Right, 1.0
+EO, (_e7ad7120-f1b8-4b8b-a53e-eba51fd3eb75, x_c6ea03b3-202d-4f12-ae55-59e32b73d0bb, Right, 1.0
+EO, x_c6ea03b3-202d-4f12-ae55-59e32b73d0bb, )_9442f462-f60c-45b2-b8c7-3a60dcebef48, Right, 1.0

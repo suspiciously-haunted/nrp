@@ -1,0 +1,43 @@
+# IUD, CROHME_36945
+# Objects(3059):
+O, 0, V, 1.0, 0, 1, 2
+O, 1, g, 1.0, 3
+O, 2, \alpha, 1.0, 4
+O, 3, \beta, 1.0, 5
+O, 4, R, 1.0, 6, 7
+O, 5, 3, 1.0, 8
+O, 6, x, 1.0, 9, 10
+O, 7, /, 1.0, 11
+O, 8, (, 1.0, 12
+O, 9, t, 1.0, 13, 14
+O, 10, x, 1.0, 15, 16, 17
+O, 11, -, 1.0, 18
+O, 12, t, 1.0, 19, 20
+O, 13, ), 1.0, 21
+O, 14, b, 1.0, 22
+O, 15, -, 1.0, 23
+O, 16, R, 1.0, 24
+O, 17, (, 1.0, 25
+O, 18, 0, 1.0, 26
+O, 19, ,, 1.0, 27
+
+# Relations from SRT:
+EO, d_f8e0c562-58d4-497d-833c-e39e54a6f9e3, c_bc4ed49c-b9d3-4c6f-8b47-107a40988ee4, Right, 1.0
+EO, 0, d_f8e0c562-58d4-497d-833c-e39e54a6f9e3, Sub, 1.0
+EO, a_53d295ca-ae1a-4ceb-ac47-0c680a54aaa8, v_7810dc81-d109-40d2-ae5c-51c7765dac95, Right, 1.0
+EO, V_1482639b-f0ea-4424-a46a-305a1909aa22, a_53d295ca-ae1a-4ceb-ac47-0c680a54aaa8, Sub, 1.0
+EO, \sqrt_2f6f633d-939d-4802-a9a9-3c6e45b667bf, 3_2679d274-ccb1-4992-a493-7a57ec7bca39, Inside, 1.0
+EO, p_92c3548d-d3b4-4427-8bae-1358e9775b8b, e_fbb9701f-94a0-4d37-9fbb-52e07add0014, Right, 1.0
+EO, e_fbb9701f-94a0-4d37-9fbb-52e07add0014, a_a684f8e9-09d3-4435-8df8-938e9a394c1c, Right, 1.0
+EO, a_a684f8e9-09d3-4435-8df8-938e9a394c1c, 1, Right, 1.0
+EO, V_16566510-3db5-4511-bd92-16dff2af4121, p_92c3548d-d3b4-4427-8bae-1358e9775b8b, Sub, 1.0
+EO, 3_d7b58ff3-818a-4ecc-ad3c-354a069fddea, \sqrt_2f6f633d-939d-4802-a9a9-3c6e45b667bf, Right, 1.0
+EO, \sqrt_2f6f633d-939d-4802-a9a9-3c6e45b667bf, V_16566510-3db5-4511-bd92-16dff2af4121, Right, 1.0
+EO, -_61b24572-cc5a-4078-8a6f-2d1af43f0b5d, 3_d7b58ff3-818a-4ecc-ad3c-354a069fddea, Above, 1.0
+EO, -_61b24572-cc5a-4078-8a6f-2d1af43f0b5d, \pi_0ee54247-f105-47ee-a6dc-4de067d649ae, Below, 1.0
+EO, 0, =_a8afd90a-75ff-42b8-9020-990f6e76d74c, Right, 1.0
+EO, =_a8afd90a-75ff-42b8-9020-990f6e76d74c, V_1482639b-f0ea-4424-a46a-305a1909aa22, Right, 1.0
+EO, V_1482639b-f0ea-4424-a46a-305a1909aa22, =_b14251e6-5bb1-4625-a2d7-6be7fa089dfe, Right, 1.0
+EO, =_b14251e6-5bb1-4625-a2d7-6be7fa089dfe, -_61b24572-cc5a-4078-8a6f-2d1af43f0b5d, Right, 1.0
+EO, -_61b24572-cc5a-4078-8a6f-2d1af43f0b5d, \cos_1cfe303a-2b43-47ae-9140-a41044dff3c9, Right, 1.0
+EO, \cos_1cfe303a-2b43-47ae-9140-a41044dff3c9, \alpha_20c7c26d-1701-4a76-8f09-fcc6691eb71a, Right, 1.0

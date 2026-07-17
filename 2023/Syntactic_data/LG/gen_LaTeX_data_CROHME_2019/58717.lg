@@ -1,0 +1,59 @@
+# IUD, CROHME_58717
+# Objects(420):
+O, 0, f, 1.0, 0, 1
+O, 1, j, 1.0, 2, 3
+O, 2, k, 1.0, 4, 5
+O, 3, s, 1.0, 6
+O, 4, d, 1.0, 7
+O, 5, \in, 1.0, 8, 9
+O, 6, S, 1.0, 10
+O, 7, (, 1.0, 11
+O, 8, Y, 1.0, 12, 13
+O, 9, =, 1.0, 14, 15
+O, 10, a, 1.0, 16
+O, 11, +, 1.0, 17, 18
+O, 12, b, 1.0, 19
+O, 13, \log, 1.0, 20, 21, 22
+O, 14, (, 1.0, 23
+O, 15, X, 1.0, 24, 25
+O, 16, ), 1.0, 26
+O, 17, ), 1.0, 27
+O, 18, N, 1.0, 28, 29
+O, 19, 2, 1.0, 30
+O, 20, +, 1.0, 31, 32
+O, 21, (, 1.0, 33
+O, 22, 2, 1.0, 34
+O, 23, N, 1.0, 35, 36
+O, 24, -, 1.0, 37
+O, 25, 4, 1.0, 38, 39
+O, 26, ), 1.0, 40
+O, 27, 2, 1.0, 41
+
+# Relations from SRT:
+EO, n_f3f7e7d3-0365-4b67-b8ea-1bee6ba20d9a, =_ca904fe6-341c-428e-a1ac-a73c1345801b, Right, 1.0
+EO, =_ca904fe6-341c-428e-a1ac-a73c1345801b, 0_dd04c636-23d6-4761-abfb-e4050e884ac6, Right, 1.0
+EO, \sum_cbb96501-4837-4640-836f-dcd6dfe3dba1, n_f3f7e7d3-0365-4b67-b8ea-1bee6ba20d9a, Sup, 1.0
+EO, \sum_cbb96501-4837-4640-836f-dcd6dfe3dba1, \infty_47ed9d15-e262-42a1-92f5-cac85f1ca344, Sub, 1.0
+EO, a_39e06e31-c66b-4996-9400-f09a9e7bd703, n_26829e02-478d-415c-9b03-aaf585139d2f, Sub, 1.0
+EO, x_e8756de0-53b0-433f-9425-b0e2fb2c93e3, n_de619aa8-8e5b-4350-81ae-e921eac655f9, Sup, 1.0
+EO, a_21ca7d1c-137f-44e3-8d91-4387ff4069f9, 0_cf89a981-1eaf-4f13-ba3a-aa6e754cfe85, Sub, 1.0
+EO, a_a0adc5e9-7522-40c1-a8c5-8ff49e5d27bd, 1_ba674701-7358-4eb5-a7e2-5bfa5815730f, Sub, 1.0
+EO, a_1c639387-1ba7-484d-9b5b-d0891afa56e8, 2_cde5af9f-39ab-4606-89b2-d3ece78d8913, Sub, 1.0
+EO, x_6968c1ed-fa12-4362-a09f-fae299249016, 2_0fe004bd-5f09-4404-bf99-e73f0a815204, Sup, 1.0
+EO, 0, (_3e3f1db4-8874-4c43-b70d-c753099f1fe8, Right, 1.0
+EO, (_3e3f1db4-8874-4c43-b70d-c753099f1fe8, x_b8b01e17-b19f-46b9-8896-2a5889f866dc, Right, 1.0
+EO, x_b8b01e17-b19f-46b9-8896-2a5889f866dc, )_5402eded-3ec5-4864-9eed-c655bf519ec6, Right, 1.0
+EO, )_5402eded-3ec5-4864-9eed-c655bf519ec6, =_272fc013-936d-4a18-b62c-a62a491f578e, Right, 1.0
+EO, =_272fc013-936d-4a18-b62c-a62a491f578e, \sum_cbb96501-4837-4640-836f-dcd6dfe3dba1, Right, 1.0
+EO, \sum_cbb96501-4837-4640-836f-dcd6dfe3dba1, a_39e06e31-c66b-4996-9400-f09a9e7bd703, Right, 1.0
+EO, a_39e06e31-c66b-4996-9400-f09a9e7bd703, x_e8756de0-53b0-433f-9425-b0e2fb2c93e3, Right, 1.0
+EO, x_e8756de0-53b0-433f-9425-b0e2fb2c93e3, =_b89ff9fa-740b-4276-a4f8-4064929a710e, Right, 1.0
+EO, =_b89ff9fa-740b-4276-a4f8-4064929a710e, a_21ca7d1c-137f-44e3-8d91-4387ff4069f9, Right, 1.0
+EO, a_21ca7d1c-137f-44e3-8d91-4387ff4069f9, +_3f1231a1-6ee0-41de-ad96-07f2c12cc27e, Right, 1.0
+EO, +_3f1231a1-6ee0-41de-ad96-07f2c12cc27e, a_a0adc5e9-7522-40c1-a8c5-8ff49e5d27bd, Right, 1.0
+EO, a_a0adc5e9-7522-40c1-a8c5-8ff49e5d27bd, x_45c7b0ae-853e-4d4e-90fc-afee3a42f017, Right, 1.0
+EO, x_45c7b0ae-853e-4d4e-90fc-afee3a42f017, +_f4f94abd-e8bf-432a-b613-355de7d99bc1, Right, 1.0
+EO, +_f4f94abd-e8bf-432a-b613-355de7d99bc1, a_1c639387-1ba7-484d-9b5b-d0891afa56e8, Right, 1.0
+EO, a_1c639387-1ba7-484d-9b5b-d0891afa56e8, x_6968c1ed-fa12-4362-a09f-fae299249016, Right, 1.0
+EO, x_6968c1ed-fa12-4362-a09f-fae299249016, +_6fa9e282-065d-4ba1-9a97-db3861c5253a, Right, 1.0
+EO, +_6fa9e282-065d-4ba1-9a97-db3861c5253a, \ldots_65261f35-1db5-4f94-a2b2-c7de253c956c, Right, 1.0

@@ -1,0 +1,40 @@
+# IUD, CROHME_42115
+# Objects(1664):
+O, 0, 1, 1.0, 0
+O, 1, -, 1.0, 1
+O, 2, R, 1.0, 2, 3
+O, 3, L, 1.0, 4
+O, 4, =, 1.0, 5, 6
+O, 5, R, 1.0, 7, 8
+O, 6, S, 1.0, 9
+O, 7, 2, 1.0, 10
+O, 8, 5, 1.0, 11
+O, 9, +, 1.0, 12, 13
+O, 10, a, 1.0, 14
+O, 11, R, 1.0, 15
+O, 12, e, 1.0, 16
+O, 13, \lt, 1.0, 17
+O, 14, 1, 1.0, 18
+O, 15, \gt, 1.0, 19
+O, 16, r, 1.0, 20, 21
+O, 17, +, 1.0, 22, 23
+
+# Relations from SRT:
+EO, 0, 11_c41e029b-8cc2-46e5-bc98-04a615d0f3ea, Right, 1.0
+EO, 0, 3_30e780d6-6c72-46b4-a92b-e9f5c0f0a890, Sup, 1.0
+EO, 12_b9e06bbe-f8ed-49c0-b638-096c93c5768c, 12_8d795595-80f3-48a4-9bf1-0e5ee8ea5e7e, Right, 1.0
+EO, 12_b9e06bbe-f8ed-49c0-b638-096c93c5768c, 3_239fef08-36f0-432d-9265-5afff6b58b07, Sup, 1.0
+EO, 13_1fccabae-967e-4807-bf1c-14a77a685646, 13_6121b269-da2d-47a3-82e9-fe770aa33299, Right, 1.0
+EO, 13_1fccabae-967e-4807-bf1c-14a77a685646, 3_37f222e9-cf9f-4ef7-bf10-8260b2dd5067, Sup, 1.0
+EO, 14_44f14e22-4d14-48c3-9d6c-f8ebe7890b18, 14_724a8435-dcda-400a-9c26-d8f257e1f69b, Right, 1.0
+EO, 14_44f14e22-4d14-48c3-9d6c-f8ebe7890b18, 3_b37915df-6f9d-4134-96c0-074136031a06, Sup, 1.0
+EO, 20_c3e85eb6-feba-4b09-92f9-1b3fe87e9d75, 20_7dfea511-4944-4990-a3c3-2a7b6db3f021, Right, 1.0
+EO, 20_c3e85eb6-feba-4b09-92f9-1b3fe87e9d75, 3_1f7c3db7-86d7-4b3b-aac0-c7866eaf39ef, Sup, 1.0
+EO, 0, +_27e6536a-72c4-4d02-9499-f2a720f1b01d, Right, 1.0
+EO, +_27e6536a-72c4-4d02-9499-f2a720f1b01d, 12_b9e06bbe-f8ed-49c0-b638-096c93c5768c, Right, 1.0
+EO, 12_b9e06bbe-f8ed-49c0-b638-096c93c5768c, +_0c871f2f-2daa-428f-8e99-382071570bda, Right, 1.0
+EO, +_0c871f2f-2daa-428f-8e99-382071570bda, 13_1fccabae-967e-4807-bf1c-14a77a685646, Right, 1.0
+EO, 13_1fccabae-967e-4807-bf1c-14a77a685646, +_e1bdb3ef-ff6c-476f-ab3e-45ad17e910f4, Right, 1.0
+EO, +_e1bdb3ef-ff6c-476f-ab3e-45ad17e910f4, 14_44f14e22-4d14-48c3-9d6c-f8ebe7890b18, Right, 1.0
+EO, 14_44f14e22-4d14-48c3-9d6c-f8ebe7890b18, =_7831ea53-0b64-400a-a760-dcd6141c00a8, Right, 1.0
+EO, =_7831ea53-0b64-400a-a760-dcd6141c00a8, 20_c3e85eb6-feba-4b09-92f9-1b3fe87e9d75, Right, 1.0

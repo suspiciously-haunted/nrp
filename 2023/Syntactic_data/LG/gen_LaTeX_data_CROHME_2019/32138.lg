@@ -1,0 +1,50 @@
+# IUD, CROHME_32138
+# Objects(563):
+O, 0, \sum, 1.0, 0, 1
+O, 1, k, 1.0, 2, 3, 4
+O, 2, =, 1.0, 5, 6
+O, 3, 0, 1.0, 7
+O, 4, n, 1.0, 8
+O, 5, -, 1.0, 9
+O, 6, 1, 1.0, 10
+O, 7, i, 1.0, 11, 12
+O, 8, j, 1.0, 13, 14
+O, 9, =, 1.0, 15, 16
+O, 10, 1, 1.0, 17
+O, 11, n, 1.0, 18, 19
+O, 12, B, 1.0, 20, 21
+O, 13, \sum, 1.0, 22, 23
+O, 14, i, 1.0, 24, 25
+O, 15, =, 1.0, 26, 27
+O, 16, 1, 1.0, 28
+O, 17, =, 1.0, 29, 30
+O, 18, a, 1.0, 31
+O, 19, b, 1.0, 32
+O, 20, -, 1.0, 33
+O, 21, 1, 1.0, 34
+O, 22, j, 1.0, 35
+
+# Relations from SRT:
+EO, 7, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 0, 7, Sup, 1.0
+EO, 0, 11, Sub, 1.0
+EO, 22, =_9e83d153-636e-4eff-9031-c6fed8c4bc4b, Right, 1.0
+EO, =_9e83d153-636e-4eff-9031-c6fed8c4bc4b, 1_e40879b7-5da8-49aa-a62f-4fa0335a164a, Right, 1.0
+EO, 13, 22, Sup, 1.0
+EO, 13, n_e229f55d-46bc-41d3-9215-24591e616f2a, Sub, 1.0
+EO, x_bb0ceb06-8035-4502-aa22-6b4c2eaf65d6, i_98cf8e6e-eb51-4f36-b067-f23217b8a525, Sub, 1.0
+EO, x_c14b93a3-8055-4aa5-b172-8fbd31cb5675, j_d20b13d8-3294-4139-bb19-c33760f6f19e, Sub, 1.0
+EO, c_e948a457-450b-4abc-acb7-977bba59fb3a, i_43b219c6-4c62-43a9-afa5-3042a112b246, Sub, 1.0
+EO, c_de63c0b5-a609-43fb-b547-c3e6a5b10533, j_8a93b831-96b0-4255-9575-c2996bb241df, Sub, 1.0
+EO, 0, 13, Right, 1.0
+EO, 13, k_55ea167a-83c2-47f3-807f-df69a7140575, Right, 1.0
+EO, k_55ea167a-83c2-47f3-807f-df69a7140575, (_6b321efb-1abb-4d31-8b6c-f6e71ef05acf, Right, 1.0
+EO, (_6b321efb-1abb-4d31-8b6c-f6e71ef05acf, x_bb0ceb06-8035-4502-aa22-6b4c2eaf65d6, Right, 1.0
+EO, x_bb0ceb06-8035-4502-aa22-6b4c2eaf65d6, ,_455c29b2-a14d-47e3-b23b-c0ffa8def832, Right, 1.0
+EO, ,_455c29b2-a14d-47e3-b23b-c0ffa8def832, x_c14b93a3-8055-4aa5-b172-8fbd31cb5675, Right, 1.0
+EO, x_c14b93a3-8055-4aa5-b172-8fbd31cb5675, )_15bf3b84-bd8d-42fc-beb7-4b1de58c730d, Right, 1.0
+EO, )_15bf3b84-bd8d-42fc-beb7-4b1de58c730d, c_e948a457-450b-4abc-acb7-977bba59fb3a, Right, 1.0
+EO, c_e948a457-450b-4abc-acb7-977bba59fb3a, c_de63c0b5-a609-43fb-b547-c3e6a5b10533, Right, 1.0
+EO, c_de63c0b5-a609-43fb-b547-c3e6a5b10533, \geq_fc93466f-851d-42e6-b78a-2e6d632de71c, Right, 1.0
+EO, \geq_fc93466f-851d-42e6-b78a-2e6d632de71c, 0_630690cf-abbc-478a-8bfd-4e2b878579c6, Right, 1.0

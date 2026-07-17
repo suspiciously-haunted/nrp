@@ -1,0 +1,28 @@
+# IUD, CROHME_5610
+# Objects(82):
+O, 0, \Delta, 1.0, 0
+O, 1, \sigma, 1.0, 1
+O, 2, =, 1.0, 2, 3
+O, 3, \sqrt, 1.0, 4
+O, 4, n, 1.0, 5
+O, 5, \log, 1.0, 6, 7, 8
+O, 6, \log, 1.0, 9, 10, 11
+O, 7, 2, 1.0, 12
+O, 8, p, 1.0, 13
+O, 9, n, 1.0, 14
+O, 10, \Delta, 1.0, 15, 16
+O, 11, x, 1.0, 17
+
+# Relations from SRT:
+EO, 11, 2_86434483-5f56-4862-b576-cab94319e663, Sup, 1.0
+EO, c_79714ed1-797b-48d8-b733-33a0540e3d28, 2_7247701c-a387-480d-8cc4-058c328e4c86, Sup, 1.0
+EO, t_4a71ed8f-1944-4dcd-b8d6-0f45228f3d01, 2_47f95e31-d1d9-4358-9364-79e778a77314, Sup, 1.0
+EO, 10, 11, Right, 1.0
+EO, 11, -_ec963c3d-e735-4b60-bc67-5e97f5717b11, Right, 1.0
+EO, -_ec963c3d-e735-4b60-bc67-5e97f5717b11, c_79714ed1-797b-48d8-b733-33a0540e3d28, Right, 1.0
+EO, c_79714ed1-797b-48d8-b733-33a0540e3d28, \Delta_cf2b51e1-ea82-4f10-94c7-7308e9a9e906, Right, 1.0
+EO, \Delta_cf2b51e1-ea82-4f10-94c7-7308e9a9e906, t_4a71ed8f-1944-4dcd-b8d6-0f45228f3d01, Right, 1.0
+EO, 3, 10, Inside, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0

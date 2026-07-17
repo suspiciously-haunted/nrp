@@ -1,0 +1,36 @@
+# IUD, CROHME_19632
+# Objects(110):
+O, 0, \sin, 1.0, 0, 1, 2, 3
+O, 1, (, 1.0, 4
+O, 2, M, 1.0, 5, 6
+O, 3, ,, 1.0, 7
+O, 4, \theta, 1.0, 8, 9, 10
+O, 5, ), 1.0, 11
+O, 6, \alpha, 1.0, 12
+O, 7, +, 1.0, 13, 14
+O, 8, \gamma, 1.0, 15
+O, 9, 0, 1.0, 16
+O, 10, ,, 1.0, 17
+O, 11, q, 1.0, 18, 19
+O, 12, ), 1.0, 20
+O, 13, =, 1.0, 21, 22
+O, 14, \sin, 1.0, 23, 24, 25, 26
+O, 15, \alpha, 1.0, 27
+O, 16, \cos, 1.0, 28
+
+# Relations from SRT:
+EO, 0, 1, Right, 1.0
+EO, 1, 6, Right, 1.0
+EO, 6, 7, Right, 1.0
+EO, 7, 8, Right, 1.0
+EO, 8, 12, Right, 1.0
+EO, 12, 13, Right, 1.0
+EO, 13, 14, Right, 1.0
+EO, 14, 15, Right, 1.0
+EO, 15, 16, Right, 1.0
+EO, 16, \gamma_bfe13b91-440d-47d9-87e3-a349fd0e9bfd, Right, 1.0
+EO, \gamma_bfe13b91-440d-47d9-87e3-a349fd0e9bfd, +_b398c2e2-49e3-4a33-948a-cb697fa8f1c8, Right, 1.0
+EO, +_b398c2e2-49e3-4a33-948a-cb697fa8f1c8, \sin_832261b3-cf03-486f-8a56-2c2087ed42cb, Right, 1.0
+EO, \sin_832261b3-cf03-486f-8a56-2c2087ed42cb, \gamma_2b6a474a-4107-4e77-b05f-65df565b2fcc, Right, 1.0
+EO, \gamma_2b6a474a-4107-4e77-b05f-65df565b2fcc, \cos_787530f1-0a67-440c-aa0a-62661db3a5d1, Right, 1.0
+EO, \cos_787530f1-0a67-440c-aa0a-62661db3a5d1, \alpha_b77da54c-2333-4c55-a93e-fec55bbcc79d, Right, 1.0

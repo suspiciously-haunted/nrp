@@ -1,0 +1,29 @@
+# IUD, CROHME_35916
+# Objects(133):
+O, 0, c, 1.0, 0
+O, 1, =, 1.0, 1, 2
+O, 2, \sqrt, 1.0, 3
+O, 3, 3, 1.0, 4
+O, 4, 3, 1.0, 5
+O, 5, a, 1.0, 6
+O, 6, 2, 1.0, 7
+O, 7, i, 1.0, 8, 9
+O, 8, \pi, 1.0, 10, 11, 12
+O, 9, 2, 1.0, 13
+O, 10, +, 1.0, 14, 15
+O, 11, b, 1.0, 16
+
+# Relations from SRT:
+EO, 5, 9, Sup, 1.0
+EO, 11, 2_140ea837-6e1b-49ae-8bc5-7a5d565edbec, Sup, 1.0
+EO, 5, 10, Right, 1.0
+EO, 10, 11, Right, 1.0
+EO, 11, -_ac70e521-3fee-4e35-8865-6fda53d98faf, Right, 1.0
+EO, -_ac70e521-3fee-4e35-8865-6fda53d98faf, 2_773c9447-f5cd-4d72-b284-c7d8dbf7854f, Right, 1.0
+EO, 2_773c9447-f5cd-4d72-b284-c7d8dbf7854f, a_d64b0077-f819-4898-8527-667f01e0693a, Right, 1.0
+EO, a_d64b0077-f819-4898-8527-667f01e0693a, b_d8bcf54e-2af2-4707-b61d-c86ff5b5b037, Right, 1.0
+EO, b_d8bcf54e-2af2-4707-b61d-c86ff5b5b037, \cos_3ea18141-9617-42ed-b6c3-3ed352bad3d2, Right, 1.0
+EO, \cos_3ea18141-9617-42ed-b6c3-3ed352bad3d2, \gamma_fe4f8ebc-66f7-4c0f-9bae-fb537c530bbb, Right, 1.0
+EO, 2, 5, Inside, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0

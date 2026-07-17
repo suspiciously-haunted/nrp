@@ -1,0 +1,45 @@
+# IUD, CROHME_29068
+# Objects(514):
+O, 0, 1, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, 2, 1.0, 2
+O, 3, 5, 1.0, 3, 4
+O, 4, -, 1.0, 5
+O, 5, 5, 1.0, 6, 7
+O, 6, +, 1.0, 8, 9
+O, 7, \sqrt, 1.0, 10, 11
+O, 8, 1, 1.0, 12
+O, 9, +, 1.0, 13, 14
+O, 10, (, 1.0, 15
+O, 11, d, 1.0, 16, 17
+O, 12, y, 1.0, 18
+O, 13, ), 1.0, 19
+O, 14, 2, 1.0, 20
+O, 15, -, 1.0, 21
+O, 16, (, 1.0, 22
+O, 17, d, 1.0, 23
+O, 18, x, 1.0, 24, 25
+O, 19, ), 1.0, 26
+O, 20, 2, 1.0, 27
+O, 21, 5, 1.0, 28
+
+# Relations from SRT:
+EO, 7, 21, Inside, 1.0
+EO, 0, 6, Right, 1.0
+EO, 6, 7, Right, 1.0
+EO, -_10609244-ea66-481a-b390-f8a3eca02ac2, 0, Above, 1.0
+EO, -_10609244-ea66-481a-b390-f8a3eca02ac2, 2_ce36edc5-dee9-4fd0-9ce1-976cc422fa18, Below, 1.0
+EO, 1_9aacf3f9-de62-4792-8e57-02abe05c86fc, +_0f476eca-366f-4e98-8d1b-5514db892f57, Right, 1.0
+EO, +_0f476eca-366f-4e98-8d1b-5514db892f57, \ldots_ca0555db-c935-4214-bbe4-6d52c0c5b39a, Right, 1.0
+EO, \sqrt_a1b4e2c9-1f2b-4b57-998f-96b0c348de95, 1_9aacf3f9-de62-4792-8e57-02abe05c86fc, Inside, 1.0
+EO, 1_5fe6efa3-8ac8-4886-b858-96be16a1c3f2, +_7361f068-a021-4ab7-9b4a-553fa853137b, Right, 1.0
+EO, +_7361f068-a021-4ab7-9b4a-553fa853137b, \sqrt_a1b4e2c9-1f2b-4b57-998f-96b0c348de95, Right, 1.0
+EO, \sqrt_1b980003-2556-4d3f-879a-00bf5779fabc, 1_5fe6efa3-8ac8-4886-b858-96be16a1c3f2, Inside, 1.0
+EO, 1_de47aee0-b662-4804-a2e6-5e7c47370095, +_60e1e465-9447-46da-8981-8f3a61d0a1f6, Right, 1.0
+EO, +_60e1e465-9447-46da-8981-8f3a61d0a1f6, \sqrt_1b980003-2556-4d3f-879a-00bf5779fabc, Right, 1.0
+EO, \sqrt_4b2fa53a-2f54-4f96-b94d-fdc4ffb59ee7, 1_de47aee0-b662-4804-a2e6-5e7c47370095, Inside, 1.0
+EO, 1_a8f443fa-8465-47f3-be45-b55e1c680ec1, +_21ad906c-d879-4efc-a0b1-28227ea0a5e8, Right, 1.0
+EO, +_21ad906c-d879-4efc-a0b1-28227ea0a5e8, \sqrt_4b2fa53a-2f54-4f96-b94d-fdc4ffb59ee7, Right, 1.0
+EO, \sqrt_d58c11ff-f8ea-4876-9a6b-ffc17b6651eb, 1_a8f443fa-8465-47f3-be45-b55e1c680ec1, Inside, 1.0
+EO, -_10609244-ea66-481a-b390-f8a3eca02ac2, =_cac0338c-40f1-4200-a090-c018b9028bc5, Right, 1.0
+EO, =_cac0338c-40f1-4200-a090-c018b9028bc5, \sqrt_d58c11ff-f8ea-4876-9a6b-ffc17b6651eb, Right, 1.0

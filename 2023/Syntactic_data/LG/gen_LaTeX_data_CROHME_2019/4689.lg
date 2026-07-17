@@ -1,0 +1,30 @@
+# IUD, CROHME_4689
+# Objects(31):
+O, 0, \int, 1.0, 0
+O, 1, -, 1.0, 1
+O, 2, \infty, 1.0, 2
+O, 3, 0, 1.0, 3
+O, 4, f, 1.0, 4
+O, 5, (, 1.0, 5
+O, 6, x, 1.0, 6, 7
+O, 7, n, 1.0, 8
+O, 8, +, 1.0, 9, 10
+O, 9, 1, 1.0, 11
+O, 10, =, 1.0, 12, 13
+O, 11, x, 1.0, 14, 15
+O, 12, n, 1.0, 16
+O, 13, -, 1.0, 17
+
+# Relations from SRT:
+EO, 1, 2, Right, 1.0
+EO, 0, 1, Sup, 1.0
+EO, 0, 3, Sub, 1.0
+EO, 0, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, 6, Right, 1.0
+EO, 6, )_6763dd81-b151-4461-87f1-4608f566e8f5, Right, 1.0
+EO, )_6763dd81-b151-4461-87f1-4608f566e8f5, d_e4aaede6-66bd-4999-b838-661d82993814, Right, 1.0
+EO, d_e4aaede6-66bd-4999-b838-661d82993814, x_703ebaac-63d1-4077-8cde-f802ccf9fcc8, Right, 1.0
+EO, x_703ebaac-63d1-4077-8cde-f802ccf9fcc8, =_b6848686-44ad-4ec4-9884-a58365150776, Right, 1.0
+EO, =_b6848686-44ad-4ec4-9884-a58365150776, \pm_5bdb2435-4c0d-4926-aeda-dbd3ea922219, Right, 1.0
+EO, \pm_5bdb2435-4c0d-4926-aeda-dbd3ea922219, \infty_e1c572c2-b505-4f62-84d6-7b344ce6527a, Right, 1.0

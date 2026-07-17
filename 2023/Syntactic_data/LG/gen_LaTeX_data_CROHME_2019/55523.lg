@@ -1,0 +1,42 @@
+# IUD, CROHME_55523
+# Objects(41265):
+O, 0, |, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, |, 1.0, 2
+O, 3, H, 1.0, 3, 4, 5
+O, 4, N, 1.0, 6
+O, 5, (, 1.0, 7
+O, 6, T, 1.0, 8, 9
+O, 7, +, 1.0, 10, 11
+O, 8, H, 1.0, 12, 13, 14, 15
+O, 9, ), 1.0, 16
+O, 10, -, 1.0, 17
+O, 11, N, 1.0, 18
+O, 12, (, 1.0, 19
+O, 13, T, 1.0, 20, 21
+O, 14, ), 1.0, 22
+O, 15, \geq, 1.0, 23, 24
+O, 16, c, 1.0, 25
+O, 17, H, 1.0, 26, 27
+O, 18, \log, 1.0, 28
+O, 19, T, 1.0, 29
+
+# Relations from SRT:
+EO, d_582cfcce-76ce-488c-a000-d6a9c124f019, k_d7048a80-2bb5-44c4-b0f2-9b4dff7ee77c, Sup, 1.0
+EO, d_582cfcce-76ce-488c-a000-d6a9c124f019, f_b48f8a6f-5d7e-4802-ad56-6bece034bd21, Right, 1.0
+EO, x_dce4589f-cd66-4724-ac1b-f0226ec638bc, k_0bdcb067-47df-463e-8c7b-fad0157b2bb6, Sup, 1.0
+EO, d_a689a3c9-2adf-4445-ae1e-2d20b2593614, x_dce4589f-cd66-4724-ac1b-f0226ec638bc, Right, 1.0
+EO, -_cee11e86-f3be-4333-a85c-c2c9b96f585c, d_582cfcce-76ce-488c-a000-d6a9c124f019, Above, 1.0
+EO, -_cee11e86-f3be-4333-a85c-c2c9b96f585c, d_a689a3c9-2adf-4445-ae1e-2d20b2593614, Below, 1.0
+EO, -_cee11e86-f3be-4333-a85c-c2c9b96f585c, (_10cec61a-a5cf-4a92-b59b-09dba9a1c115, Right, 1.0
+EO, (_10cec61a-a5cf-4a92-b59b-09dba9a1c115, x_fc87d33f-5855-46ee-8da7-0ce0c4fc6592, Right, 1.0
+EO, x_fc87d33f-5855-46ee-8da7-0ce0c4fc6592, )_db7b60a6-7f83-4d16-897f-984c2691722a, Right, 1.0
+EO, 0, -_cee11e86-f3be-4333-a85c-c2c9b96f585c, Right, 1.0
+EO, -_cee11e86-f3be-4333-a85c-c2c9b96f585c, |_f067ee47-5ce3-4c7b-8207-b023f74c2871, Right, 1.0
+EO, k_273402a2-1aaa-427e-8a3d-f6c3454a83bf, +_feecf2ed-f2ea-4ada-bdb4-f5964a4d6ea1, Right, 1.0
+EO, +_feecf2ed-f2ea-4ada-bdb4-f5964a4d6ea1, 1_da25cb5b-f979-4575-91af-66e02a1469c6, Right, 1.0
+EO, A_426b2d1f-59af-41fd-959e-f607dc758990, k_273402a2-1aaa-427e-8a3d-f6c3454a83bf, Sup, 1.0
+EO, 2, k_5cbdf47a-c38e-484e-afcd-a971b9b25453, Sub, 1.0
+EO, 0, \leq_9463354c-8332-44f8-b511-ab8eb1d4a13d, Right, 1.0
+EO, \leq_9463354c-8332-44f8-b511-ab8eb1d4a13d, A_426b2d1f-59af-41fd-959e-f607dc758990, Right, 1.0
+EO, A_426b2d1f-59af-41fd-959e-f607dc758990, 2, Right, 1.0

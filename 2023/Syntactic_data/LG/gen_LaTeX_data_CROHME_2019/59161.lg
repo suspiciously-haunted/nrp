@@ -1,0 +1,21 @@
+# IUD, CROHME_59161
+# Objects(10):
+O, 0, \cos, 1.0, 0
+O, 1, y, 1.0, 1
+O, 2, =, 1.0, 2, 3
+O, 3, \sqrt, 1.0, 4, 5
+O, 4, 1, 1.0, 6
+O, 5, -, 1.0, 7
+O, 6, \sin, 1.0, 8, 9, 10, 11
+O, 7, 2, 1.0, 12
+O, 8, 2, 1.0, 13
+
+# Relations from SRT:
+EO, 6, 8, Sup, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, 6, Right, 1.0
+EO, 6, y_6c93d128-d7d5-4242-b668-8f9e3f1f6bce, Right, 1.0
+EO, 3, 4, Inside, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0

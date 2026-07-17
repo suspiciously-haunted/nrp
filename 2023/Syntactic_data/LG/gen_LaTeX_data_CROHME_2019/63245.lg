@@ -1,0 +1,41 @@
+# IUD, CROHME_63245
+# Objects(13021):
+O, 0, f, 1.0, 0
+O, 1, d, 1.0, 1
+O, 2, -, 1.0, 2
+O, 3, 1, 1.0, 3
+O, 4, (, 1.0, 4
+O, 5, 1, 1.0, 5
+O, 6, -, 1.0, 6
+O, 7, \sum, 1.0, 7, 8
+O, 8, j, 1.0, 9, 10
+O, 9, =, 1.0, 11, 12
+O, 10, 1, 1.0, 13
+O, 11, m, 1.0, 14
+O, 12, a, 1.0, 15
+O, 13, i, 1.0, 16, 17
+O, 14, j, 1.0, 18, 19
+O, 15, ), 1.0, 20
+O, 16, x, 1.0, 21, 22
+O, 17, +, 1.0, 23, 24
+O, 18, h, 1.0, 25
+
+# Relations from SRT:
+EO, a_f1c86378-5d8e-44bf-9f06-48c397bf7d81, 1_031e257a-2850-4e3a-a90d-92d2eb189c4e, Sub, 1.0
+EO, a_62cfe8c2-92d7-4e6a-842a-c8e6936f06da, 1, Sub, 1.0
+EO, 0, ,_d57d63af-3eae-48c9-a9b8-01746f50f8f2, Right, 1.0
+EO, ,_d57d63af-3eae-48c9-a9b8-01746f50f8f2, a_f1c86378-5d8e-44bf-9f06-48c397bf7d81, Right, 1.0
+EO, a_f1c86378-5d8e-44bf-9f06-48c397bf7d81, \ldots_8b262a5f-fd22-4198-a509-03604051bec0, Right, 1.0
+EO, \ldots_8b262a5f-fd22-4198-a509-03604051bec0, a_62cfe8c2-92d7-4e6a-842a-c8e6936f06da, Right, 1.0
+EO, d_9ffcf2c1-be87-454d-aa98-77f5c8337d98, f_036de61a-74cf-4e8c-a6e0-affdc3f6b9a4, Right, 1.0
+EO, i_b00fd37a-992b-4ac1-b2da-b422c0ca8121, d_9ffcf2c1-be87-454d-aa98-77f5c8337d98, Sub, 1.0
+EO, a_50aa2a77-6535-4640-aeed-3888227c6d96, 1_93c4737e-2f1d-446f-a8c2-9bf2b85bf4c9, Sub, 1.0
+EO, a_03feaeba-4e8a-4af6-b2a9-70e7c134c2f2, m_96de4c9e-dc81-4a5b-b97e-aa4fba350581, Sub, 1.0
+EO, 0, =_79db46bb-937c-4203-bb83-1f012f83647b, Right, 1.0
+EO, =_79db46bb-937c-4203-bb83-1f012f83647b, -_3d3646c0-c746-4f41-88e5-0677d64dd096, Right, 1.0
+EO, -_3d3646c0-c746-4f41-88e5-0677d64dd096, i_b00fd37a-992b-4ac1-b2da-b422c0ca8121, Right, 1.0
+EO, i_b00fd37a-992b-4ac1-b2da-b422c0ca8121, (_af79a841-31c1-4b88-93d3-f9a08a8660c3, Right, 1.0
+EO, (_af79a841-31c1-4b88-93d3-f9a08a8660c3, a_50aa2a77-6535-4640-aeed-3888227c6d96, Right, 1.0
+EO, a_50aa2a77-6535-4640-aeed-3888227c6d96, \ldots_ab0b4f38-9615-4a0d-ab01-7855a897ccc8, Right, 1.0
+EO, \ldots_ab0b4f38-9615-4a0d-ab01-7855a897ccc8, a_03feaeba-4e8a-4af6-b2a9-70e7c134c2f2, Right, 1.0
+EO, a_03feaeba-4e8a-4af6-b2a9-70e7c134c2f2, )_30f4218b-e9cc-4dba-94f7-85be9e2b4d51, Right, 1.0

@@ -1,0 +1,46 @@
+# IUD, CROHME_37067
+# Objects(1338):
+O, 0, F, 1.0, 0, 1, 2
+O, 1, -, 1.0, 3
+O, 2, 6, 1.0, 4
+O, 3, 5, 1.0, 5, 6
+O, 4, 0, 1.0, 7
+O, 5, -, 1.0, 8
+O, 6, 8, 1.0, 9
+O, 7, (, 1.0, 10
+O, 8, p, 1.0, 11, 12
+O, 9, -, 1.0, 13, 14
+O, 10, 3, 1.0, 15
+O, 11, i, 1.0, 16, 17
+O, 12, 0, 1.0, 18
+O, 13, ), 1.0, 19
+O, 14, =, 1.0, 20, 21
+O, 15, \sum, 1.0, 22, 23
+O, 16, j, 1.0, 24, 25
+O, 17, =, 1.0, 26, 27
+O, 18, 1, 1.0, 28
+O, 19, j, 1.0, 29, 30
+O, 20, i, 1.0, 31
+
+# Relations from SRT:
+EO, 15, 20, Sub, 1.0
+EO, 0, 7, Right, 1.0
+EO, 7, 8, Right, 1.0
+EO, 8, 13, Right, 1.0
+EO, 13, 14, Right, 1.0
+EO, 14, 15, Right, 1.0
+EO, 15, p_3ffa1572-8a27-48d4-b007-0cd9e0827eb3, Right, 1.0
+EO, p_3ffa1572-8a27-48d4-b007-0cd9e0827eb3, (_604a37c8-ec0d-4957-a4ed-33c83278d16c, Right, 1.0
+EO, (_604a37c8-ec0d-4957-a4ed-33c83278d16c, i_76d6c463-72c1-441f-bff4-c4fef1636368, Right, 1.0
+EO, i_76d6c463-72c1-441f-bff4-c4fef1636368, )_f89d66d5-6001-41d7-8515-3d2bfd216420, Right, 1.0
+EO, )_f89d66d5-6001-41d7-8515-3d2bfd216420, \log_47a5f68f-255a-4394-9942-53fc98cd5161, Right, 1.0
+EO, \log_47a5f68f-255a-4394-9942-53fc98cd5161, p_48becba1-25a7-42cc-a8c2-23170e492ec6, Right, 1.0
+EO, p_48becba1-25a7-42cc-a8c2-23170e492ec6, (_518ed287-3147-4880-8b8a-39e8fc0aff4e, Right, 1.0
+EO, (_518ed287-3147-4880-8b8a-39e8fc0aff4e, i_0c87f645-8dde-47c9-a20b-511f764ac396, Right, 1.0
+EO, i_0c87f645-8dde-47c9-a20b-511f764ac396, )_4b7d1029-3523-45ff-9422-a9d5f5977ffd, Right, 1.0
+EO, )_4b7d1029-3523-45ff-9422-a9d5f5977ffd, -_a7259b2f-e401-425d-9609-fbca0c407a06, Right, 1.0
+EO, -_a7259b2f-e401-425d-9609-fbca0c407a06, \sum_6082f37d-dd70-4db6-a4ee-e9cc6f0cbd98, Right, 1.0
+EO, \sum_6082f37d-dd70-4db6-a4ee-e9cc6f0cbd98, p_b6c5629d-a6e6-45fb-a842-f9a57892d8d3, Right, 1.0
+EO, p_b6c5629d-a6e6-45fb-a842-f9a57892d8d3, (_dbbf5dd5-7aca-434c-9696-6f57aab89689, Right, 1.0
+EO, (_dbbf5dd5-7aca-434c-9696-6f57aab89689, i_0bf82882-36d4-4b41-b65c-6b512fbffabe, Right, 1.0
+EO, i_0bf82882-36d4-4b41-b65c-6b512fbffabe, )_4b3d94e7-8263-4097-b106-5a04091e71c3, Right, 1.0

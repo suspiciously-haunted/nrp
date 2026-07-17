@@ -1,0 +1,19 @@
+# IUD, CROHME_17343
+# Objects(9):
+O, 0, \pi, 1.0, 0, 1, 2
+O, 1, -, 1.0, 3
+O, 2, 1, 1.0, 4
+O, 3, 8, 1.0, 5
+O, 4, 0, 1.0, 6
+O, 5, a, 1.0, 7
+O, 6, 1, 1.0, 8
+O, 7, \cos, 1.0, 9, 10, 11
+
+# Relations from SRT:
+EO, 2, 3, Right, 1.0
+EO, 3, 4, Right, 1.0
+EO, 1, 0, Above, 1.0
+EO, 1, 2, Below, 1.0
+EO, 1, 5, Right, 1.0
+EO, 5, 7, Right, 1.0
+EO, 7, \beta_7cecdb62-9b8d-4716-96ad-2c9ca1431a85, Right, 1.0

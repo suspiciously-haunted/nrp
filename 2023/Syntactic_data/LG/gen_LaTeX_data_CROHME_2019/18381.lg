@@ -1,0 +1,37 @@
+# IUD, CROHME_18381
+# Objects(35):
+O, 0, \sigma, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, 2, 1.0, 2
+O, 3, -, 1.0, 3
+O, 4, 2, 1.0, 4
+O, 5, 0, 1.0, 5
+O, 6, =, 1.0, 6, 7
+O, 7, 1, 1.0, 8
+O, 8, 2, 1.0, 9
+O, 9, =, 1.0, 10, 11
+O, 10, (, 1.0, 12
+O, 11, \alpha, 1.0, 13
+O, 12, \beta, 1.0, 14, 15
+O, 13, ), 1.0, 16
+O, 14, 2, 1.0, 17
+O, 15, 1, 1.0, 18
+O, 16, 0, 1.0, 19
+
+# Relations from SRT:
+EO, 0, 8, Sup, 1.0
+EO, 10, 11, Right, 1.0
+EO, 11, 12, Right, 1.0
+EO, 12, 13, Right, 1.0
+EO, 10, 14, Sup, 1.0
+EO, \alpha_a99df3d4-2d58-4ea5-84b2-97c477f40994, 2_6e5a4513-536e-4d52-9efe-b7996def18ee, Sup, 1.0
+EO, 5_929af827-e4ea-4600-8909-94d9690fc007, \alpha_a99df3d4-2d58-4ea5-84b2-97c477f40994, Right, 1.0
+EO, -_db1efdb2-997f-498c-93db-a5f323e3e749, 5_929af827-e4ea-4600-8909-94d9690fc007, Above, 1.0
+EO, -_db1efdb2-997f-498c-93db-a5f323e3e749, 4_9a6c0d31-e540-4070-9d83-bd085642ef0a, Below, 1.0
+EO, 0, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 10, (_3dd62c00-5baa-41bd-8bb2-172d6d7ea736, Right, 1.0
+EO, (_3dd62c00-5baa-41bd-8bb2-172d6d7ea736, 1_d15143f3-3060-44c4-9aee-caf7a17792ac, Right, 1.0
+EO, 1_d15143f3-3060-44c4-9aee-caf7a17792ac, +_86778ea3-a146-46fe-8748-a08c98aa4fd8, Right, 1.0
+EO, +_86778ea3-a146-46fe-8748-a08c98aa4fd8, -_db1efdb2-997f-498c-93db-a5f323e3e749, Right, 1.0
+EO, -_db1efdb2-997f-498c-93db-a5f323e3e749, )_3a2fa8a0-4d75-4dec-801c-6abe6d37cf3f, Right, 1.0

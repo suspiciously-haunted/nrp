@@ -1,0 +1,82 @@
+# IUD, CROHME_491
+# Objects(45):
+O, 0, f, 1.0, 0
+O, 1, =, 1.0, 1, 2
+O, 2, C, 1.0, 3
+O, 3, e, 1.0, 4
+O, 4, 1, 1.0, 5
+O, 5, -, 1.0, 6
+O, 6, \theta, 1.0, 7, 8
+O, 7, (, 1.0, 9
+O, 8, x, 1.0, 10
+O, 9, 1, 1.0, 11
+O, 10, -, 1.0, 12
+O, 11, \sqrt, 1.0, 13
+O, 12, \gamma, 1.0, 14
+O, 13, +, 1.0, 15, 16
+O, 14, i, 1.0, 17, 18
+O, 15, \sqrt, 1.0, 19
+O, 16, \gamma, 1.0, 20
+O, 17, x, 1.0, 21, 22
+O, 18, 2, 1.0, 23
+O, 19, i, 1.0, 24, 25, 26, 27
+O, 20, \pi, 1.0, 28, 29, 30
+O, 21, b, 1.0, 31
+O, 22, x, 1.0, 32, 33
+O, 23, ), 1.0, 34
+O, 24, 2, 1.0, 35
+O, 25, -, 1.0, 36
+O, 26, 3, 1.0, 37
+O, 27, \sqrt, 1.0, 38
+O, 28, \gamma, 1.0, 39, 40
+O, 29, -, 1.0, 41
+O, 30, \theta, 1.0, 42
+O, 31, z, 1.0, 43
+O, 32, (, 1.0, 44
+O, 33, x, 1.0, 45
+O, 34, 1, 1.0, 46
+O, 35, -, 1.0, 47
+O, 36, \sqrt, 1.0, 48
+O, 37, \gamma, 1.0, 49, 50
+
+# Relations from SRT:
+EO, 5, 4, Above, 1.0
+EO, 5, 6, Below, 1.0
+EO, 8, 9, Sub, 1.0
+EO, 11, 12, Inside, 1.0
+EO, 10, 8, Above, 1.0
+EO, 10, 11, Below, 1.0
+EO, 15, 16, Inside, 1.0
+EO, 17, 18, Sub, 1.0
+EO, 10, 13, Right, 1.0
+EO, 13, 14, Right, 1.0
+EO, 14, 15, Right, 1.0
+EO, 15, 17, Right, 1.0
+EO, 7, 10, Right, 1.0
+EO, 10, 23, Right, 1.0
+EO, 7, 24, Sup, 1.0
+EO, 27, 28, Inside, 1.0
+EO, 26, 27, Right, 1.0
+EO, 29, 26, Above, 1.0
+EO, 29, 30, Below, 1.0
+EO, 33, 34, Sub, 1.0
+EO, 36, 37, Inside, 1.0
+EO, 35, 33, Above, 1.0
+EO, 35, 36, Below, 1.0
+EO, \sqrt_5f8bdd84-be1f-4dc6-877f-a89a58ecb436, \gamma_2c715696-4ed0-4046-b937-76ae5291a59a, Inside, 1.0
+EO, x_1e3f9695-c6a5-4d4b-bf36-c43583924693, 2_09363bde-7fab-4101-a32b-2b8b094f9027, Sub, 1.0
+EO, 35, +_953ea84f-5ffb-43b5-8655-fa7e0db69ac4, Right, 1.0
+EO, +_953ea84f-5ffb-43b5-8655-fa7e0db69ac4, i_cdcc3111-ddc9-4a79-a68f-d9c3ade771d0, Right, 1.0
+EO, i_cdcc3111-ddc9-4a79-a68f-d9c3ade771d0, \sqrt_5f8bdd84-be1f-4dc6-877f-a89a58ecb436, Right, 1.0
+EO, \sqrt_5f8bdd84-be1f-4dc6-877f-a89a58ecb436, x_1e3f9695-c6a5-4d4b-bf36-c43583924693, Right, 1.0
+EO, 32, 35, Right, 1.0
+EO, 35, )_918a3100-93ad-47c1-bb96-d931551c3eaa, Right, 1.0
+EO, 5, 7, Right, 1.0
+EO, 7, 25, Right, 1.0
+EO, 25, 29, Right, 1.0
+EO, 29, 31, Right, 1.0
+EO, 31, 32, Right, 1.0
+EO, 3, 5, Sup, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0

@@ -1,0 +1,44 @@
+# IUD, CROHME_18476
+# Objects(205):
+O, 0, \sum, 1.0, 0
+O, 1, i, 1.0, 1, 2
+O, 2, \lt, 1.0, 3
+O, 3, j, 1.0, 4
+O, 4, i, 1.0, 5, 6
+O, 5, j, 1.0, 7, 8
+O, 6, =, 1.0, 9, 10
+O, 7, 1, 1.0, 11
+O, 8, H, 1.0, 12, 13
+O, 9, (, 1.0, 14
+O, 10, w, 1.0, 15
+O, 11, j, 1.0, 16, 17
+O, 12, ), 1.0, 18
+O, 13, =, 1.0, 19, 20
+O, 14, j, 1.0, 21, 22
+O, 15, w, 1.0, 23
+O, 16, m, 1.0, 24
+O, 17, j, 1.0, 25, 26
+O, 18, n, 1.0, 27
+
+# Relations from SRT:
+EO, 18, =_c1706b3f-679d-4367-bec9-77e1f4c16e8d, Right, 1.0
+EO, =_c1706b3f-679d-4367-bec9-77e1f4c16e8d, 1_dd79d495-4326-4fbe-aa15-43dd95a5c463, Right, 1.0
+EO, 0, 18, Sup, 1.0
+EO, 0, N_1628e3b4-16f2-4986-a966-c78e8a8ecb69, Sub, 1.0
+EO, x_79946c6c-47ce-40e3-8aef-4829f1d01832, 2_e619f391-80c4-4839-b404-99092ca3c96d, Sup, 1.0
+EO, x_79946c6c-47ce-40e3-8aef-4829f1d01832, n_f439b5f6-add9-4a35-a8b8-4e4a32401efb, Right, 1.0
+EO, -_b7ecb501-be5c-4fa8-8885-103e8a77addd, 1_f85216dc-3b11-4491-8d47-daf58db41a70, Above, 1.0
+EO, -_b7ecb501-be5c-4fa8-8885-103e8a77addd, N_09573b5e-dfee-499d-9f2d-ad79261d456f, Below, 1.0
+EO, m_7ca7374d-ad07-4cf2-9fd6-b1db246fd2e3, =_ff237ef3-eeee-4c6c-a5b9-041b2fdacc2f, Right, 1.0
+EO, =_ff237ef3-eeee-4c6c-a5b9-041b2fdacc2f, 1_7829023b-0537-4786-8df8-fbb548c06ab9, Right, 1.0
+EO, \sum_63ba90aa-2203-4251-97b3-6a4f0384ee13, m_7ca7374d-ad07-4cf2-9fd6-b1db246fd2e3, Sup, 1.0
+EO, \sum_63ba90aa-2203-4251-97b3-6a4f0384ee13, N_d51908f6-1d20-4528-83ed-a227a1534a91, Sub, 1.0
+EO, X_f8d65af7-6f53-42a2-a70d-7d2a0d9a6fdc, m_2d466a3a-c2bc-4822-9073-4a810278fa96, Right, 1.0
+EO, |_86f19787-8a56-4667-abee-4567a71a169e, X_f8d65af7-6f53-42a2-a70d-7d2a0d9a6fdc, Right, 1.0
+EO, X_f8d65af7-6f53-42a2-a70d-7d2a0d9a6fdc, |_005d9a47-2673-4679-8d6c-8f0a3e3a29e4, Right, 1.0
+EO, |_86f19787-8a56-4667-abee-4567a71a169e, 2_dcfd41f5-1a95-4404-a5b3-93e8e69bb972, Sup, 1.0
+EO, 0, x_79946c6c-47ce-40e3-8aef-4829f1d01832, Right, 1.0
+EO, x_79946c6c-47ce-40e3-8aef-4829f1d01832, =_5bf8e49a-921f-4ec5-8496-d36af019195c, Right, 1.0
+EO, =_5bf8e49a-921f-4ec5-8496-d36af019195c, -_b7ecb501-be5c-4fa8-8885-103e8a77addd, Right, 1.0
+EO, -_b7ecb501-be5c-4fa8-8885-103e8a77addd, \sum_63ba90aa-2203-4251-97b3-6a4f0384ee13, Right, 1.0
+EO, \sum_63ba90aa-2203-4251-97b3-6a4f0384ee13, |_86f19787-8a56-4667-abee-4567a71a169e, Right, 1.0

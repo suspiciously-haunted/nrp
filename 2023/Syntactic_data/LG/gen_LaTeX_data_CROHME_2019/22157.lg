@@ -1,0 +1,43 @@
+# IUD, CROHME_22157
+# Objects(602):
+O, 0, P, 1.0, 0, 1
+O, 1, 0, 1.0, 2
+O, 2, =, 1.0, 3, 4
+O, 3, 1, 1.0, 5
+O, 4, (, 1.0, 6
+O, 5, G, 1.0, 7
+O, 6, ,, 1.0, 8
+O, 7, t, 1.0, 9, 10
+O, 8, n, 1.0, 11
+O, 9, ), 1.0, 12
+O, 10, =, 1.0, 13, 14
+O, 11, P, 1.0, 15
+O, 12, A, 1.0, 16, 17
+O, 13, i, 1.0, 18, 19
+O, 14, ,, 1.0, 20
+O, 15, j, 1.0, 21, 22
+O, 16, (, 1.0, 23
+O, 17, f, 1.0, 24, 25
+O, 18, B, 1.0, 26
+O, 19, (, 1.0, 27
+
+# Relations from SRT:
+EO, p_53226e6c-d999-45b3-b1d2-74374ae81378, 0_9b42a710-3d51-4d12-b891-3c746aaefa4b, Sub, 1.0
+EO, \gamma_b92dc6c1-6554-4415-8350-07da90c66f32, p_53226e6c-d999-45b3-b1d2-74374ae81378, Right, 1.0
+EO, 2_56c6b99b-c4ec-4a57-b1b8-b3957dd3c95d, c_fbef20f9-cad8-4b68-8449-e25c41033b08, Right, 1.0
+EO, -_9ec32a23-d53f-426b-83b8-ae08c77baef6, \gamma_b92dc6c1-6554-4415-8350-07da90c66f32, Above, 1.0
+EO, -_9ec32a23-d53f-426b-83b8-ae08c77baef6, 2_56c6b99b-c4ec-4a57-b1b8-b3957dd3c95d, Below, 1.0
+EO, A_5b2cff83-da4c-4692-9fe9-1e23d619326d, r_b1cd49a8-87af-4cb7-884b-6bbbb82a3410, Right, 1.0
+EO, v_461ba0f7-e769-4219-a9c2-de020a795732, A_5b2cff83-da4c-4692-9fe9-1e23d619326d, Sup, 1.0
+EO, v_461ba0f7-e769-4219-a9c2-de020a795732, 2_a913fac1-d864-4962-b59b-f2bed4a66aae, Sub, 1.0
+EO, A_4410e50b-50ad-41e2-b6bc-22d0c01f1911, l_d6b45c56-b4b7-4289-ae17-6daf8f9631f2, Right, 1.0
+EO, v_16be1623-2d16-455d-b15e-1dd9cb01d61c, A_4410e50b-50ad-41e2-b6bc-22d0c01f1911, Sup, 1.0
+EO, v_16be1623-2d16-455d-b15e-1dd9cb01d61c, 2_9762b4db-eaa7-4cf4-8aa3-db3e1d86b330, Sub, 1.0
+EO, 0, =_a448de49-3e73-4c8b-81ea-8148f572b727, Right, 1.0
+EO, =_a448de49-3e73-4c8b-81ea-8148f572b727, -_9ec32a23-d53f-426b-83b8-ae08c77baef6, Right, 1.0
+EO, -_9ec32a23-d53f-426b-83b8-ae08c77baef6, A_2f98c8dc-fbb9-4dda-9b74-4dff38adc9f2, Right, 1.0
+EO, A_2f98c8dc-fbb9-4dda-9b74-4dff38adc9f2, (_72448e6d-5417-44a1-a109-0e00200ea58b, Right, 1.0
+EO, (_72448e6d-5417-44a1-a109-0e00200ea58b, v_461ba0f7-e769-4219-a9c2-de020a795732, Right, 1.0
+EO, v_461ba0f7-e769-4219-a9c2-de020a795732, -_3a029b85-d311-4354-ada4-ce1052047a84, Right, 1.0
+EO, -_3a029b85-d311-4354-ada4-ce1052047a84, v_16be1623-2d16-455d-b15e-1dd9cb01d61c, Right, 1.0
+EO, v_16be1623-2d16-455d-b15e-1dd9cb01d61c, )_2a8d0a5e-44f5-407c-a1c5-3897b8e82cf7, Right, 1.0

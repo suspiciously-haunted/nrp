@@ -1,0 +1,15 @@
+# IUD, CROHME_1816
+# Objects(9):
+O, 0, \int, 1.0, 0
+O, 1, d, 1.0, 1
+O, 2, d, 1.0, 2
+O, 3, x, 1.0, 3, 4
+O, 4, d, 1.0, 5
+O, 5, y, 1.0, 6
+
+# Relations from SRT:
+EO, 0, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, \int_fd452f28-e828-4f73-ae49-290c2210303c, Right, 1.0
+EO, \int_fd452f28-e828-4f73-ae49-290c2210303c, d_cebb26ed-cbef-450c-b504-81ecae531e89, Right, 1.0
+EO, d_cebb26ed-cbef-450c-b504-81ecae531e89, x_603c1649-c615-45a9-8ceb-db8c1d1c0cff, Right, 1.0

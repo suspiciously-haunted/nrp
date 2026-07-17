@@ -1,0 +1,49 @@
+# IUD, CROHME_7627
+# Objects(60):
+O, 0, d, 1.0, 0
+O, 1, m, 1.0, 1
+O, 2, f, 1.0, 2, 3
+O, 3, u, 1.0, 4
+O, 4, e, 1.0, 5
+O, 5, l, 1.0, 6
+O, 6, 1, 1.0, 7
+O, 7, (, 1.0, 8
+O, 8, y, 1.0, 9
+O, 9, ), 1.0, 10
+O, 10, =, 1.0, 11, 12
+O, 11, c, 1.0, 13
+O, 12, 1, 1.0, 14
+O, 13, M, 1.0, 15
+O, 14, -, 1.0, 16
+O, 15, M, 1.0, 17, 18
+O, 16, -, 1.0, 19
+O, 17, y, 1.0, 20, 21
+O, 18, c, 1.0, 22
+O, 19, 2, 1.0, 23
+O, 20, 2, 1.0, 24
+O, 21, =, 1.0, 25
+
+# Relations from SRT:
+EO, 2, 3, Right, 1.0
+EO, 3, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 1, 2, Sub, 1.0
+EO, 18, 20, Sup, 1.0
+EO, m_e6ab3d85-ca45-4f33-a60f-42c2a8da5b70, e_6d27db1e-038f-4777-82b7-6c834fad62cb, Sub, 1.0
+EO, c_541df198-f7ad-40dd-b37a-64e7ebfcdf84, 2_ea8d94f4-48cc-4242-b772-0c491c78aba6, Sup, 1.0
+EO, d_4292499d-508c-4141-bef0-88019d656de8, m_e6ab3d85-ca45-4f33-a60f-42c2a8da5b70, Right, 1.0
+EO, m_e6ab3d85-ca45-4f33-a60f-42c2a8da5b70, c_541df198-f7ad-40dd-b37a-64e7ebfcdf84, Right, 1.0
+EO, v_a747f792-72a6-4948-83ae-6a2f6deaf137, e_f62598b5-0258-49c6-896a-316171e07774, Sup, 1.0
+EO, v_a747f792-72a6-4948-83ae-6a2f6deaf137, 2_76359c8f-5eb2-4efd-b20a-3e463dfaed7a, Sub, 1.0
+EO, c_71b78ff9-d139-4540-afb3-3f6998886d9a, 2_88bb6839-583d-455e-accc-adc55eef7c4d, Sup, 1.0
+EO, -_4946746a-b11c-431e-a598-666d7d7c9fd1, v_a747f792-72a6-4948-83ae-6a2f6deaf137, Above, 1.0
+EO, -_4946746a-b11c-431e-a598-666d7d7c9fd1, c_71b78ff9-d139-4540-afb3-3f6998886d9a, Below, 1.0
+EO, 1_270251b2-438d-42d6-8dc5-db2f9a54680f, -_d6354b01-c414-44d1-b36a-f0a6851befc6, Right, 1.0
+EO, -_d6354b01-c414-44d1-b36a-f0a6851befc6, -_4946746a-b11c-431e-a598-666d7d7c9fd1, Right, 1.0
+EO, \sqrt_b2ee1be2-698c-481a-9cf2-8c0cc47d2b05, 1_270251b2-438d-42d6-8dc5-db2f9a54680f, Inside, 1.0
+EO, -_cea807f8-2676-494a-b568-00f43a658230, d_4292499d-508c-4141-bef0-88019d656de8, Above, 1.0
+EO, -_cea807f8-2676-494a-b568-00f43a658230, \sqrt_b2ee1be2-698c-481a-9cf2-8c0cc47d2b05, Below, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 18, Right, 1.0
+EO, 18, 21, Right, 1.0
+EO, 21, -_cea807f8-2676-494a-b568-00f43a658230, Right, 1.0

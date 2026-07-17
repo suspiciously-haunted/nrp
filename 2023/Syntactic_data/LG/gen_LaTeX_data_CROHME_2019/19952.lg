@@ -1,0 +1,15 @@
+# IUD, CROHME_19952
+# Objects(128):
+O, 0, E, 1.0, 0, 1, 2, 3
+O, 1, R, 1.0, 4, 5
+O, 2, \alpha, 1.0, 6
+O, 3, ,, 1.0, 7
+O, 4, \beta, 1.0, 8
+O, 5, \gamma, 1.0, 9
+
+# Relations from SRT:
+EO, c_e7da822e-e082-4888-b338-bc0527cb2b94, 2_89e1af79-d2b2-4460-b896-ab57739ec67b, Sup, 1.0
+EO, 0, =_a43334ff-2362-4743-824a-1981fb65531b, Right, 1.0
+EO, =_a43334ff-2362-4743-824a-1981fb65531b, \gamma_b9a3ae3c-287a-466b-a628-fb9800b30653, Right, 1.0
+EO, \gamma_b9a3ae3c-287a-466b-a628-fb9800b30653, m_956e7581-1938-4549-ad25-fd3c28709975, Right, 1.0
+EO, m_956e7581-1938-4549-ad25-fd3c28709975, c_e7da822e-e082-4888-b338-bc0527cb2b94, Right, 1.0

@@ -1,0 +1,27 @@
+# IUD, CROHME_3534
+# Objects(18):
+O, 0, \int, 1.0, 0
+O, 1, w, 1.0, 1
+O, 2, (, 1.0, 2
+O, 3, x, 1.0, 3, 4
+O, 4, ), 1.0, 5
+O, 5, d, 1.0, 6
+O, 6, x, 1.0, 7, 8
+O, 7, F, 1.0, 9, 10
+O, 8, (, 1.0, 11
+O, 9, x, 1.0, 12, 13, 14
+O, 10, ,, 1.0, 15
+O, 11, y, 1.0, 16
+
+# Relations from SRT:
+EO, y_5eb4d1a5-e03e-4d90-8e0d-2d15b913dc0c, \prime_96d96eb2-a598-4fe4-9ec3-2b55c12e1252, Sup, 1.0
+EO, 7, 8, Right, 1.0
+EO, 8, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 10, 11, Right, 1.0
+EO, 11, ,_41888b8d-2975-4f99-b17d-a3cdda15b101, Right, 1.0
+EO, ,_41888b8d-2975-4f99-b17d-a3cdda15b101, y_5eb4d1a5-e03e-4d90-8e0d-2d15b913dc0c, Right, 1.0
+EO, y_5eb4d1a5-e03e-4d90-8e0d-2d15b913dc0c, )_73440f8d-a16e-46cb-a7d4-a59290b11acc, Right, 1.0
+EO, 0, 7, Right, 1.0
+EO, 7, d_8b8ac1d3-9b4c-40a8-8eee-3e197dfb3c4d, Right, 1.0
+EO, d_8b8ac1d3-9b4c-40a8-8eee-3e197dfb3c4d, x_5a656268-402e-43d3-b326-22f4ba78ccef, Right, 1.0

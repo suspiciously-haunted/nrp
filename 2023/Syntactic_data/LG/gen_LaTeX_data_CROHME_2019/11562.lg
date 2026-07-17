@@ -1,0 +1,50 @@
+# IUD, CROHME_11562
+# Objects(134):
+O, 0, V, 1.0, 0, 1
+O, 1, C, 1.0, 2
+O, 2, A, 1.0, 3, 4
+O, 3, P, 1.0, 5, 6
+O, 4, =, 1.0, 7, 8
+O, 5, \sqrt, 1.0, 9
+O, 6, C, 1.0, 10
+O, 7, \sin, 1.0, 11, 12, 13
+O, 8, \theta, 1.0, 14
+O, 9, \leq, 1.0, 15, 16
+O, 10, n, 1.0, 17
+O, 11, (, 1.0, 18
+O, 12, x, 1.0, 19, 20
+O, 13, ), 1.0, 21
+O, 14, \lt, 1.0, 22
+O, 15, V, 1.0, 23
+O, 16, C, 1.0, 24
+O, 17, (, 1.0, 25
+O, 18, y, 1.0, 26
+O, 19, ), 1.0, 27
+O, 20, (, 1.0, 28
+O, 21, \alpha, 1.0, 29
+O, 22, ), 1.0, 30
+O, 23, =, 1.0, 31
+
+# Relations from SRT:
+EO, V_48adc01f-d7ed-43f0-add1-4c1924037365, 0_ead9174b-9359-4b71-96db-d4ec348271f3, Sub, 1.0
+EO, 90_02f7e25e-ea8d-4c06-9be8-7aa4b7561882, 90_eb64d098-2231-4288-b081-1dc75782b2f9, Right, 1.0
+EO, V_ff2e8b9b-a8f9-4588-9e76-71d83023c8d0, 90_02f7e25e-ea8d-4c06-9be8-7aa4b7561882, Sub, 1.0
+EO, V_48adc01f-d7ed-43f0-add1-4c1924037365, V_ff2e8b9b-a8f9-4588-9e76-71d83023c8d0, Right, 1.0
+EO, V_4f923fcf-d838-4f14-9d33-bb29f67c7afc, 0_a711969f-623b-4212-973e-8ff4f88e25a3, Sub, 1.0
+EO, \sin_10383176-f9f6-4e9f-9ca8-8a3aea1e6db0, 2_2cb3aa18-1e1b-4a8c-aaa5-57c182d127e8, Sup, 1.0
+EO, 90_d3ae8206-c8c2-4418-9b21-7507875201c3, 90_9ab1d241-c705-427c-a706-b5158d651c90, Right, 1.0
+EO, V_0a48d222-8cdc-4ffa-93f3-f26c7289d209, 90_d3ae8206-c8c2-4418-9b21-7507875201c3, Sub, 1.0
+EO, \cos_5961ba56-8562-405b-bf41-57cf0ecbfc76, 2_95c55212-0140-48d8-b1e1-e09d8041bbdb, Sup, 1.0
+EO, V_4f923fcf-d838-4f14-9d33-bb29f67c7afc, \sin_10383176-f9f6-4e9f-9ca8-8a3aea1e6db0, Right, 1.0
+EO, \sin_10383176-f9f6-4e9f-9ca8-8a3aea1e6db0, \alpha_a2265fb2-a47d-473e-962e-f3bed3c0239c, Right, 1.0
+EO, \alpha_a2265fb2-a47d-473e-962e-f3bed3c0239c, +_5d305b19-09b3-46c9-843b-f2caeb5f4a9b, Right, 1.0
+EO, +_5d305b19-09b3-46c9-843b-f2caeb5f4a9b, V_0a48d222-8cdc-4ffa-93f3-f26c7289d209, Right, 1.0
+EO, V_0a48d222-8cdc-4ffa-93f3-f26c7289d209, \cos_5961ba56-8562-405b-bf41-57cf0ecbfc76, Right, 1.0
+EO, \cos_5961ba56-8562-405b-bf41-57cf0ecbfc76, \alpha_22d396a0-48cf-4723-9c32-ebf2c6344454, Right, 1.0
+EO, -_5ea25f02-f768-41c0-80df-ae7499c7005e, V_48adc01f-d7ed-43f0-add1-4c1924037365, Above, 1.0
+EO, -_5ea25f02-f768-41c0-80df-ae7499c7005e, V_4f923fcf-d838-4f14-9d33-bb29f67c7afc, Below, 1.0
+EO, 0, 20, Right, 1.0
+EO, 20, 21, Right, 1.0
+EO, 21, 22, Right, 1.0
+EO, 22, 23, Right, 1.0
+EO, 23, -_5ea25f02-f768-41c0-80df-ae7499c7005e, Right, 1.0

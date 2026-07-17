@@ -1,0 +1,44 @@
+# IUD, CROHME_32562
+# Objects(8167):
+O, 0, \Delta, 1.0, 0
+O, 1, (, 1.0, 1
+O, 2, f, 1.0, 2, 3
+O, 3, g, 1.0, 4
+O, 4, (, 1.0, 5
+O, 5, x, 1.0, 6, 7
+O, 6, ), 1.0, 8
+O, 7, =, 1.0, 9, 10, 11
+O, 8, x, 1.0, 12, 13
+O, 9, 8, 1.0, 14
+O, 10, +, 1.0, 15, 16
+O, 11, x, 1.0, 17, 18
+O, 12, 7, 1.0, 19, 20
+O, 13, +, 1.0, 21, 22
+O, 14, x, 1.0, 23, 24
+O, 15, 6, 1.0, 25
+O, 16, +, 1.0, 26, 27
+O, 17, x, 1.0, 28, 29
+O, 18, 5, 1.0, 30
+O, 19, +, 1.0, 31
+
+# Relations from SRT:
+EO, x_ab54eb82-b8ad-4b51-90cd-ae791a3e8865, 2_eae809ee-9688-4653-9ca4-f5c11692afda, Sup, 1.0
+EO, y_e4a522e0-600c-4ac6-b38b-1e885dc9c8a3, 2_fdf7e51a-fe4d-4b98-a4b6-a05b4b4a4cfe, Sup, 1.0
+EO, z_a5a58d75-2608-422a-a2c8-2f795769f5b4, 2_79e3236f-345e-4546-8f98-9ff7dd0fd2a1, Sup, 1.0
+EO, c_d32d6231-c2c1-487e-a013-4eb4b0908e88, 2_4afba094-ae7c-4f03-99ae-c6ef856adf11, Sup, 1.0
+EO, t_b3bce479-f09e-4f16-bbfc-3b5a7a06e635, 2_e088b161-abd8-4aff-9dd0-62a27d6f0719, Sup, 1.0
+EO, \Delta_cdb1a9c6-60bc-45f5-8ae0-06aea23217f5, x_ab54eb82-b8ad-4b51-90cd-ae791a3e8865, Right, 1.0
+EO, x_ab54eb82-b8ad-4b51-90cd-ae791a3e8865, +_08cef6ed-60aa-4f29-9c77-2b77520b3d94, Right, 1.0
+EO, +_08cef6ed-60aa-4f29-9c77-2b77520b3d94, \Delta_01c990a2-036b-4330-b6b3-2b22fb5e0e42, Right, 1.0
+EO, \Delta_01c990a2-036b-4330-b6b3-2b22fb5e0e42, y_e4a522e0-600c-4ac6-b38b-1e885dc9c8a3, Right, 1.0
+EO, y_e4a522e0-600c-4ac6-b38b-1e885dc9c8a3, +_ac2103f6-e9b0-4e4d-ad56-099a354da9d4, Right, 1.0
+EO, +_ac2103f6-e9b0-4e4d-ad56-099a354da9d4, \Delta_b3ae0353-46f2-4e03-90ec-6dd934ac4218, Right, 1.0
+EO, \Delta_b3ae0353-46f2-4e03-90ec-6dd934ac4218, z_a5a58d75-2608-422a-a2c8-2f795769f5b4, Right, 1.0
+EO, z_a5a58d75-2608-422a-a2c8-2f795769f5b4, -_d02c312f-d498-48ad-b442-1a4c725d96d9, Right, 1.0
+EO, -_d02c312f-d498-48ad-b442-1a4c725d96d9, c_d32d6231-c2c1-487e-a013-4eb4b0908e88, Right, 1.0
+EO, c_d32d6231-c2c1-487e-a013-4eb4b0908e88, \Delta_46e9023a-ccde-4713-b8f5-778231e73d79, Right, 1.0
+EO, \Delta_46e9023a-ccde-4713-b8f5-778231e73d79, t_b3bce479-f09e-4f16-bbfc-3b5a7a06e635, Right, 1.0
+EO, \sqrt_f2f30387-07d9-4b1a-9b58-80caba4ccb61, \Delta_cdb1a9c6-60bc-45f5-8ae0-06aea23217f5, Inside, 1.0
+EO, 0, \sigma_139b1e72-c700-46f5-938c-dd4e31bf5951, Right, 1.0
+EO, \sigma_139b1e72-c700-46f5-938c-dd4e31bf5951, =_5f9298f8-6e62-4a3b-905d-c257c081d7d0, Right, 1.0
+EO, =_5f9298f8-6e62-4a3b-905d-c257c081d7d0, \sqrt_f2f30387-07d9-4b1a-9b58-80caba4ccb61, Right, 1.0

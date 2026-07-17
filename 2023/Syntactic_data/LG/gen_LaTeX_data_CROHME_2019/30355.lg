@@ -1,0 +1,40 @@
+# IUD, CROHME_30355
+# Objects(2750):
+O, 0, h, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, N, 1.0, 2
+O, 3, (, 1.0, 3
+O, 4, T, 1.0, 4, 5
+O, 5, +, 1.0, 6, 7
+O, 6, H, 1.0, 8, 9, 10, 11
+O, 7, ), 1.0, 12
+O, 8, -, 1.0, 13
+O, 9, N, 1.0, 14
+O, 10, (, 1.0, 15
+O, 11, T, 1.0, 16, 17
+O, 12, ), 1.0, 18
+O, 13, \geq, 1.0, 19, 20
+O, 14, c, 1.0, 21
+O, 15, H, 1.0, 22, 23
+O, 16, \log, 1.0, 24
+O, 17, T, 1.0, 25, 26
+
+# Relations from SRT:
+EO, -_290ac36c-77fe-4e7c-9a66-8ec31b0178a2, 1_01fbef09-adfa-40ef-84ed-50973805fa03, Above, 1.0
+EO, -_290ac36c-77fe-4e7c-9a66-8ec31b0178a2, 2_5d1283db-31ee-4e85-8daa-5a098e88b523, Below, 1.0
+EO, 0, (_cf5fdf3b-cd26-4eb9-9247-47bb49d80572, Right, 1.0
+EO, (_cf5fdf3b-cd26-4eb9-9247-47bb49d80572, Y_80355f7d-b52d-41a7-91c7-7f9a120a8933, Right, 1.0
+EO, Y_80355f7d-b52d-41a7-91c7-7f9a120a8933, )_c87271e3-91e7-46a3-87a1-f64de7f032a1, Right, 1.0
+EO, )_c87271e3-91e7-46a3-87a1-f64de7f032a1, \leq_ff2029e6-bb55-4dee-8d2c-55237dd1d60e, Right, 1.0
+EO, \leq_ff2029e6-bb55-4dee-8d2c-55237dd1d60e, -_290ac36c-77fe-4e7c-9a66-8ec31b0178a2, Right, 1.0
+EO, -_290ac36c-77fe-4e7c-9a66-8ec31b0178a2, \log_73197c1d-b9f1-4dab-9fba-8486eb09d402, Right, 1.0
+EO, \log_73197c1d-b9f1-4dab-9fba-8486eb09d402, (_8676a1a1-156a-4190-a52a-66908694c10b, Right, 1.0
+EO, (_8676a1a1-156a-4190-a52a-66908694c10b, 2_976dfd6d-62dd-4d1f-b2d9-07dfd18f1fda, Right, 1.0
+EO, 2_976dfd6d-62dd-4d1f-b2d9-07dfd18f1fda, \pi_fa4934eb-3568-4c49-adf3-b9c1b63a9930, Right, 1.0
+EO, \pi_fa4934eb-3568-4c49-adf3-b9c1b63a9930, e_1985be2a-f1f0-458a-9de6-51a5ce051688, Right, 1.0
+EO, e_1985be2a-f1f0-458a-9de6-51a5ce051688, (_674b4f85-ed72-4431-8bf3-f8f5973eb16e, Right, 1.0
+EO, (_674b4f85-ed72-4431-8bf3-f8f5973eb16e, P_c3af114d-18ca-4cec-8eb1-f4256eb20c84, Right, 1.0
+EO, P_c3af114d-18ca-4cec-8eb1-f4256eb20c84, +_c1135d5a-2f94-4266-982c-14c6de78f781, Right, 1.0
+EO, +_c1135d5a-2f94-4266-982c-14c6de78f781, N_2af1f4f1-aa1b-44f1-8dc5-ea8eeba110da, Right, 1.0
+EO, N_2af1f4f1-aa1b-44f1-8dc5-ea8eeba110da, )_26358105-7d31-49a1-ae87-0d64c603a69a, Right, 1.0
+EO, )_26358105-7d31-49a1-ae87-0d64c603a69a, )_fcdf2948-8ce2-49a7-ae8f-dce78ffd6fc7, Right, 1.0

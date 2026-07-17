@@ -1,0 +1,45 @@
+# IUD, CROHME_42315
+# Objects(8018):
+O, 0, \sum, 1.0, 0, 1
+O, 1, q, 1.0, 2
+O, 2, =, 1.0, 3, 4
+O, 3, 1, 1.0, 5
+O, 4, \infty, 1.0, 6
+O, 5, j, 1.0, 7, 8
+O, 6, =, 1.0, 9, 10
+O, 7, 1, 1.0, 11
+O, 8, m, 1.0, 12
+O, 9, a, 1.0, 13
+O, 10, 0, 1.0, 14
+O, 11, i, 1.0, 15, 16
+O, 12, j, 1.0, 17, 18
+O, 13, -, 1.0, 19
+O, 14, 1, 1.0, 20
+O, 15, 2, 1.0, 21
+O, 16, 6, 1.0, 22
+O, 17, i, 1.0, 23, 24
+O, 18, H, 1.0, 25
+O, 19, 0, 1.0, 26
+O, 20, (, 1.0, 27
+O, 21, i, 1.0, 28
+
+# Relations from SRT:
+EO, 17, =_e2b9143d-f006-4534-b66a-55980ca0f20a, Right, 1.0
+EO, =_e2b9143d-f006-4534-b66a-55980ca0f20a, 1_90a0aa13-455d-45e9-a103-68a5a247edac, Right, 1.0
+EO, 0, 17, Sup, 1.0
+EO, 0, n_deeda1d1-453d-4247-943a-f2a629509780, Sub, 1.0
+EO, h_85631ad0-1ffc-4b03-b1fe-36b7ec0dcfb0, =_187be8a8-f199-4654-bbcb-efa5eb1f0b33, Right, 1.0
+EO, =_187be8a8-f199-4654-bbcb-efa5eb1f0b33, 1_2ee49bbe-b86b-4b9e-9582-d30620812034, Right, 1.0
+EO, \sum_9ac0b686-4ec6-45d3-81db-faf33af559a5, h_85631ad0-1ffc-4b03-b1fe-36b7ec0dcfb0, Sup, 1.0
+EO, \sum_9ac0b686-4ec6-45d3-81db-faf33af559a5, m_378208bf-41fc-4417-9199-d0a04f7a11d5, Sub, 1.0
+EO, i_8aa68095-4d31-4d19-aff1-f61334b61ff3, h_2a01048a-510f-4b9e-ace7-6a7577fab9e2, Right, 1.0
+EO, s_5c8b7bf0-6be0-43c1-b61d-cdf535af21c5, i_8aa68095-4d31-4d19-aff1-f61334b61ff3, Sub, 1.0
+EO, i_fc97588e-766e-455f-b496-9e62500d65f7, h_51e5e133-ed48-40fd-9fef-8608e88c0863, Right, 1.0
+EO, x_858b4dd7-f3d8-4edb-8add-d9a952cc7f57, i_fc97588e-766e-455f-b496-9e62500d65f7, Sup, 1.0
+EO, x_858b4dd7-f3d8-4edb-8add-d9a952cc7f57, k_91269f87-9ee0-428a-918b-ee99a382bcf5, Sub, 1.0
+EO, s_5c8b7bf0-6be0-43c1-b61d-cdf535af21c5, x_858b4dd7-f3d8-4edb-8add-d9a952cc7f57, Right, 1.0
+EO, \sum_9ac0b686-4ec6-45d3-81db-faf33af559a5, s_5c8b7bf0-6be0-43c1-b61d-cdf535af21c5, Right, 1.0
+EO, 18, k_b75fb1c7-3549-464b-b6e2-23b44ea74e3f, Sup, 1.0
+EO, 0, \sum_9ac0b686-4ec6-45d3-81db-faf33af559a5, Right, 1.0
+EO, \sum_9ac0b686-4ec6-45d3-81db-faf33af559a5, \leq_1d697cf0-01e0-4802-80db-bd99880dafc1, Right, 1.0
+EO, \leq_1d697cf0-01e0-4802-80db-bd99880dafc1, 18, Right, 1.0

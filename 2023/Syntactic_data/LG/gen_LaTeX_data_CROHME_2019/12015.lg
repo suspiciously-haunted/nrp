@@ -1,0 +1,53 @@
+# IUD, CROHME_12015
+# Objects(90):
+O, 0, L, 1.0, 0
+O, 1, 1, 1.0, 1
+O, 2, 3, 1.0, 2
+O, 3, =, 1.0, 3, 4
+O, 4, 1, 1.0, 5, 6
+O, 5, m, 1.0, 7
+O, 6, (, 1.0, 8
+O, 7, \phi, 1.0, 9, 10
+O, 8, x, 1.0, 11, 12
+O, 9, ), 1.0, 13
+O, 10, x, 1.0, 14, 15
+O, 11, i, 1.0, 16, 17
+O, 12, ), 1.0, 18
+O, 13, =, 1.0, 19, 20
+O, 14, \sum, 1.0, 21, 22, 23
+O, 15, k, 1.0, 24
+O, 16, \geq, 1.0, 25, 26
+O, 17, 1, 1.0, 27
+O, 18, =, 1.0, 28, 29
+O, 19, -, 1.0, 30
+O, 20, \infty, 1.0, 31
+O, 21, \infty, 1.0, 32
+O, 22, c, 1.0, 33
+
+# Relations from SRT:
+EO, 0, 5, Sub, 1.0
+EO, 15, 18, Right, 1.0
+EO, 18, 19, Right, 1.0
+EO, 19, 20, Right, 1.0
+EO, 14, 15, Sup, 1.0
+EO, 14, 21, Sub, 1.0
+EO, m_57eda3e9-092c-4307-a877-d008a4910dd6, ,_9d45421c-8f6e-416e-9778-13465293b76d, Right, 1.0
+EO, ,_9d45421c-8f6e-416e-9778-13465293b76d, k_fd45988f-c744-4f04-9cdf-ec9a356aa8b5, Right, 1.0
+EO, 22, m_57eda3e9-092c-4307-a877-d008a4910dd6, Sub, 1.0
+EO, N_42f7c3b6-077f-4e57-967d-cc6904be631a, m_3c4c6328-e4bf-4063-9491-4d478d738129, Sub, 1.0
+EO, -_847b1dc7-fc9d-4535-b492-f01fb77549db, m_5e5f835a-52fc-4bea-a470-15410da82748, Above, 1.0
+EO, -_847b1dc7-fc9d-4535-b492-f01fb77549db, 2_e758de93-014d-4698-9d22-e21c8eca7b03, Below, 1.0
+EO, x_bac89603-3eb0-48db-a9ff-6a38153c72ce, +_dd5ea404-38aa-4b04-8152-52b18461818d, Right, 1.0
+EO, +_dd5ea404-38aa-4b04-8152-52b18461818d, -_847b1dc7-fc9d-4535-b492-f01fb77549db, Right, 1.0
+EO, -_847b1dc7-fc9d-4535-b492-f01fb77549db, -_fe25a343-10d2-48d0-a1fc-6af4a8e2c83c, Right, 1.0
+EO, -_fe25a343-10d2-48d0-a1fc-6af4a8e2c83c, k_cb3983be-38b5-47cb-bff2-f2f67d74784b, Right, 1.0
+EO, (_c52d1fc6-75ad-4036-8942-0e98dfb1ec26, x_bac89603-3eb0-48db-a9ff-6a38153c72ce, Right, 1.0
+EO, x_bac89603-3eb0-48db-a9ff-6a38153c72ce, )_3c3f1baf-219f-435a-8302-d55454fa78ce, Right, 1.0
+EO, 0, 6, Right, 1.0
+EO, 6, 10, Right, 1.0
+EO, 10, 12, Right, 1.0
+EO, 12, 13, Right, 1.0
+EO, 13, 14, Right, 1.0
+EO, 14, 22, Right, 1.0
+EO, 22, N_42f7c3b6-077f-4e57-967d-cc6904be631a, Right, 1.0
+EO, N_42f7c3b6-077f-4e57-967d-cc6904be631a, (_c52d1fc6-75ad-4036-8942-0e98dfb1ec26, Right, 1.0

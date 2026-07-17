@@ -1,0 +1,41 @@
+# IUD, CROHME_13045
+# Objects(198):
+O, 0, R, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, =, 1.0, 2, 3
+O, 3, 1, 1.0, 4
+O, 4, -, 1.0, 5
+O, 5, 2, 1.0, 6
+O, 6, V, 1.0, 7
+O, 7, =, 1.0, 8, 9
+O, 8, I, 1.0, 10, 11, 12
+O, 9, -, 1.0, 13
+O, 10, 2, 1.0, 14
+O, 11, f, 1.0, 15, 16
+O, 12, v, 1.0, 17
+O, 13, C, 1.0, 18
+O, 14, N, 1.0, 19, 20
+O, 15, \div, 1.0, 21, 22, 23
+O, 16, 1, 1.0, 24
+O, 17, /, 1.0, 25
+
+# Relations from SRT:
+EO, 25_388f2c34-6f1d-465c-839a-8768561d713f, 25_05bbd138-c2b7-4d64-aa61-168915e4e7dd, Right, 1.0
+EO, 0, 25_388f2c34-6f1d-465c-839a-8768561d713f, Sub, 1.0
+EO, 25_45981a6e-347d-40d3-93f4-b9b2afc2757d, 25_1fa89d98-a621-4f3d-a10f-7828dbfdf828, Right, 1.0
+EO, c_585b1cbe-2fc7-4059-920c-13d0a305b2f9, a_d969e316-944d-4e8c-86e0-f7d356a4a684, Right, 1.0
+EO, a_d969e316-944d-4e8c-86e0-f7d356a4a684, l_6ca59d46-58f7-4d8d-8958-95225c2c9fa9, Right, 1.0
+EO, l_6ca59d46-58f7-4d8d-8958-95225c2c9fa9, l_f79dd355-4884-4c40-8c0b-f45dc9c036dc, Right, 1.0
+EO, l_f79dd355-4884-4c40-8c0b-f45dc9c036dc, ,_e25d0eac-81cf-45d0-84b2-5175da4e0fbb, Right, 1.0
+EO, ,_e25d0eac-81cf-45d0-84b2-5175da4e0fbb, 25_45981a6e-347d-40d3-93f4-b9b2afc2757d, Right, 1.0
+EO, \sigma_0c20f818-5186-48e9-b704-3e7d13b943f1, c_585b1cbe-2fc7-4059-920c-13d0a305b2f9, Sub, 1.0
+EO, 25_c1c9e6d8-5a43-4cd9-8a17-e096c26dd43f, 25_5a98388e-70c3-48fd-bada-1d771275b980, Right, 1.0
+EO, p_e6219989-aec3-4983-971e-6538cc5bc9c4, u_b8c10e1c-865e-4aba-9887-5f7e329d080b, Right, 1.0
+EO, u_b8c10e1c-865e-4aba-9887-5f7e329d080b, t_33843f10-80ea-4a5f-b449-073e64e04f85, Right, 1.0
+EO, t_33843f10-80ea-4a5f-b449-073e64e04f85, ,_93c26bc5-e9f0-4965-823e-62848c9752cf, Right, 1.0
+EO, ,_93c26bc5-e9f0-4965-823e-62848c9752cf, 25_c1c9e6d8-5a43-4cd9-8a17-e096c26dd43f, Right, 1.0
+EO, \sigma_935c0b46-b6fe-4fcc-91a3-a7483e6ab2a1, p_e6219989-aec3-4983-971e-6538cc5bc9c4, Sub, 1.0
+EO, 0, =_736b1b01-8f7d-4c10-b5a5-579aea2ce89d, Right, 1.0
+EO, =_736b1b01-8f7d-4c10-b5a5-579aea2ce89d, \sigma_0c20f818-5186-48e9-b704-3e7d13b943f1, Right, 1.0
+EO, \sigma_0c20f818-5186-48e9-b704-3e7d13b943f1, -_840bbf5a-b80e-4649-ade7-d044eb548cf9, Right, 1.0
+EO, -_840bbf5a-b80e-4649-ade7-d044eb548cf9, \sigma_935c0b46-b6fe-4fcc-91a3-a7483e6ab2a1, Right, 1.0

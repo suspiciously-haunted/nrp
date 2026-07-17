@@ -1,0 +1,27 @@
+# IUD, CROHME_29654
+# Objects(26):
+O, 0, \sum, 1.0, 0
+O, 1, i, 1.0, 1, 2
+O, 2, j, 1.0, 3, 4
+O, 3, =, 1.0, 5, 6
+O, 4, 1, 1.0, 7
+O, 5, 0, 1.0, 8
+O, 6, 7, 1.0, 9, 10
+O, 7, \times, 1.0, 11, 12
+O, 8, 2, 1.0, 13
+O, 9, 1, 1.0, 14
+O, 10, 2, 1.0, 15
+O, 11, 2, 1.0, 16
+O, 12, n, 1.0, 17
+
+# Relations from SRT:
+EO, 1, 3, Right, 1.0
+EO, 3, 4, Right, 1.0
+EO, 0, 1, Sup, 1.0
+EO, 0, 12, Sub, 1.0
+EO, w_2c826329-a348-4b86-b05a-a07a6723aa7b, i_eb8cccdf-b88d-4dc2-8e76-e24d4f901645, Sub, 1.0
+EO, x_8aac708c-1ada-45a1-9da9-571e491aea59, i_c0e66b6a-4ba1-4450-ad4a-992a7f54a86d, Sub, 1.0
+EO, 0, w_2c826329-a348-4b86-b05a-a07a6723aa7b, Right, 1.0
+EO, w_2c826329-a348-4b86-b05a-a07a6723aa7b, x_8aac708c-1ada-45a1-9da9-571e491aea59, Right, 1.0
+EO, x_8aac708c-1ada-45a1-9da9-571e491aea59, \lt_85436596-67ec-4594-8463-822aa6a4cdc6, Right, 1.0
+EO, \lt_85436596-67ec-4594-8463-822aa6a4cdc6, k_c10d22a6-b6b6-4c6e-84e3-d1a202a983d6, Right, 1.0

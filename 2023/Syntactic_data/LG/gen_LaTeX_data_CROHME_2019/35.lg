@@ -1,0 +1,19 @@
+# IUD, CROHME_35
+# Objects(8):
+O, 0, I, 1.0, 0, 1, 2
+O, 1, =, 1.0, 3, 4
+O, 2, M, 1.0, 5, 6
+O, 3, L, 1.0, 7, 8
+O, 4, 2, 1.0, 9
+O, 5, -, 1.0, 10
+O, 6, 1, 1.0, 11
+O, 7, 2, 1.0, 12
+
+# Relations from SRT:
+EO, 3, 4, Sup, 1.0
+EO, 2, 3, Right, 1.0
+EO, 6, 7, Right, 1.0
+EO, 5, 2, Above, 1.0
+EO, 5, 6, Below, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 5, Right, 1.0

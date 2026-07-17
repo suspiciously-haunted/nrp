@@ -1,0 +1,47 @@
+# IUD, CROHME_26229
+# Objects(740):
+O, 0, \mu, 1.0, 0, 1
+O, 1, \geq, 1.0, 2, 3
+O, 2, 0, 1.0, 4
+O, 3, -, 1.0, 5
+O, 4, \sigma, 1.0, 6
+O, 5, i, 1.0, 7, 8
+O, 6, =, 1.0, 9, 10
+O, 7, \sigma, 1.0, 11
+O, 8, 0, 1.0, 12
+O, 9, 2, 1.0, 13
+O, 10, 2, 1.0, 14
+O, 11, 1, 1.0, 15
+O, 12, \prime, 1.0, 16
+O, 13, (, 1.0, 17
+O, 14, k, 1.0, 18, 19
+O, 15, t, 1.0, 20, 21
+O, 16, -, 1.0, 22
+O, 17, m, 1.0, 23
+O, 18, ), 1.0, 24
+O, 19, =, 1.0, 25, 26
+O, 20, \sigma, 1.0, 27
+O, 21, (, 1.0, 28
+
+# Relations from SRT:
+EO, 1_a82880b1-7b0c-4b09-8df6-1d1093e979e6, -_1d9724de-c417-456b-9c8a-da9c92b1d6d4, Right, 1.0
+EO, -_1d9724de-c417-456b-9c8a-da9c92b1d6d4, q_ad96a3b4-b2d9-424c-8a5d-f7d2234a8321, Right, 1.0
+EO, -_635dfdc4-cb65-4249-bf5e-fa70a8b75a92, 1_a82880b1-7b0c-4b09-8df6-1d1093e979e6, Above, 1.0
+EO, -_635dfdc4-cb65-4249-bf5e-fa70a8b75a92, q_6e6246ca-4b84-43ab-8314-11bd8715c568, Below, 1.0
+EO, \sqrt_2cca9397-aa92-47d8-a65a-c97c3d70b07a, -_635dfdc4-cb65-4249-bf5e-fa70a8b75a92, Inside, 1.0
+EO, x_b2d8534f-13e5-4c84-950f-6f3c07780893, q_02b7e8cc-3fc7-402c-81d4-5d27ea2ff635, Sub, 1.0
+EO, 1_2ceff420-f6c7-4def-a203-cef32ec1b356, -_c20cc24d-b02b-4907-9000-9ace176c890a, Right, 1.0
+EO, -_c20cc24d-b02b-4907-9000-9ace176c890a, q_bbeed08a-5c85-4cd5-aac2-995037fa1732, Right, 1.0
+EO, -_93e183fa-fa2b-4cdb-b313-f2a86260478e, q_942d6b48-9a1f-496b-a913-50c632a7e075, Above, 1.0
+EO, -_93e183fa-fa2b-4cdb-b313-f2a86260478e, 1_2ceff420-f6c7-4def-a203-cef32ec1b356, Below, 1.0
+EO, \sqrt_efc6c0dc-3dc6-4c44-94c9-5035124dbfd0, -_93e183fa-fa2b-4cdb-b313-f2a86260478e, Inside, 1.0
+EO, 0, 3, Right, 1.0
+EO, 3, 4, Right, 1.0
+EO, 4, \sqrt_2cca9397-aa92-47d8-a65a-c97c3d70b07a, Right, 1.0
+EO, \sqrt_2cca9397-aa92-47d8-a65a-c97c3d70b07a, \leq_1b2a3cce-6a50-4ce8-b274-3364ad325ef5, Right, 1.0
+EO, \leq_1b2a3cce-6a50-4ce8-b274-3364ad325ef5, x_b2d8534f-13e5-4c84-950f-6f3c07780893, Right, 1.0
+EO, x_b2d8534f-13e5-4c84-950f-6f3c07780893, \leq_a36fc367-188e-4f23-976f-3e2766bb9158, Right, 1.0
+EO, \leq_a36fc367-188e-4f23-976f-3e2766bb9158, \mu_3ec4ec2e-be88-4b46-b872-27f9b3a29d9e, Right, 1.0
+EO, \mu_3ec4ec2e-be88-4b46-b872-27f9b3a29d9e, +_a9c8b482-a52e-401d-a61e-6c957cf67cb8, Right, 1.0
+EO, +_a9c8b482-a52e-401d-a61e-6c957cf67cb8, \sigma_4c3ec7a1-1a9f-4d56-8d48-43c6e28a96a9, Right, 1.0
+EO, \sigma_4c3ec7a1-1a9f-4d56-8d48-43c6e28a96a9, \sqrt_efc6c0dc-3dc6-4c44-94c9-5035124dbfd0, Right, 1.0

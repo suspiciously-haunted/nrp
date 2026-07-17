@@ -1,0 +1,83 @@
+# IUD, CROHME_43043
+# Objects(4051):
+O, 0, (, 1.0, 0
+O, 1, i, 1.0, 1, 2
+O, 2, n, 1.0, 3
+O, 3, ,, 1.0, 4
+O, 4, n, 1.0, 5
+O, 5, ), 1.0, 6
+O, 6, x, 1.0, 7, 8
+O, 7, ,, 1.0, 9
+O, 8, y, 1.0, 10
+O, 9, ), 1.0, 11
+O, 10, =, 1.0, 12, 13
+O, 11, (, 1.0, 14
+O, 12, x, 1.0, 15, 16
+O, 13, -, 1.0, 17
+O, 14, \sqrt, 1.0, 18
+O, 15, x, 1.0, 19, 20
+O, 16, 2, 1.0, 21
+O, 17, 0, 1.0, 22
+O, 18, +, 1.0, 23, 24
+O, 19, y, 1.0, 25
+O, 20, \prime, 1.0, 26
+O, 21, =, 1.0, 27, 28
+O, 22, x, 1.0, 29, 30
+O, 23, \sin, 1.0, 31, 32, 33, 34
+O, 24, \theta, 1.0, 35, 36
+O, 25, +, 1.0, 37, 38
+O, 26, y, 1.0, 39
+O, 27, \cos, 1.0, 40, 41
+O, 28, \theta, 1.0, 42
+O, 29, 2, 1.0, 43
+O, 30, f, 1.0, 44, 45
+O, 31, (, 1.0, 46
+O, 32, n, 1.0, 47
+O, 33, ), 1.0, 48
+O, 34, \geq, 1.0, 49, 50
+O, 35, n, 1.0, 51
+O, 36, !, 1.0, 52
+
+# Relations from SRT:
+EO, 12, 0_053d7314-f7db-45ab-8843-04b9d9f04379, Sub, 1.0
+EO, y_23526eab-3f01-456d-b197-27c2ef07fe23, 0_c8baa2d7-1206-4738-93dd-e3af7443c947, Sub, 1.0
+EO, x_457d525c-dfdb-47a2-921b-2a8341a59d12, 1_ebfc3b5a-94cf-427c-a11b-73ddde004e5e, Sub, 1.0
+EO, x_132d5030-f952-4823-b108-f1a265d9bacf, 0_301c3e1d-9113-45bc-84f9-9ab06cb2dee4, Sub, 1.0
+EO, y_65c28645-beef-47ae-8027-354522dd6426, 1_8e0a8b02-0967-4b94-9b52-83d9c7b06c71, Sub, 1.0
+EO, 1, 0_deb8b4a9-d6b5-4974-949a-c3e2aa05ed0b, Sub, 1.0
+EO, x_fa36ad52-2b7e-4e2c-8563-6ed00ac086f2, 2_5ff138cc-eb19-4931-9488-d6152886a2d5, Sub, 1.0
+EO, x_1a9a52bf-a099-4b27-ba9d-6bf3e981e710, 0_1de4a162-66c4-4772-905d-dc400e7c8923, Sub, 1.0
+EO, y_912a9af3-adb4-4c8d-a017-ba1dc45f1b1a, 2_693cf76c-cc94-4caf-8db9-10567adf38d1, Sub, 1.0
+EO, y_a09c9f38-2d0d-42ce-b802-be27fcf4ae94, 0_a10ba695-38aa-4d3e-9cbb-45abe599c87e, Sub, 1.0
+EO, 0, 6, Right, 1.0
+EO, 6, 7, Right, 1.0
+EO, 7, 8, Right, 1.0
+EO, 8, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 10, 11, Right, 1.0
+EO, 11, 12, Right, 1.0
+EO, 12, ,_3ff56300-b791-4980-adf6-6067390b1d57, Right, 1.0
+EO, ,_3ff56300-b791-4980-adf6-6067390b1d57, y_23526eab-3f01-456d-b197-27c2ef07fe23, Right, 1.0
+EO, y_23526eab-3f01-456d-b197-27c2ef07fe23, )_8d572e5c-9a15-4dad-a70e-c5a8673c60af, Right, 1.0
+EO, )_8d572e5c-9a15-4dad-a70e-c5a8673c60af, +_e49684cc-a9c7-47b9-8d7b-118601fd6565, Right, 1.0
+EO, +_e49684cc-a9c7-47b9-8d7b-118601fd6565, (_b500155e-790a-4532-a56b-e72a51385a3d, Right, 1.0
+EO, (_b500155e-790a-4532-a56b-e72a51385a3d, x_457d525c-dfdb-47a2-921b-2a8341a59d12, Right, 1.0
+EO, x_457d525c-dfdb-47a2-921b-2a8341a59d12, -_1dcad335-5d83-40d0-875b-bca05c38a9a1, Right, 1.0
+EO, -_1dcad335-5d83-40d0-875b-bca05c38a9a1, x_132d5030-f952-4823-b108-f1a265d9bacf, Right, 1.0
+EO, x_132d5030-f952-4823-b108-f1a265d9bacf, ,_2936162a-dba9-4978-a003-e7cc456c0f19, Right, 1.0
+EO, ,_2936162a-dba9-4978-a003-e7cc456c0f19, y_65c28645-beef-47ae-8027-354522dd6426, Right, 1.0
+EO, y_65c28645-beef-47ae-8027-354522dd6426, -_9bf42a8b-3064-413c-8d81-46bb126cf5a2, Right, 1.0
+EO, -_9bf42a8b-3064-413c-8d81-46bb126cf5a2, 1, Right, 1.0
+EO, 1, )_dabf8805-90c6-4c6a-ab82-0a2d7dd3cc01, Right, 1.0
+EO, )_dabf8805-90c6-4c6a-ab82-0a2d7dd3cc01, 15, Right, 1.0
+EO, 15, +_7ec63871-36d8-4565-bd90-4c95b16795a6, Right, 1.0
+EO, +_7ec63871-36d8-4565-bd90-4c95b16795a6, (_2b48ae12-a6f2-4279-bde4-112dc3a0e982, Right, 1.0
+EO, (_2b48ae12-a6f2-4279-bde4-112dc3a0e982, x_fa36ad52-2b7e-4e2c-8563-6ed00ac086f2, Right, 1.0
+EO, x_fa36ad52-2b7e-4e2c-8563-6ed00ac086f2, -_7bc6e038-fb7c-4ec6-a94f-46fa821eb3be, Right, 1.0
+EO, -_7bc6e038-fb7c-4ec6-a94f-46fa821eb3be, x_1a9a52bf-a099-4b27-ba9d-6bf3e981e710, Right, 1.0
+EO, x_1a9a52bf-a099-4b27-ba9d-6bf3e981e710, ,_7800159f-62ba-4b7d-99c5-8266c867179e, Right, 1.0
+EO, ,_7800159f-62ba-4b7d-99c5-8266c867179e, y_912a9af3-adb4-4c8d-a017-ba1dc45f1b1a, Right, 1.0
+EO, y_912a9af3-adb4-4c8d-a017-ba1dc45f1b1a, -_13c13451-5bb7-47a1-9d0b-14d03801f971, Right, 1.0
+EO, -_13c13451-5bb7-47a1-9d0b-14d03801f971, y_a09c9f38-2d0d-42ce-b802-be27fcf4ae94, Right, 1.0
+EO, y_a09c9f38-2d0d-42ce-b802-be27fcf4ae94, )_dfbdedf1-3594-43ae-b75d-ae53b1dfda82, Right, 1.0
+EO, )_dfbdedf1-3594-43ae-b75d-ae53b1dfda82, t_dbb9d145-1223-4a49-9a8a-68c3b327882c, Right, 1.0

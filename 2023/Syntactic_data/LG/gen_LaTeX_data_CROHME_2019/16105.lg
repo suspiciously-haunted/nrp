@@ -1,0 +1,48 @@
+# IUD, CROHME_16105
+# Objects(179):
+O, 0, F, 1.0, 0, 1
+O, 1, m, 1.0, 2
+O, 2, a, 1.0, 3
+O, 3, x, 1.0, 4, 5
+O, 4, -, 1.0, 6
+O, 5, V, 1.0, 7
+O, 6, 2, 1.0, 8
+O, 7, x, 1.0, 9, 10
+O, 8, (, 1.0, 11
+O, 9, x, 1.0, 12
+O, 10, (, 1.0, 13
+O, 11, t, 1.0, 14, 15
+O, 12, ), 1.0, 16
+O, 13, ), 1.0, 17
+O, 14, 0, 1.0, 18
+O, 15, j, 1.0, 19, 20
+O, 16, =, 1.0, 21, 22
+O, 17, f, 1.0, 23, 24
+O, 18, a, 1.0, 25
+O, 19, i, 1.0, 26, 27, 28
+O, 20, j, 1.0, 29, 30
+O, 21, j, 1.0, 31, 32
+O, 22, j, 1.0, 33
+
+# Relations from SRT:
+EO, 0, 15, Sub, 1.0
+EO, \alpha_67b512f6-1051-489a-af5c-ac2c165d4d39, j_e0b613d0-c804-4467-9ccb-0a4b99582378, Sup, 1.0
+EO, i_8e3a09d9-cb59-421d-8427-b5b327f2a91b, =_f6bcb365-9950-46d5-8813-97aae7e0760f, Right, 1.0
+EO, =_f6bcb365-9950-46d5-8813-97aae7e0760f, 0_1e20c773-61ed-4b77-87f3-438fd394eea8, Right, 1.0
+EO, \sum_c3a064a8-f3b2-4218-bd0a-8b9653b6fdb5, i_8e3a09d9-cb59-421d-8427-b5b327f2a91b, Sup, 1.0
+EO, \sum_c3a064a8-f3b2-4218-bd0a-8b9653b6fdb5, l_fb2c1661-bd67-45d8-8e3a-ec923b96e5d1, Sub, 1.0
+EO, L_55d21b32-3dd9-4042-b0b9-4f4e55466504, i_b4c210e8-9098-4794-aae5-36455f5548e5, Sub, 1.0
+EO, k_4f776c40-42cd-496e-9306-5f9b7f1a5c05, i_e96f4b41-e62f-4326-be74-3737574c44d6, Sub, 1.0
+EO, j_a5bc67ff-2ffa-4b7f-a783-bba8841320d6, k_4f776c40-42cd-496e-9306-5f9b7f1a5c05, Right, 1.0
+EO, \alpha_a041c2b9-b42e-489f-8be4-69ea88f1cb7c, j_a5bc67ff-2ffa-4b7f-a783-bba8841320d6, Sup, 1.0
+EO, 0, 16, Right, 1.0
+EO, 16, 17, Right, 1.0
+EO, 17, (_7518960e-95bd-4fb7-be3a-dc31f92d7e8d, Right, 1.0
+EO, (_7518960e-95bd-4fb7-be3a-dc31f92d7e8d, \alpha_67b512f6-1051-489a-af5c-ac2c165d4d39, Right, 1.0
+EO, \alpha_67b512f6-1051-489a-af5c-ac2c165d4d39, )_b58ee728-62a3-49e3-9f11-35eede97b3f2, Right, 1.0
+EO, )_b58ee728-62a3-49e3-9f11-35eede97b3f2, =_e28bf3f5-8000-4cf6-a769-86b495d5247d, Right, 1.0
+EO, =_e28bf3f5-8000-4cf6-a769-86b495d5247d, \sum_c3a064a8-f3b2-4218-bd0a-8b9653b6fdb5, Right, 1.0
+EO, \sum_c3a064a8-f3b2-4218-bd0a-8b9653b6fdb5, L_55d21b32-3dd9-4042-b0b9-4f4e55466504, Right, 1.0
+EO, L_55d21b32-3dd9-4042-b0b9-4f4e55466504, (_5c7a7802-3631-4b26-94dd-0e6927408a6c, Right, 1.0
+EO, (_5c7a7802-3631-4b26-94dd-0e6927408a6c, \alpha_a041c2b9-b42e-489f-8be4-69ea88f1cb7c, Right, 1.0
+EO, \alpha_a041c2b9-b42e-489f-8be4-69ea88f1cb7c, )_e62f8de3-95b5-4708-b5ca-b2245989c879, Right, 1.0

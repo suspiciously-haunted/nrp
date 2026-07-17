@@ -1,0 +1,49 @@
+# IUD, CROHME_37040
+# Objects(1413):
+O, 0, z, 1.0, 0
+O, 1, 1, 1.0, 1
+O, 2, 1, 1.0, 2
+O, 3, =, 1.0, 3, 4
+O, 4, -, 1.0, 5
+O, 5, z, 1.0, 6, 7
+O, 6, =, 1.0, 8, 9
+O, 7, a, 1.0, 10
+O, 8, n, 1.0, 11
+O, 9, -, 1.0, 12
+O, 10, k, 1.0, 13, 14
+O, 11, +, 1.0, 15, 16, 17
+O, 12, 2, 1.0, 18
+O, 13, =, 1.0, 19, 20
+O, 14, (, 1.0, 21
+O, 15, y, 1.0, 22, 23
+O, 16, 3, 1.0, 24
+O, 17, ,, 1.0, 25
+O, 18, z, 1.0, 26
+O, 19, ), 1.0, 27
+O, 20, 2, 1.0, 28
+O, 21, 2, 1.0, 29
+O, 22, i, 1.0, 30, 31
+O, 23, =, 1.0, 32, 33
+O, 24, e, 1.0, 34
+O, 25, s, 1.0, 35
+
+# Relations from SRT:
+EO, 0, 22, Sub, 1.0
+EO, \theta_1d7bb7b8-3db7-46ee-9319-4560b3bc4ec3, i_1744eb63-3f09-46e7-9dea-f8713da16ec7, Sub, 1.0
+EO, i_f351fae2-6423-451d-b435-05710fbf5c90, \theta_1d7bb7b8-3db7-46ee-9319-4560b3bc4ec3, Right, 1.0
+EO, 12, i_f351fae2-6423-451d-b435-05710fbf5c90, Sup, 1.0
+EO, \theta_82b6cc2b-dd20-427a-9f11-3bcc1da4a211, i_558c9a1a-5e49-4d0f-b37e-73267d7d9520, Sub, 1.0
+EO, \theta_767f8b04-126f-40ff-bc7b-5295233982ab, i_1898ad64-7eda-4761-96e5-4874fab3bdf1, Sub, 1.0
+EO, 0, 23, Right, 1.0
+EO, 23, 12, Right, 1.0
+EO, 12, =_3695bbfa-3362-4376-819f-8a13b60866cc, Right, 1.0
+EO, =_3695bbfa-3362-4376-819f-8a13b60866cc, \cos_1360070e-ea93-4c7a-8880-3fafaa9a48b1, Right, 1.0
+EO, \cos_1360070e-ea93-4c7a-8880-3fafaa9a48b1, (_7e7d6026-a5aa-4a79-bfe2-97754dada00e, Right, 1.0
+EO, (_7e7d6026-a5aa-4a79-bfe2-97754dada00e, \theta_82b6cc2b-dd20-427a-9f11-3bcc1da4a211, Right, 1.0
+EO, \theta_82b6cc2b-dd20-427a-9f11-3bcc1da4a211, )_4d19cb84-c2d2-4c5a-af69-8446cac4704e, Right, 1.0
+EO, )_4d19cb84-c2d2-4c5a-af69-8446cac4704e, +_8259057e-5146-4834-8cfa-3417b9ccb18c, Right, 1.0
+EO, +_8259057e-5146-4834-8cfa-3417b9ccb18c, i_d227a9d0-6aa3-400a-80f5-7848a2ada9bd, Right, 1.0
+EO, i_d227a9d0-6aa3-400a-80f5-7848a2ada9bd, \sin_0a84fb49-f415-45e4-8a4a-8c784102b7c0, Right, 1.0
+EO, \sin_0a84fb49-f415-45e4-8a4a-8c784102b7c0, (_3a42d4b3-bff2-4b7c-9000-25189a85d6ed, Right, 1.0
+EO, (_3a42d4b3-bff2-4b7c-9000-25189a85d6ed, \theta_767f8b04-126f-40ff-bc7b-5295233982ab, Right, 1.0
+EO, \theta_767f8b04-126f-40ff-bc7b-5295233982ab, )_b1c5bb87-201e-481c-af8d-78390b455f1e, Right, 1.0

@@ -1,0 +1,25 @@
+# IUD, CROHME_59566
+# Objects(17907):
+O, 0, \sum, 1.0, 0
+O, 1, m, 1.0, 1
+O, 2, =, 1.0, 2, 3
+O, 3, 0, 1.0, 4
+O, 4, ., 1.0, 5
+O, 5, 7, 1.0, 6, 7
+O, 6, 5, 1.0, 8, 9
+O, 7, M, 1.0, 10, 11
+O, 8, i, 1.0, 12, 13
+O, 9, a, 1.0, 14
+O, 10, -, 1.0, 15
+
+# Relations from SRT:
+EO, 3, i_9a5063fd-8645-44d6-a4df-50a6ee780e3f, Sub, 1.0
+EO, 10, 3, Right, 1.0
+EO, 9, 10, Sup, 1.0
+EO, p_99f5e8b7-040e-4d51-9c47-cacf9f9fecc7, i_ed8a8981-f0e2-4097-bbc8-df2dd991f0ae, Sub, 1.0
+EO, 0, 9, Right, 1.0
+EO, 9, \leq_a7898f21-776a-410c-beba-401436b747e1, Right, 1.0
+EO, \leq_a7898f21-776a-410c-beba-401436b747e1, \sum_b32d8e6d-06d1-4264-8905-b3a5a927b639, Right, 1.0
+EO, \sum_b32d8e6d-06d1-4264-8905-b3a5a927b639, p_99f5e8b7-040e-4d51-9c47-cacf9f9fecc7, Right, 1.0
+EO, p_99f5e8b7-040e-4d51-9c47-cacf9f9fecc7, =_7b5390ce-88a7-462c-ba36-e279c30c94d6, Right, 1.0
+EO, =_7b5390ce-88a7-462c-ba36-e279c30c94d6, 1_b31d6037-7690-48da-bb6f-6c51c66008ae, Right, 1.0

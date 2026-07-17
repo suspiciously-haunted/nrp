@@ -1,0 +1,40 @@
+# IUD, CROHME_36694
+# Objects(7727):
+O, 0, d, 1.0, 0, 1
+O, 1, n, 1.0, 2
+O, 2, +, 1.0, 3, 4
+O, 3, m, 1.0, 5
+O, 4, f, 1.0, 6, 7
+O, 5, (, 1.0, 8
+O, 6, x, 1.0, 9
+O, 7, ), 1.0, 10
+O, 8, -, 1.0, 11
+O, 9, d, 1.0, 12
+O, 10, t, 1.0, 13, 14, 15
+O, 11, A, 1.0, 16, 17
+O, 12, p, 1.0, 18
+O, 13, x, 1.0, 19, 20
+O, 14, n, 1.0, 21
+O, 15, t, 1.0, 22, 23
+O, 16, (, 1.0, 24
+O, 17, A, 1.0, 25
+
+# Relations from SRT:
+EO, 0, S_3c535f80-79cc-4e55-92d4-821c1cfe5d29, Right, 1.0
+EO, d_5e932d0d-551f-442f-bdfd-64345f30e7ab, t_6093cfeb-a37b-43da-a279-e8f116a2faa2, Right, 1.0
+EO, -_9bb4a7f6-64d4-4a72-a26d-80fe1ad78663, 0, Above, 1.0
+EO, -_9bb4a7f6-64d4-4a72-a26d-80fe1ad78663, d_5e932d0d-551f-442f-bdfd-64345f30e7ab, Below, 1.0
+EO, \beta_044382db-0e4a-49be-836c-e1a59a03cb71, S_5a779a71-be48-40ad-b577-f39396e152f0, Right, 1.0
+EO, S_5a779a71-be48-40ad-b577-f39396e152f0, 1, Right, 1.0
+EO, -_fa79b261-2696-4894-b66d-ae6c21933a24, \beta_044382db-0e4a-49be-836c-e1a59a03cb71, Above, 1.0
+EO, -_fa79b261-2696-4894-b66d-ae6c21933a24, N_7781ef8b-4d5e-49c3-b014-e1c72f98105f, Below, 1.0
+EO, -_9bb4a7f6-64d4-4a72-a26d-80fe1ad78663, =_aee627c3-c0c0-461d-8a1e-ce2a0c1f4a72, Right, 1.0
+EO, =_aee627c3-c0c0-461d-8a1e-ce2a0c1f4a72, -_dcf7eed2-d2ed-4c46-a914-10a8b33275ec, Right, 1.0
+EO, -_dcf7eed2-d2ed-4c46-a914-10a8b33275ec, -_fa79b261-2696-4894-b66d-ae6c21933a24, Right, 1.0
+EO, -_fa79b261-2696-4894-b66d-ae6c21933a24, +_95780689-49bc-4d3d-8abc-67a0e5a773f6, Right, 1.0
+EO, +_95780689-49bc-4d3d-8abc-67a0e5a773f6, \mu_cbc3e624-3f93-4293-b384-435636e32850, Right, 1.0
+EO, \mu_cbc3e624-3f93-4293-b384-435636e32850, (_8127caae-b432-4340-a854-693abc1447de, Right, 1.0
+EO, (_8127caae-b432-4340-a854-693abc1447de, N_e3d24236-0077-4d26-aa30-65095e8d03d3, Right, 1.0
+EO, N_e3d24236-0077-4d26-aa30-65095e8d03d3, -_8ec31913-f2d3-4d97-b180-bd29013cf9a3, Right, 1.0
+EO, -_8ec31913-f2d3-4d97-b180-bd29013cf9a3, S_cfb2624a-0497-4ec7-8b43-3907b0d6cdf8, Right, 1.0
+EO, S_cfb2624a-0497-4ec7-8b43-3907b0d6cdf8, )_58c57d33-7654-4020-a2ad-f4712d4da85d, Right, 1.0

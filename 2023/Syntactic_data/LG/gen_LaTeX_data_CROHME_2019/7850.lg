@@ -1,0 +1,54 @@
+# IUD, CROHME_7850
+# Objects(152):
+O, 0, \Delta, 1.0, 0
+O, 1, S, 1.0, 1
+O, 2, (, 1.0, 2
+O, 3, T, 1.0, 3, 4
+O, 4, ,, 1.0, 5
+O, 5, L, 1.0, 6
+O, 6, ), 1.0, 7
+O, 7, =, 1.0, 8, 9
+O, 8, \Delta, 1.0, 10
+O, 9, H, 1.0, 11, 12, 13
+O, 10, a, 1.0, 14
+O, 11, =, 1.0, 15, 16
+O, 12, 2, 1.0, 17
+O, 13, L, 1.0, 18
+O, 14, 2, 1.0, 19
+O, 15, -, 1.0, 20
+O, 16, 1, 1.0, 21
+O, 17, 2, 1.0, 22
+O, 18, x, 1.0, 23, 24
+O, 19, /, 1.0, 25
+O, 20, 9, 1.0, 26
+O, 21, (, 1.0, 27
+O, 22, T, 1.0, 28, 29
+O, 23, =, 1.0, 30, 31
+O, 24, 2, 1.0, 32
+O, 25, \pi, 1.0, 33, 34
+
+# Relations from SRT:
+EO, 22, d_6b916d8e-4171-487c-970e-32407fadda36, Sub, 1.0
+EO, 8, 9, Right, 1.0
+EO, 9, 21, Right, 1.0
+EO, 21, 22, Right, 1.0
+EO, 22, )_1216887e-1a0c-4ece-ba76-da15da07eaa9, Right, 1.0
+EO, T_c569f95c-86c9-431a-83cf-57e2ea544dac, d_7bbf5261-fdad-4199-a11a-8ab0bee75d2a, Sub, 1.0
+EO, -_ea2da1b9-9faa-4fe3-ae72-d44588020fa1, 8, Above, 1.0
+EO, -_ea2da1b9-9faa-4fe3-ae72-d44588020fa1, T_c569f95c-86c9-431a-83cf-57e2ea544dac, Below, 1.0
+EO, C_704f7518-2e37-4815-97ad-8f5c7609f952, p_cc93ee48-78bb-4073-8d9d-c027f4adcbd9, Sub, 1.0
+EO, T_73bc18ee-2639-4ae0-abef-af458042fd8f, d_69fac273-a529-416e-be89-e8bbab642d14, Sub, 1.0
+EO, -_171e3fef-3f16-4fab-8b07-1c92cb251db9, T_9969acc2-a26e-41a1-8cfa-72cea92c593b, Above, 1.0
+EO, -_171e3fef-3f16-4fab-8b07-1c92cb251db9, T_73bc18ee-2639-4ae0-abef-af458042fd8f, Below, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0
+EO, 3, 6, Right, 1.0
+EO, 6, 7, Right, 1.0
+EO, 7, -_ea2da1b9-9faa-4fe3-ae72-d44588020fa1, Right, 1.0
+EO, -_ea2da1b9-9faa-4fe3-ae72-d44588020fa1, +_6a37dcb6-ec3c-48c9-9166-d5bd5b220351, Right, 1.0
+EO, +_6a37dcb6-ec3c-48c9-9166-d5bd5b220351, \Delta_8535d1ef-7ddb-4338-8f65-4923d4d0997c, Right, 1.0
+EO, \Delta_8535d1ef-7ddb-4338-8f65-4923d4d0997c, C_704f7518-2e37-4815-97ad-8f5c7609f952, Right, 1.0
+EO, C_704f7518-2e37-4815-97ad-8f5c7609f952, l_a1e0e8d7-8053-4210-b593-081915e4146d, Right, 1.0
+EO, l_a1e0e8d7-8053-4210-b593-081915e4146d, n_5d2638a2-d99d-4940-8c58-033f7235b34f, Right, 1.0
+EO, n_5d2638a2-d99d-4940-8c58-033f7235b34f, -_171e3fef-3f16-4fab-8b07-1c92cb251db9, Right, 1.0

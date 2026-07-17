@@ -1,0 +1,42 @@
+# IUD, CROHME_36770
+# Objects(2285):
+O, 0, a, 1.0, 0
+O, 1, n, 1.0, 1
+O, 2, b, 1.0, 2
+O, 3, n, 1.0, 3
+O, 4, -, 1.0, 4
+O, 5, i, 1.0, 5, 6
+O, 6, 2, 1.0, 7
+O, 7, N, 1.0, 8, 9
+O, 8, p, 1.0, 10
+O, 9, n, 1.0, 11
+O, 10, 2, 1.0, 12
+O, 11, =, 1.0, 13, 14
+O, 12, \cos, 1.0, 15, 16, 17
+O, 13, (, 1.0, 18
+O, 14, c, 1.0, 19
+O, 15, /, 1.0, 20
+O, 16, H, 1.0, 21, 22, 23
+O, 17, p, 1.0, 24, 25
+O, 18, -, 1.0, 26
+O, 19, N, 1.0, 27
+
+# Relations from SRT:
+EO, 12, 2_1e5d9642-9069-414e-8eed-72b0e5a6a255, Sup, 1.0
+EO, 12, 11, Right, 1.0
+EO, \sigma_940841ac-4ddd-4c2b-9a51-8b0080b366ec, x_4d20b154-b564-49fc-8391-9735b945196e, Sup, 1.0
+EO, \sigma_940841ac-4ddd-4c2b-9a51-8b0080b366ec, 2_6da80451-0fe2-4d43-8e26-437b0e1351b2, Sub, 1.0
+EO, 2_7bdc0034-2dfb-4473-aa7b-7a29c6ce78f3, \sigma_940841ac-4ddd-4c2b-9a51-8b0080b366ec, Right, 1.0
+EO, -_b1802e0b-d1b7-4e63-8047-0308a49fb05c, 12, Above, 1.0
+EO, -_b1802e0b-d1b7-4e63-8047-0308a49fb05c, 2_7bdc0034-2dfb-4473-aa7b-7a29c6ce78f3, Below, 1.0
+EO, \sin_dc903806-59e5-4a73-8a7c-3d0d3c28b8b8, 2_507da7bf-5cbf-461a-be6e-fdc4fb983909, Sup, 1.0
+EO, \sin_dc903806-59e5-4a73-8a7c-3d0d3c28b8b8, \theta_80e41890-eb7d-4dd7-a5ee-90f82b86e2e0, Right, 1.0
+EO, \sigma_19402c5d-bc00-442d-9c5a-b05c2aee17ef, y_460374e1-c60d-4279-be63-dd704f1a641d, Sup, 1.0
+EO, \sigma_19402c5d-bc00-442d-9c5a-b05c2aee17ef, 2_5b1adb2d-76cf-47d1-87cb-82eea4e2d22c, Sub, 1.0
+EO, 2_f7c6d64d-125f-4b61-9810-c1daa1dfef14, \sigma_19402c5d-bc00-442d-9c5a-b05c2aee17ef, Right, 1.0
+EO, -_dba46b0c-565e-48a2-a40a-15b98be7fdbc, \sin_dc903806-59e5-4a73-8a7c-3d0d3c28b8b8, Above, 1.0
+EO, -_dba46b0c-565e-48a2-a40a-15b98be7fdbc, 2_f7c6d64d-125f-4b61-9810-c1daa1dfef14, Below, 1.0
+EO, 0, =_d33a5d73-1176-45e2-a5c2-cf80d97c058c, Right, 1.0
+EO, =_d33a5d73-1176-45e2-a5c2-cf80d97c058c, -_b1802e0b-d1b7-4e63-8047-0308a49fb05c, Right, 1.0
+EO, -_b1802e0b-d1b7-4e63-8047-0308a49fb05c, +_33b009e4-18e3-4f46-85a4-11b45b071e9d, Right, 1.0
+EO, +_33b009e4-18e3-4f46-85a4-11b45b071e9d, -_dba46b0c-565e-48a2-a40a-15b98be7fdbc, Right, 1.0

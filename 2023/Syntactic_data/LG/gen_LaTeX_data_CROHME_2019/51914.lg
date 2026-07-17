@@ -1,0 +1,16 @@
+# IUD, CROHME_51914
+# Objects(10):
+O, 0, y, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, \prime, 1.0, 2
+O, 3, 2, 1.0, 3
+O, 4, =, 1.0, 4, 5
+O, 5, 4, 1.0, 6, 7
+O, 6, a, 1.0, 8
+
+# Relations from SRT:
+EO, 0, 3, Sup, 1.0
+EO, 0, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, 6, Right, 1.0
+EO, 6, x_e1b5c59a-a02a-4991-8946-9b4c71f7e1ec, Right, 1.0

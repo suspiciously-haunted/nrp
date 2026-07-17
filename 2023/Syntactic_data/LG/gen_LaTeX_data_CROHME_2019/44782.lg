@@ -1,0 +1,52 @@
+# IUD, CROHME_44782
+# Objects(6720):
+O, 0, a, 1.0, 0
+O, 1, 0, 1.0, 1
+O, 2, (, 1.0, 2
+O, 3, 9, 1.0, 3
+O, 4, 8, 1.0, 4
+O, 5, 0, 1.0, 5
+O, 6, ), 1.0, 6
+O, 7, b, 1.0, 7
+O, 8, t, 1.0, 8, 9
+O, 9, =, 1.0, 10, 11
+O, 10, g, 1.0, 12
+O, 11, (, 1.0, 13
+O, 12, x, 1.0, 14, 15
+O, 13, ,, 1.0, 16
+O, 14, y, 1.0, 17
+O, 15, ,, 1.0, 18
+O, 16, t, 1.0, 19, 20
+O, 17, ), 1.0, 21
+O, 18, =, 1.0, 22, 23
+O, 19, 1, 1.0, 24
+O, 20, -, 1.0, 25
+O, 21, \beta, 1.0, 26
+O, 22, 2, 1.0, 27
+O, 23, -, 1.0, 28
+O, 24, 2, 1.0, 29
+O, 25, \pi, 1.0, 30
+
+# Relations from SRT:
+EO, \log_2b6b47e0-db60-458a-a46f-1aaa4af9b59b, g_c0e94fd2-004c-4195-a9ea-ec8c71f7f6f8, Sub, 1.0
+EO, \log_2b6b47e0-db60-458a-a46f-1aaa4af9b59b, (_d7f66fa5-dfc2-4120-b48b-81a780b9dc32, Right, 1.0
+EO, (_d7f66fa5-dfc2-4120-b48b-81a780b9dc32, a_cf5ed952-7d9d-4028-8302-0b810f6dfcae, Right, 1.0
+EO, a_cf5ed952-7d9d-4028-8302-0b810f6dfcae, b_6990f00e-8499-4650-8754-65fb72bcb399, Right, 1.0
+EO, b_6990f00e-8499-4650-8754-65fb72bcb399, )_6978ae89-6f69-4336-a8cb-53df7e5133e6, Right, 1.0
+EO, 10, \log_2b6b47e0-db60-458a-a46f-1aaa4af9b59b, Sup, 1.0
+EO, \log_3fec953d-0388-4906-b07f-329a590be67c, 19, Sub, 1.0
+EO, \log_eb66da40-efda-4edb-ab01-2c50182ea14c, 5, Sub, 1.0
+EO, \log_3fec953d-0388-4906-b07f-329a590be67c, (_7114fe2f-e9ba-4e62-9ef0-99633deac691, Right, 1.0
+EO, (_7114fe2f-e9ba-4e62-9ef0-99633deac691, a_a6c9ceec-2799-4d38-b379-9be7b56b0343, Right, 1.0
+EO, a_a6c9ceec-2799-4d38-b379-9be7b56b0343, )_1e974c40-2981-4786-b990-800d25b65e21, Right, 1.0
+EO, )_1e974c40-2981-4786-b990-800d25b65e21, +_628e1ab3-bb46-49cb-becf-09cbbef76e8e, Right, 1.0
+EO, +_628e1ab3-bb46-49cb-becf-09cbbef76e8e, \log_eb66da40-efda-4edb-ab01-2c50182ea14c, Right, 1.0
+EO, \log_eb66da40-efda-4edb-ab01-2c50182ea14c, (_9095bab0-35ab-4ea0-99dc-89cee37454ef, Right, 1.0
+EO, (_9095bab0-35ab-4ea0-99dc-89cee37454ef, b_43cbf310-67bf-4d66-bb06-88289cc358a7, Right, 1.0
+EO, b_43cbf310-67bf-4d66-bb06-88289cc358a7, )_eb19274f-4ef8-4ef9-9ac1-9d991409baf7, Right, 1.0
+EO, g_150693f3-7014-4461-9b15-217dedcc49c7, \log_3fec953d-0388-4906-b07f-329a590be67c, Sup, 1.0
+EO, 0, 7, Right, 1.0
+EO, 7, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 10, =_9bcb9971-b00b-42e8-bff1-99d8b448975f, Right, 1.0
+EO, =_9bcb9971-b00b-42e8-bff1-99d8b448975f, g_150693f3-7014-4461-9b15-217dedcc49c7, Right, 1.0

@@ -1,0 +1,39 @@
+# IUD, CROHME_3567
+# Objects(60):
+O, 0, P, 1.0, 0, 1
+O, 1, 2, 1.0, 2
+O, 2, x, 1.0, 3, 4
+O, 3, E, 1.0, 5, 6, 7
+O, 4, E, 1.0, 8, 9, 10
+O, 5, P, 1.0, 11
+O, 6, =, 1.0, 12, 13
+O, 7, 1, 1.0, 14, 15
+O, 8, 0, 1.0, 16
+O, 9, 0, 1.0, 17
+O, 10, \tan, 1.0, 18, 19, 20, 21
+O, 11, d, 1.0, 22
+O, 12, c, 1.0, 23
+O, 13, r, 1.0, 24
+O, 14, =, 1.0, 25
+
+# Relations from SRT:
+EO, 12, 13, Right, 1.0
+EO, 0, 12, Sub, 1.0
+EO, h_34277616-b39f-4199-be82-372021dcd790, 2_3630c0fa-a26b-4992-acfb-08060a7df60c, Sup, 1.0
+EO, 2_d4d6dbaf-3c16-46a9-bfc0-f9cc68bf8018, E_5c301a5a-5075-470e-bd31-0e8070340c95, Right, 1.0
+EO, E_5c301a5a-5075-470e-bd31-0e8070340c95, h_34277616-b39f-4199-be82-372021dcd790, Right, 1.0
+EO, \mu_3e7cd8bc-f0c4-4ccb-8471-bb7b916ddac9, 2_6c95fb05-ed0c-49c1-a475-163e3055989b, Sup, 1.0
+EO, 3_f9445520-c79b-4d35-b696-9689edb3dd08, (_a48029bb-e689-4d1d-bde7-ba3109116a74, Right, 1.0
+EO, (_a48029bb-e689-4d1d-bde7-ba3109116a74, 1_bfee2c61-ca1a-4af8-8da9-daff28e8e53d, Right, 1.0
+EO, 1_bfee2c61-ca1a-4af8-8da9-daff28e8e53d, -_10a39620-e88e-4e1e-8681-3aa72cc52d91, Right, 1.0
+EO, -_10a39620-e88e-4e1e-8681-3aa72cc52d91, \mu_3e7cd8bc-f0c4-4ccb-8471-bb7b916ddac9, Right, 1.0
+EO, \mu_3e7cd8bc-f0c4-4ccb-8471-bb7b916ddac9, )_4dc612fb-d86e-4e87-af86-7108189deadf, Right, 1.0
+EO, \sqrt_254be9e3-5989-429a-a749-3f69d528d1ab, 3_f9445520-c79b-4d35-b696-9689edb3dd08, Inside, 1.0
+EO, -_dbab1356-a5e7-4a5d-bc11-615cf9f809f3, 2_d4d6dbaf-3c16-46a9-bfc0-f9cc68bf8018, Above, 1.0
+EO, -_dbab1356-a5e7-4a5d-bc11-615cf9f809f3, \sqrt_254be9e3-5989-429a-a749-3f69d528d1ab, Below, 1.0
+EO, R_1dbc9cd5-0ced-415b-956c-1f4b9a08a248, 2_8fcb13ba-cfa3-4b94-a4a6-91c97524f8fe, Sup, 1.0
+EO, -_e0caa939-b818-4768-80f8-e2b5878c65d1, 1_e950e572-d135-4d01-887f-a93428d71104, Above, 1.0
+EO, -_e0caa939-b818-4768-80f8-e2b5878c65d1, R_1dbc9cd5-0ced-415b-956c-1f4b9a08a248, Below, 1.0
+EO, 0, 14, Right, 1.0
+EO, 14, -_dbab1356-a5e7-4a5d-bc11-615cf9f809f3, Right, 1.0
+EO, -_dbab1356-a5e7-4a5d-bc11-615cf9f809f3, -_e0caa939-b818-4768-80f8-e2b5878c65d1, Right, 1.0

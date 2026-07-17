@@ -1,0 +1,49 @@
+# IUD, CROHME_18635
+# Objects(338):
+O, 0, \mu, 1.0, 0
+O, 1, s, 1.0, 1
+O, 2, a, 1.0, 2
+O, 3, t, 1.0, 3, 4
+O, 4, (, 1.0, 5
+O, 5, n, 1.0, 6
+O, 6, ), 1.0, 7
+O, 7, 2, 1.0, 8
+O, 8, ), 1.0, 9
+O, 9, =, 1.0, 10, 11
+O, 10, \mu, 1.0, 12
+O, 11, s, 1.0, 13
+O, 12, a, 1.0, 14
+O, 13, t, 1.0, 15, 16
+O, 14, (, 1.0, 17
+O, 15, 1, 1.0, 18
+O, 16, ), 1.0, 19
+O, 17, (, 1.0, 20
+O, 18, \alpha, 1.0, 21
+O, 19, ,, 1.0, 22
+O, 20, \beta, 1.0, 23, 24
+O, 21, ), 1.0, 25
+O, 22, y, 1.0, 26, 27
+O, 23, =, 1.0, 28, 29
+O, 24, (, 1.0, 30
+O, 25, \int, 1.0, 31
+
+# Relations from SRT:
+EO, 0, M_886a3be9-6aae-4b97-b64a-d91675e1a7b0, Sub, 1.0
+EO, i_2b55d4ff-a17f-4005-bee8-2827e84749c0, =_9fd46800-4d6b-469a-8233-edc2153a28ea, Right, 1.0
+EO, =_9fd46800-4d6b-469a-8233-edc2153a28ea, 1_86d29865-7aec-484e-bb70-bab07e895000, Right, 1.0
+EO, \sum_65fe0981-f277-4b76-99e0-fe3bd0c5fbfa, i_2b55d4ff-a17f-4005-bee8-2827e84749c0, Sup, 1.0
+EO, \sum_65fe0981-f277-4b76-99e0-fe3bd0c5fbfa, L_33de9391-e96f-4fc2-b3c0-09e9c0af49af, Sub, 1.0
+EO, m_7f571180-153c-4fa2-9a35-00e03a6bcf78, i_93c3a81f-7b7f-440e-a3e8-59c92ba8e2b5, Sub, 1.0
+EO, x_df4258a4-ed60-4982-a35d-dfed008bb482, i_d3e9fe2f-6012-44f2-8a2a-bab2566c8a9a, Sub, 1.0
+EO, \sum_65fe0981-f277-4b76-99e0-fe3bd0c5fbfa, m_7f571180-153c-4fa2-9a35-00e03a6bcf78, Right, 1.0
+EO, m_7f571180-153c-4fa2-9a35-00e03a6bcf78, x_df4258a4-ed60-4982-a35d-dfed008bb482, Right, 1.0
+EO, i_6ccf662c-56c5-43e2-a7c2-ffa81114224c, =_aa265bb9-2c41-48ee-8bb1-bd8d0c3400d1, Right, 1.0
+EO, =_aa265bb9-2c41-48ee-8bb1-bd8d0c3400d1, 1_f16db4aa-9386-4f2c-9888-ab14f7dfc271, Right, 1.0
+EO, \sum_b77cdab1-af83-4d5e-adac-b91bc3610965, i_6ccf662c-56c5-43e2-a7c2-ffa81114224c, Sup, 1.0
+EO, \sum_b77cdab1-af83-4d5e-adac-b91bc3610965, L_33dba52f-64fa-413b-81c7-495aed94f856, Sub, 1.0
+EO, m_7aaddffa-b4e3-48d9-94db-048c37b0a5ed, i_04f348e4-ead6-404f-905d-e0033937cfe3, Sub, 1.0
+EO, \sum_b77cdab1-af83-4d5e-adac-b91bc3610965, m_7aaddffa-b4e3-48d9-94db-048c37b0a5ed, Right, 1.0
+EO, -_195eab32-7645-4a70-8135-5176b413535f, \sum_65fe0981-f277-4b76-99e0-fe3bd0c5fbfa, Above, 1.0
+EO, -_195eab32-7645-4a70-8135-5176b413535f, \sum_b77cdab1-af83-4d5e-adac-b91bc3610965, Below, 1.0
+EO, 0, =_0d853fe2-2555-43cd-8329-a758a54a093e, Right, 1.0
+EO, =_0d853fe2-2555-43cd-8329-a758a54a093e, -_195eab32-7645-4a70-8135-5176b413535f, Right, 1.0

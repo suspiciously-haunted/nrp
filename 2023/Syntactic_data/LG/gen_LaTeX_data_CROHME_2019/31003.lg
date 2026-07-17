@@ -1,0 +1,52 @@
+# IUD, CROHME_31003
+# Objects(2692):
+O, 0, Y, 1.0, 0, 1
+O, 1, (, 1.0, 2
+O, 2, s, 1.0, 3
+O, 3, 3, 1.0, 4
+O, 4, ), 1.0, 5
+O, 5, -, 1.0, 6
+O, 6, X, 1.0, 7, 8
+O, 7, =, 1.0, 9, 10
+O, 8, S, 1.0, 11
+O, 9, =, 1.0, 12, 13
+O, 10, n, 1.0, 14
+O, 11, +, 1.0, 15, 16, 17, 18
+O, 12, 1, 1.0, 19
+O, 13, e, 1.0, 20
+O, 14, -, 1.0, 21
+O, 15, a, 1.0, 22
+O, 16, 0, 1.0, 23
+O, 17, n, 1.0, 24
+O, 18, c, 1.0, 25
+O, 19, r, 1.0, 26
+O, 20, i, 1.0, 27, 28
+O, 21, (, 1.0, 29
+O, 22, t, 1.0, 30, 31
+O, 23, ), 1.0, 32
+
+# Relations from SRT:
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 4, Right, 1.0
+EO, 6, (_6b7189d2-ead6-4c6e-b36d-49098fe64955, Right, 1.0
+EO, (_6b7189d2-ead6-4c6e-b36d-49098fe64955, s_054186d0-d021-4a74-a272-01aa6ab0e40a, Right, 1.0
+EO, s_054186d0-d021-4a74-a272-01aa6ab0e40a, )_d6b6d852-a615-49ac-800a-8384e4351b81, Right, 1.0
+EO, 5, 0, Above, 1.0
+EO, 5, 6, Below, 1.0
+EO, G_6803ce10-5f8f-4535-becf-b431f77a0ab1, (_40bb5009-d7c5-4f70-abcb-ff8963183ef3, Right, 1.0
+EO, (_40bb5009-d7c5-4f70-abcb-ff8963183ef3, s_145f03f5-53a0-41a4-b2fd-991d8e3be297, Right, 1.0
+EO, s_145f03f5-53a0-41a4-b2fd-991d8e3be297, )_1d7b89b3-c9f8-45cd-b385-3266d7ab8374, Right, 1.0
+EO, 1_1564330f-82a4-4973-926d-fb28bd4bde56, +_1da77b28-2d5a-4298-b2bc-ed86333e55b3, Right, 1.0
+EO, +_1da77b28-2d5a-4298-b2bc-ed86333e55b3, G_58b91604-b763-4fe7-9bc7-bfcf18322689, Right, 1.0
+EO, G_58b91604-b763-4fe7-9bc7-bfcf18322689, (_b0146570-3513-43f4-ade1-d95649f8c4d8, Right, 1.0
+EO, (_b0146570-3513-43f4-ade1-d95649f8c4d8, s_409f0b35-6efc-481c-b665-d89bef0e6943, Right, 1.0
+EO, s_409f0b35-6efc-481c-b665-d89bef0e6943, )_aab0ec19-3dd1-49c9-8048-ceb5dca7c9fc, Right, 1.0
+EO, )_aab0ec19-3dd1-49c9-8048-ceb5dca7c9fc, H_7440f3e5-ae32-4066-a162-1462a004724f, Right, 1.0
+EO, H_7440f3e5-ae32-4066-a162-1462a004724f, (_b7b7860d-b2f9-453a-8a26-96e50a33f927, Right, 1.0
+EO, (_b7b7860d-b2f9-453a-8a26-96e50a33f927, s_a9714184-2859-450e-8ffa-b3109410e0b1, Right, 1.0
+EO, s_a9714184-2859-450e-8ffa-b3109410e0b1, )_0a19a3d6-b1ff-4a8e-bc03-33dcd7576a32, Right, 1.0
+EO, -_de815ede-70a7-455c-b8ad-b929d4a73bbd, G_6803ce10-5f8f-4535-becf-b431f77a0ab1, Above, 1.0
+EO, -_de815ede-70a7-455c-b8ad-b929d4a73bbd, 1_1564330f-82a4-4973-926d-fb28bd4bde56, Below, 1.0
+EO, 5, =_d65239bd-d380-4bb7-926d-393a01afb7d8, Right, 1.0
+EO, =_d65239bd-d380-4bb7-926d-393a01afb7d8, -_de815ede-70a7-455c-b8ad-b929d4a73bbd, Right, 1.0

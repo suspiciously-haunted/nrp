@@ -1,0 +1,51 @@
+# IUD, CROHME_33073
+# Objects(98):
+O, 0, (, 1.0, 0
+O, 1, b, 1.0, 1
+O, 2, -, 1.0, 2
+O, 3, 4, 1.0, 3
+O, 4, /, 1.0, 4
+O, 5, 9, 1.0, 5
+O, 6, 3, 1.0, 6
+O, 7, ), 1.0, 7
+O, 8, b, 1.0, 8
+O, 9, b, 1.0, 9
+O, 10, -, 1.0, 10
+O, 11, \sqrt, 1.0, 11
+O, 12, 1, 1.0, 12
+O, 13, /, 1.0, 13
+O, 14, 1, 1.0, 14
+O, 15, 5, 1.0, 15
+O, 16, 7, 1.0, 16, 17
+O, 17, /, 1.0, 18
+O, 18, 4, 1.0, 19
+O, 19, ,, 1.0, 20
+O, 20, 0, 1.0, 21
+O, 21, ,, 1.0, 22
+O, 22, 0, 1.0, 23
+O, 23, ,, 1.0, 24
+O, 24, 0, 1.0, 25
+
+# Relations from SRT:
+EO, 9, 10, Right, 1.0
+EO, 10, 1_a3e3dda0-fa5c-4bcb-8be2-ab69abe4d057, Right, 1.0
+EO, 8, 9, Sup, 1.0
+EO, b_52b4a630-354a-4f8c-9721-23830434b200, -_2ff330f5-141a-42be-aec4-3bb768a809eb, Right, 1.0
+EO, -_2ff330f5-141a-42be-aec4-3bb768a809eb, 2_c056d8c1-23df-40ed-81ed-f56dfae9c0bf, Right, 1.0
+EO, b_b76409ad-f497-4367-97e1-d4bd58293633, b_52b4a630-354a-4f8c-9721-23830434b200, Sup, 1.0
+EO, b_47b7d005-db42-4d4c-b34d-956576124ea3, -_c5b2c067-e691-4894-ad6c-73a49d6d6212, Right, 1.0
+EO, -_c5b2c067-e691-4894-ad6c-73a49d6d6212, 3_19349062-69ff-4d0b-bddf-5e25d47d6931, Right, 1.0
+EO, b_aa11f5ee-bdf3-45e3-8fee-c41e17f7d5a4, b_47b7d005-db42-4d4c-b34d-956576124ea3, Sup, 1.0
+EO, b_f7cca95e-9545-4423-a40a-753c85bb8e84, 3_c0f3462e-e2af-4dd0-9b2b-d03c89e84613, Sup, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0
+EO, 3, 7, Right, 1.0
+EO, 7, 8, Right, 1.0
+EO, 8, +_4fd960da-d05d-416f-bfa3-670da6807e0f, Right, 1.0
+EO, +_4fd960da-d05d-416f-bfa3-670da6807e0f, 2_00004f1e-341f-48e3-95c9-7ba548c683ea, Right, 1.0
+EO, 2_00004f1e-341f-48e3-95c9-7ba548c683ea, b_b76409ad-f497-4367-97e1-d4bd58293633, Right, 1.0
+EO, b_b76409ad-f497-4367-97e1-d4bd58293633, +_cc407a59-8e25-41f6-9f4d-a9cc0cf2a59b, Right, 1.0
+EO, +_cc407a59-8e25-41f6-9f4d-a9cc0cf2a59b, b_aa11f5ee-bdf3-45e3-8fee-c41e17f7d5a4, Right, 1.0
+EO, b_aa11f5ee-bdf3-45e3-8fee-c41e17f7d5a4, +_0b7bfaee-d3c8-4542-9ec4-4856198b0b4b, Right, 1.0
+EO, +_0b7bfaee-d3c8-4542-9ec4-4856198b0b4b, b_f7cca95e-9545-4423-a40a-753c85bb8e84, Right, 1.0

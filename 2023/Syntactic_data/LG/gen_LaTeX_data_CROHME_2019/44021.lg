@@ -1,0 +1,49 @@
+# IUD, CROHME_44021
+# Objects(37208):
+O, 0, \Delta, 1.0, 0
+O, 1, G, 1.0, 1
+O, 2, m, 1.0, 2
+O, 3, =, 1.0, 3, 4, 5
+O, 4, \Delta, 1.0, 6, 7, 8
+O, 5, k, 1.0, 9
+O, 6, f, 1.0, 10
+O, 7, H, 1.0, 11, 12, 13
+O, 8, p, 1.0, 14, 15
+O, 9, -, 1.0, 16
+O, 10, N, 1.0, 17
+O, 11, m, 1.0, 18
+O, 12, -, 1.0, 19
+O, 13, T, 1.0, 20, 21
+O, 14, \Delta, 1.0, 22
+O, 15, S, 1.0, 23
+O, 16, m, 1.0, 24
+O, 17, s, 1.0, 25
+O, 18, -, 1.0, 26
+O, 19, \Delta, 1.0, 27
+O, 20, k, 1.0, 28
+O, 21, v, 1.0, 29
+O, 22, I, 1.0, 30, 31, 32
+O, 23, 0, 1.0, 33
+O, 24, =, 1.0, 34
+
+# Relations from SRT:
+EO, l_31dd8b1c-0847-444e-b58f-3d9636730daf, k_5b6f6662-c38a-4f26-848a-974f260fccc1, Right, 1.0
+EO, g_53cf3763-142c-4887-b16a-c436d3c3eae3, l_31dd8b1c-0847-444e-b58f-3d9636730daf, Sub, 1.0
+EO, l_006e1b70-5bd7-4249-83d7-66927f1624eb, k_477fda44-19e3-4be1-b4f3-15a3fd8efe2a, Right, 1.0
+EO, k_477fda44-19e3-4be1-b4f3-15a3fd8efe2a, m_3c634146-66d7-4c22-8574-124be72e1580, Right, 1.0
+EO, \gamma_f7ece3f1-6bf9-4db7-ab39-e641e52b141c, l_006e1b70-5bd7-4249-83d7-66927f1624eb, Sub, 1.0
+EO, E_bb8a99b7-2a9c-4dfb-9320-7b3b3af7790f, m_6bf08389-f0dc-48f1-a1ab-a0663c2d9d65, Sub, 1.0
+EO, l_66387d5f-4429-4711-825c-279fd1d39aa2, k_33e11078-50e3-463d-8609-c75580d31dc8, Right, 1.0
+EO, k_33e11078-50e3-463d-8609-c75580d31dc8, m_85abc8b9-989b-4442-b79c-757465147592, Right, 1.0
+EO, m_85abc8b9-989b-4442-b79c-757465147592, n_2b8062e1-3bef-40da-8e67-4bf9c4860cfb, Right, 1.0
+EO, \beta_22059337-a96b-4766-b517-28160fa2c7e6, l_66387d5f-4429-4711-825c-279fd1d39aa2, Sub, 1.0
+EO, 10, 21, Sub, 1.0
+EO, 16, n_632f86bc-bd6f-493b-ae47-c50d56fa4878, Sub, 1.0
+EO, 0, g_53cf3763-142c-4887-b16a-c436d3c3eae3, Right, 1.0
+EO, g_53cf3763-142c-4887-b16a-c436d3c3eae3, =_d902ef6e-3c59-4746-b726-031beb38a71c, Right, 1.0
+EO, =_d902ef6e-3c59-4746-b726-031beb38a71c, \gamma_f7ece3f1-6bf9-4db7-ab39-e641e52b141c, Right, 1.0
+EO, \gamma_f7ece3f1-6bf9-4db7-ab39-e641e52b141c, E_bb8a99b7-2a9c-4dfb-9320-7b3b3af7790f, Right, 1.0
+EO, E_bb8a99b7-2a9c-4dfb-9320-7b3b3af7790f, +_d379100e-e863-4af4-8aaf-46a86e2fcef8, Right, 1.0
+EO, +_d379100e-e863-4af4-8aaf-46a86e2fcef8, \beta_22059337-a96b-4766-b517-28160fa2c7e6, Right, 1.0
+EO, \beta_22059337-a96b-4766-b517-28160fa2c7e6, 10, Right, 1.0
+EO, 10, 16, Right, 1.0

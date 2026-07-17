@@ -1,0 +1,51 @@
+# IUD, CROHME_45845
+# Objects(2175):
+O, 0, x, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, 1, 1.0, 2
+O, 3, 1, 1.0, 3
+O, 4, +, 1.0, 4, 5
+O, 5, z, 1.0, 6, 7
+O, 6, 2, 1.0, 8
+O, 7, g, 1.0, 9
+O, 8, -, 1.0, 10
+O, 9, h, 1.0, 11
+O, 10, -, 1.0, 12
+O, 11, 1, 1.0, 13
+O, 12, 3, 1.0, 14
+O, 13, 2, 1.0, 15
+O, 14, +, 1.0, 16, 17
+O, 15, x, 1.0, 18, 19
+O, 16, 0, 1.0, 20
+O, 17, ,, 1.0, 21
+O, 18, p, 1.0, 22, 23
+O, 19, 1, 1.0, 24
+O, 20, H, 1.0, 25, 26, 27
+O, 21, (, 1.0, 28
+O, 22, L, 1.0, 29
+O, 23, i, 1.0, 30, 31
+O, 24, j, 1.0, 32, 33
+O, 25, =, 1.0, 34, 35
+
+# Relations from SRT:
+EO, 0, 2, Sub, 1.0
+EO, 15, 2_ee2cc41c-29c4-4221-9ae0-fc23a9ad883a, Sub, 1.0
+EO, x_56c143e0-996a-46dc-86f5-86b658f7ca9f, n_25396295-148e-496c-a85e-837722320375, Sub, 1.0
+EO, 0, 14, Right, 1.0
+EO, 14, 15, Right, 1.0
+EO, 15, +_ed31084c-9e81-4192-9409-828c8e5d99d1, Right, 1.0
+EO, +_ed31084c-9e81-4192-9409-828c8e5d99d1, \ldots_a118ab78-794b-4d4c-9392-18f836eb6888, Right, 1.0
+EO, \ldots_a118ab78-794b-4d4c-9392-18f836eb6888, +_ef3138bb-f9df-4284-b63d-a09d5a781255, Right, 1.0
+EO, +_ef3138bb-f9df-4284-b63d-a09d5a781255, x_56c143e0-996a-46dc-86f5-86b658f7ca9f, Right, 1.0
+EO, -_6cd2f93b-d363-4695-8274-a26e2b1234b7, 0, Above, 1.0
+EO, -_6cd2f93b-d363-4695-8274-a26e2b1234b7, n_568a0fbb-0aae-42db-ad31-ff304277f151, Below, 1.0
+EO, x_ccc1be70-108c-4f5b-aee8-de04f8390914, 1_a943e20a-6ad4-4295-9c87-42e3a63de66e, Sub, 1.0
+EO, x_eda3d4c3-1b17-4f22-b2d0-2a59f9deda78, 2_cd1bdd25-c097-4528-89ba-5c3e893fa695, Sub, 1.0
+EO, x_170ef91e-7b7a-45fb-b1ac-821ce615a666, n_030bb0cd-390e-4e3c-999f-ea897bc44fec, Sub, 1.0
+EO, x_ccc1be70-108c-4f5b-aee8-de04f8390914, x_eda3d4c3-1b17-4f22-b2d0-2a59f9deda78, Right, 1.0
+EO, x_eda3d4c3-1b17-4f22-b2d0-2a59f9deda78, \ldots_cd398e32-ef96-46cb-a847-009f343cf1d3, Right, 1.0
+EO, \ldots_cd398e32-ef96-46cb-a847-009f343cf1d3, x_170ef91e-7b7a-45fb-b1ac-821ce615a666, Right, 1.0
+EO, 1, x_ccc1be70-108c-4f5b-aee8-de04f8390914, Above, 1.0
+EO, 1, n_9dc455c7-39a7-448e-ba58-3ec2b58f581a, Inside, 1.0
+EO, -_6cd2f93b-d363-4695-8274-a26e2b1234b7, \geq_2a92879a-3ed6-4c10-8916-8feee5d46a85, Right, 1.0
+EO, \geq_2a92879a-3ed6-4c10-8916-8feee5d46a85, 1, Right, 1.0

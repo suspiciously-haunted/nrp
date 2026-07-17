@@ -1,0 +1,25 @@
+# IUD, CROHME_3008
+# Objects(14):
+O, 0, \forall, 1.0, 0, 1
+O, 1, f, 1.0, 2, 3
+O, 2, \in, 1.0, 4, 5
+O, 3, S, 1.0, 6
+O, 4, i, 1.0, 7, 8
+O, 5, ,, 1.0, 9
+O, 6, j, 1.0, 10, 11
+O, 7, 2, 1.0, 12
+O, 8, \in, 1.0, 13, 14
+O, 9, I, 1.0, 15, 16, 17
+O, 10, \exists, 1.0, 18, 19
+O, 11, k, 1.0, 20, 21
+
+# Relations from SRT:
+EO, 0, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, 6, Right, 1.0
+EO, 6, 8, Right, 1.0
+EO, 8, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 10, 11, Right, 1.0
+EO, 11, \in_2737d1cb-dbbe-4391-a8ad-102e909628b0, Right, 1.0
+EO, \in_2737d1cb-dbbe-4391-a8ad-102e909628b0, I_c2a3828c-8662-4d59-8c83-ca67d71abadd, Right, 1.0

@@ -1,0 +1,49 @@
+# IUD, CROHME_25302
+# Objects(3322):
+O, 0, \sum, 1.0, 0, 1
+O, 1, a, 1.0, 2
+O, 2, 1, 1.0, 3
+O, 3, =, 1.0, 4, 5
+O, 4, a, 1.0, 6
+O, 5, 2, 1.0, 7
+O, 6, -, 1.0, 8
+O, 7, a, 1.0, 9
+O, 8, 1, 1.0, 10
+O, 9, =, 1.0, 11, 12
+O, 10, (, 1.0, 13
+O, 11, T, 1.0, 14, 15
+O, 12, 2, 1.0, 16
+O, 13, -, 1.0, 17
+O, 14, T, 1.0, 18, 19
+O, 15, 1, 1.0, 20
+O, 16, ), 1.0, 21
+O, 17, 0, 1.0, 22
+O, 18, ., 1.0, 23
+O, 19, 5, 1.0, 24, 25
+O, 20, 3, 1.0, 26
+O, 21, 2, 1.0, 27
+O, 22, -, 1.0, 28
+O, 23, a, 1.0, 29
+O, 24, 2, 1.0, 30
+O, 25, 3, 1.0, 31
+O, 26, P, 1.0, 32
+
+# Relations from SRT:
+EO, 1, 26, Sub, 1.0
+EO, b_e1b5d56a-a37d-444e-ad7e-01c4edeabce9, P_e3e0b0a8-b646-4c51-aa68-ea0408f21d6b, Sub, 1.0
+EO, a_316011ef-66d2-49fe-9ac6-c7e91bdb4f90, P_b68a99ed-afe9-4dc3-b277-5e6ea8b3ffc4, Sub, 1.0
+EO, b_ecde8c6e-92dd-4b35-8fcc-372959b38591, P_56e7b3c4-0b42-4535-a5df-b446725cef1a, Sub, 1.0
+EO, (_8f5a3ff6-d3ae-4a53-b01f-b57551c7329c, a_316011ef-66d2-49fe-9ac6-c7e91bdb4f90, Right, 1.0
+EO, a_316011ef-66d2-49fe-9ac6-c7e91bdb4f90, +_cd67e659-1910-4150-9a4d-ebf430e91e1d, Right, 1.0
+EO, +_cd67e659-1910-4150-9a4d-ebf430e91e1d, b_ecde8c6e-92dd-4b35-8fcc-372959b38591, Right, 1.0
+EO, b_ecde8c6e-92dd-4b35-8fcc-372959b38591, )_bedd3d22-5709-444d-a8a7-474ab85a85e1, Right, 1.0
+EO, )_bedd3d22-5709-444d-a8a7-474ab85a85e1, P_a4253544-b9fc-4d65-8e03-df3ca61be104, Right, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, P_c6475014-abcc-48b3-ae79-294b1a0b105b, Right, 1.0
+EO, P_c6475014-abcc-48b3-ae79-294b1a0b105b, +_41e9c11f-5d9a-443f-b79b-de9752e5953d, Right, 1.0
+EO, +_41e9c11f-5d9a-443f-b79b-de9752e5953d, \sum_82b13b1f-1e1b-4ef0-a91c-1776c25d58f9, Right, 1.0
+EO, \sum_82b13b1f-1e1b-4ef0-a91c-1776c25d58f9, b_e1b5d56a-a37d-444e-ad7e-01c4edeabce9, Right, 1.0
+EO, b_e1b5d56a-a37d-444e-ad7e-01c4edeabce9, P_597949f6-c7c2-4145-bca1-eb3ddab9dc38, Right, 1.0
+EO, P_597949f6-c7c2-4145-bca1-eb3ddab9dc38, =_a5f46fc0-a916-4be9-a73c-dcf2481cf6ff, Right, 1.0
+EO, =_a5f46fc0-a916-4be9-a73c-dcf2481cf6ff, \sum_69ab4694-eb40-4401-9e8c-85478b8cb5e5, Right, 1.0
+EO, \sum_69ab4694-eb40-4401-9e8c-85478b8cb5e5, (_8f5a3ff6-d3ae-4a53-b01f-b57551c7329c, Right, 1.0

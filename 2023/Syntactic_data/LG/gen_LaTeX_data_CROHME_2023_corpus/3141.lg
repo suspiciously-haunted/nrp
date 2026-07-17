@@ -1,0 +1,49 @@
+# IUD, CROHME_3141
+# Objects(66):
+O, 0, r, 1.0, 0
+O, 1, 2, 1.0, 1
+O, 2, =, 1.0, 2, 3
+O, 3, \sum, 1.0, 4, 5
+O, 4, a, 1.0, 6
+O, 5, \geq, 1.0, 7, 8
+O, 6, b, 1.0, 9
+O, 7, \geq, 1.0, 10, 11
+O, 8, |, 1.0, 12
+O, 9, c, 1.0, 13
+O, 10, |, 1.0, 14
+O, 11, =, 1.0, 15, 16
+O, 12, 1, 1.0, 17
+O, 13, 1, 1.0, 18
+O, 14, x, 1.0, 19, 20
+O, 15, A, 1.0, 21, 22
+O, 16, =, 1.0, 23, 24
+O, 17, 4, 1.0, 25
+O, 18, 4, 1.0, 26, 27
+O, 19, x, 1.0, 28, 29
+O, 20, B, 1.0, 30
+O, 21, =, 1.0, 31
+
+# Relations from SRT:
+EO, 0, 1, Sup, 1.0
+EO, 4, 11, Right, 1.0
+EO, 11, 12, Right, 1.0
+EO, 3, 4, Sup, 1.0
+EO, 3, m_12961532-b6c4-4ca0-9b71-adc303c83211, Sub, 1.0
+EO, y_f6b265d9-f006-4672-9ea5-44a856adcd92, a_dd364945-b930-489b-a0e4-14a9c617deb0, Sup, 1.0
+EO, (_ea9e0615-d3aa-43d3-9e3a-0285a98c976b, y_f6b265d9-f006-4672-9ea5-44a856adcd92, Right, 1.0
+EO, y_f6b265d9-f006-4672-9ea5-44a856adcd92, )_2da40db8-f965-44f5-a5a7-1c63d938ec9e, Right, 1.0
+EO, (_ea9e0615-d3aa-43d3-9e3a-0285a98c976b, 2_2efd5ad4-7c61-4b0a-9bbf-38b291fba502, Sup, 1.0
+EO, a_3b304122-2ba7-4172-9f4c-302fc86876a0, =_773ff67b-ca43-4e27-9214-0cc9978caf78, Right, 1.0
+EO, =_773ff67b-ca43-4e27-9214-0cc9978caf78, 1_ad8be8dc-c8c5-451b-b3ea-f96dffee919a, Right, 1.0
+EO, \sum_fbe19ead-d207-4c2d-8ab8-a4e87a32673f, a_3b304122-2ba7-4172-9f4c-302fc86876a0, Sup, 1.0
+EO, \sum_fbe19ead-d207-4c2d-8ab8-a4e87a32673f, n_0a31d079-379b-4a2d-bd1f-6ef0f3902117, Sub, 1.0
+EO, z_7f794599-b2b0-430f-9740-885380a5060d, a_e1bd6d2f-926c-4efe-9f2f-a5e1e8fb9405, Sup, 1.0
+EO, (_28c29eef-c789-4e12-b324-713a5ae1f0bd, z_7f794599-b2b0-430f-9740-885380a5060d, Right, 1.0
+EO, z_7f794599-b2b0-430f-9740-885380a5060d, )_9d76eb54-50e2-41d5-9473-5151a5208f43, Right, 1.0
+EO, (_28c29eef-c789-4e12-b324-713a5ae1f0bd, 2_e7dd1b4a-5867-4b32-8a1c-49a2eed65765, Sup, 1.0
+EO, 0, 2, Right, 1.0
+EO, 2, 3, Right, 1.0
+EO, 3, (_ea9e0615-d3aa-43d3-9e3a-0285a98c976b, Right, 1.0
+EO, (_ea9e0615-d3aa-43d3-9e3a-0285a98c976b, +_753654b7-2a2a-4a9b-a8e1-4e88ab7a9bac, Right, 1.0
+EO, +_753654b7-2a2a-4a9b-a8e1-4e88ab7a9bac, \sum_fbe19ead-d207-4c2d-8ab8-a4e87a32673f, Right, 1.0
+EO, \sum_fbe19ead-d207-4c2d-8ab8-a4e87a32673f, (_28c29eef-c789-4e12-b324-713a5ae1f0bd, Right, 1.0

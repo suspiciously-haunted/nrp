@@ -1,0 +1,17 @@
+# IUD, CROHME_4032
+# Objects(8):
+O, 0, S, 1.0, 0
+O, 1, =, 1.0, 1, 2
+O, 2, X, 1.0, 3, 4
+O, 3, C, 1.0, 5
+O, 4, n, 1.0, 6
+O, 5, X, 1.0, 7, 8
+O, 6, T, 1.0, 9, 10
+
+# Relations from SRT:
+EO, 3, 4, Sub, 1.0
+EO, 5, 6, Sup, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0
+EO, 3, 5, Right, 1.0

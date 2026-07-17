@@ -1,0 +1,39 @@
+# IUD, CROHME_40247
+# Objects(619):
+O, 0, B, 1.0, 0, 1, 2, 3
+O, 1, m, 1.0, 4
+O, 2, G, 1.0, 5, 6, 7
+O, 3, =, 1.0, 8, 9
+O, 4, C, 1.0, 10
+O, 5, E, 1.0, 11, 12, 13
+O, 6, P, 1.0, 14, 15
+O, 7, \geq, 1.0, 16, 17
+O, 8, 0, 1.0, 18
+O, 9, (, 1.0, 19
+O, 10, \mu, 1.0, 20, 21
+O, 11, ), 1.0, 22
+O, 12, -, 1.0, 23
+O, 13, E, 1.0, 24, 25, 26, 27
+O, 14, R, 1.0, 28
+O, 15, 2, 1.0, 29
+
+# Relations from SRT:
+EO, X_44f14259-0d6a-47dc-80df-784b30606367, X_a68a662b-adda-4f45-81bd-b8a7029f68e5, Right, 1.0
+EO, 0, X_44f14259-0d6a-47dc-80df-784b30606367, Sub, 1.0
+EO, c_f6b6d66f-48ea-4c0c-adf5-20a8fe18c491, 1_c0cba4cb-a000-45f0-baf8-921054d16081, Sub, 1.0
+EO, a_2f781cb0-6fda-44ae-8675-e376c0003542, 2_271ed0dd-7ec5-48d0-b01d-f1a1512ba4e5, Sup, 1.0
+EO, -_7344bd13-4b1f-4411-9bb9-7eb3aac2f405, c_f6b6d66f-48ea-4c0c-adf5-20a8fe18c491, Above, 1.0
+EO, -_7344bd13-4b1f-4411-9bb9-7eb3aac2f405, a_2f781cb0-6fda-44ae-8675-e376c0003542, Below, 1.0
+EO, c_1773a3b1-2a58-486d-8edc-9b6ec61955a5, 2_0390740f-9585-42da-a42d-d7056bf99c43, Sub, 1.0
+EO, -_c42c71c1-fb10-4fa0-bc51-da089770644b, c_1773a3b1-2a58-486d-8edc-9b6ec61955a5, Above, 1.0
+EO, -_c42c71c1-fb10-4fa0-bc51-da089770644b, a_8f244ddb-5e0b-46ac-9503-99bc27265189, Below, 1.0
+EO, b_e8812efb-b428-4185-84d2-fe3b05853943, u_44073a69-2ec0-4647-a667-68764635522b, Right, 1.0
+EO, u_44073a69-2ec0-4647-a667-68764635522b, l_dfbc0b5c-4c1c-4314-9219-8dfe14a912fc, Right, 1.0
+EO, l_dfbc0b5c-4c1c-4314-9219-8dfe14a912fc, k_6c9225b1-3e09-4221-b036-dd2d41184ac4, Right, 1.0
+EO, B_73a618ee-b449-46ed-8608-02a1dae2fabb, b_e8812efb-b428-4185-84d2-fe3b05853943, Sub, 1.0
+EO, 0, =_5b5813cc-7ca5-4c7e-8602-867a98b8e564, Right, 1.0
+EO, =_5b5813cc-7ca5-4c7e-8602-867a98b8e564, -_7344bd13-4b1f-4411-9bb9-7eb3aac2f405, Right, 1.0
+EO, -_7344bd13-4b1f-4411-9bb9-7eb3aac2f405, +_95da9061-546d-4be4-aa1f-de72ac44ce1c, Right, 1.0
+EO, +_95da9061-546d-4be4-aa1f-de72ac44ce1c, -_c42c71c1-fb10-4fa0-bc51-da089770644b, Right, 1.0
+EO, -_c42c71c1-fb10-4fa0-bc51-da089770644b, +_9b168519-8819-457e-ba90-5767fc112592, Right, 1.0
+EO, +_9b168519-8819-457e-ba90-5767fc112592, B_73a618ee-b449-46ed-8608-02a1dae2fabb, Right, 1.0

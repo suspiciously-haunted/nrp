@@ -1,0 +1,41 @@
+# IUD, CROHME_30073
+# Objects(3976):
+O, 0, P, 1.0, 0, 1
+O, 1, V, 1.0, 2
+O, 2, \infty, 1.0, 3
+O, 3, m, 1.0, 4
+O, 4, (, 1.0, 5
+O, 5, x, 1.0, 6, 7
+O, 6, 3, 1.0, 8
+O, 7, +, 1.0, 9, 10
+O, 8, x, 1.0, 11, 12
+O, 9, ), 1.0, 13
+O, 10, +, 1.0, 14, 15
+O, 11, (, 1.0, 16
+O, 12, x, 1.0, 17, 18
+O, 13, 2, 1.0, 19
+O, 14, +, 1.0, 20, 21
+O, 15, 1, 1.0, 22
+O, 16, ), 1.0, 23
+O, 17, =, 1.0, 24, 25
+O, 18, x, 1.0, 26
+
+# Relations from SRT:
+EO, c_94e36e9e-48d5-459b-a30f-a5c4b53f389e, p_07f69c3c-d5ce-4244-9c25-7400f33f7cc1, Right, 1.0
+EO, p_07f69c3c-d5ce-4244-9c25-7400f33f7cc1, u_8b28f477-db66-48d6-87b3-8fd292a87e90, Right, 1.0
+EO, 0, c_94e36e9e-48d5-459b-a30f-a5c4b53f389e, Sub, 1.0
+EO, d_5e14c337-6bc4-433f-923f-2474ed25cf43, y_e9d6dfb2-2cf9-4c3f-9ffa-2b26ba215694, Right, 1.0
+EO, y_e9d6dfb2-2cf9-4c3f-9ffa-2b26ba215694, n_26612d48-779b-4ab3-bad1-d0e92b0a02fd, Right, 1.0
+EO, P_81e27df0-a396-41fc-a3cb-2189b8937c8c, d_5e14c337-6bc4-433f-923f-2474ed25cf43, Sub, 1.0
+EO, s_1fedf0cc-cbf5-473c-867c-f0127294a5b8, c_8372ad25-066d-4fec-850c-b66300f45c10, Right, 1.0
+EO, P_e79e991b-dc7a-4dca-a6e0-22d2568c73ba, s_1fedf0cc-cbf5-473c-867c-f0127294a5b8, Sub, 1.0
+EO, l_284e7549-9a14-4d0f-aca2-a8891a0eca1c, e_f73d3981-ec4a-48e2-b501-64152811258e, Right, 1.0
+EO, e_f73d3981-ec4a-48e2-b501-64152811258e, a_00cefa01-d155-492f-8923-1662a7f3e1ee, Right, 1.0
+EO, a_00cefa01-d155-492f-8923-1662a7f3e1ee, k_b0292eae-2506-4cf8-bc0b-b3559044c506, Right, 1.0
+EO, P_9c17db4f-c82c-48f4-8a50-8a36fab6facc, l_284e7549-9a14-4d0f-aca2-a8891a0eca1c, Sub, 1.0
+EO, 0, =_d272f492-21a5-4876-9bcc-94aff7a8f092, Right, 1.0
+EO, =_d272f492-21a5-4876-9bcc-94aff7a8f092, P_81e27df0-a396-41fc-a3cb-2189b8937c8c, Right, 1.0
+EO, P_81e27df0-a396-41fc-a3cb-2189b8937c8c, +_00dc53b4-772d-4953-bb92-97ccbd63a6ad, Right, 1.0
+EO, +_00dc53b4-772d-4953-bb92-97ccbd63a6ad, P_e79e991b-dc7a-4dca-a6e0-22d2568c73ba, Right, 1.0
+EO, P_e79e991b-dc7a-4dca-a6e0-22d2568c73ba, +_3b082f27-dea7-4d2d-8ba4-ba21b62a2651, Right, 1.0
+EO, +_3b082f27-dea7-4d2d-8ba4-ba21b62a2651, P_9c17db4f-c82c-48f4-8a50-8a36fab6facc, Right, 1.0

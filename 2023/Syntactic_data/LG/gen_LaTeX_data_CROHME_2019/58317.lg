@@ -1,0 +1,45 @@
+# IUD, CROHME_58317
+# Objects(4450):
+O, 0, x, 1.0, 0, 1
+O, 1, x, 1.0, 2, 3
+O, 2, 4, 1.0, 4, 5
+O, 3, 0, 1.0, 6
+O, 4, \leq, 1.0, 7, 8
+O, 5, B, 1.0, 9, 10
+O, 6, 1, 1.0, 11
+O, 7, C, 1.0, 12
+O, 8, P, 1.0, 13, 14
+O, 9, A, 1.0, 15, 16
+O, 10, T, 1.0, 17, 18
+O, 11, M, 1.0, 19
+O, 12, =, 1.0, 20, 21
+O, 13, 3, 1.0, 22
+O, 14, /, 1.0, 23
+O, 15, 4, 1.0, 24
+O, 16, 1, 1.0, 25
+O, 17, \rightarrow, 1.0, 26, 27
+O, 18, R, 1.0, 28, 29
+O, 19, (, 1.0, 30
+O, 20, 2, 1.0, 31
+
+# Relations from SRT:
+EO, 0, 2, Sup, 1.0
+EO, x_97780313-c5b2-4de4-9106-9732d5994ea1, 2_8e806b07-7a92-4eca-a7ab-3eca5e89f032, Sup, 1.0
+EO, y_9225a335-1db3-4e21-bc52-ae33ffe155dc, 2_d98b577a-5ea3-481a-b151-e76d32c97197, Sup, 1.0
+EO, 5, 4_19668a63-85fb-416b-bd14-9130d85d203b, Sup, 1.0
+EO, x_f5c1c3f0-3a33-434e-a3cc-f3e6e5557f45, 3_64ff85af-a611-4745-acec-a27b194c189e, Sup, 1.0
+EO, 8, 2_81c83ee0-3eb2-47de-872e-991cf248a5ae, Sup, 1.0
+EO, 0, +_0fe31ccc-a3f0-444a-bb1b-a1e7da9f780c, Right, 1.0
+EO, +_0fe31ccc-a3f0-444a-bb1b-a1e7da9f780c, 2_dfe0cf88-21d9-4d45-82e1-fcce3930a682, Right, 1.0
+EO, 2_dfe0cf88-21d9-4d45-82e1-fcce3930a682, x_97780313-c5b2-4de4-9106-9732d5994ea1, Right, 1.0
+EO, x_97780313-c5b2-4de4-9106-9732d5994ea1, y_9225a335-1db3-4e21-bc52-ae33ffe155dc, Right, 1.0
+EO, y_9225a335-1db3-4e21-bc52-ae33ffe155dc, +_fba85545-9ed7-43e9-9326-7bb62425a6da, Right, 1.0
+EO, +_fba85545-9ed7-43e9-9326-7bb62425a6da, 5, Right, 1.0
+EO, 5, -_7d9b4b53-c64d-47df-9a10-d5d3774d9d93, Right, 1.0
+EO, -_7d9b4b53-c64d-47df-9a10-d5d3774d9d93, x_f5c1c3f0-3a33-434e-a3cc-f3e6e5557f45, Right, 1.0
+EO, x_f5c1c3f0-3a33-434e-a3cc-f3e6e5557f45, +_2cdf50a0-0966-495c-b429-9e632b447231, Right, 1.0
+EO, +_2cdf50a0-0966-495c-b429-9e632b447231, 3_010fae48-b449-4e4c-b2ff-1c2504a89163, Right, 1.0
+EO, 3_010fae48-b449-4e4c-b2ff-1c2504a89163, x_da096d38-792a-4826-a6eb-ac971e90dbd9, Right, 1.0
+EO, x_da096d38-792a-4826-a6eb-ac971e90dbd9, 8, Right, 1.0
+EO, 8, =_316e3750-6b04-47af-b56a-5336ce9b7a6d, Right, 1.0
+EO, =_316e3750-6b04-47af-b56a-5336ce9b7a6d, 0_7dbce615-f3f8-4e19-b92b-cd85671bd9da, Right, 1.0

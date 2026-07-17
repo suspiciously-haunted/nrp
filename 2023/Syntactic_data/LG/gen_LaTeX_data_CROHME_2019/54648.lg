@@ -1,0 +1,49 @@
+# IUD, CROHME_54648
+# Objects(2022):
+O, 0, v, 1.0, 0
+O, 1, i, 1.0, 1, 2
+O, 2, b, 1.0, 3
+O, 3, (, 1.0, 4
+O, 4, z, 1.0, 5, 6
+O, 5, -, 1.0, 7
+O, 6, 1, 1.0, 8
+O, 7, -, 1.0, 9
+O, 8, 5, 1.0, 10
+O, 9, s, 1.0, 11
+O, 10, 1, 1.0, 12, 13
+O, 11, 5, 1.0, 14, 15
+O, 12, ), 1.0, 16
+O, 13, =, 1.0, 17, 18
+O, 14, (, 1.0, 19
+O, 15, t, 1.0, 20, 21
+O, 16, ), 1.0, 22
+O, 17, N, 1.0, 23
+O, 18, z, 1.0, 24
+O, 19, 3, 1.0, 25
+O, 20, (, 1.0, 26
+O, 21, u, 1.0, 27
+O, 22, ), 1.0, 28
+O, 23, p, 1.0, 29
+
+# Relations from SRT:
+EO, e_6aad7842-7eb7-45be-8088-566ac901c104, x_c6f629cf-5c6e-4c25-af2e-887a9944b284, Right, 1.0
+EO, x_c6f629cf-5c6e-4c25-af2e-887a9944b284, p_04bd394c-7a25-4f48-a4e0-6db95feb73b4, Right, 1.0
+EO, \sqrt_e3a7d4e7-f475-4ca1-a147-44f5b43c9580, 6_7c83a700-0be3-4a7c-bae1-29edd6068119, Inside, 1.0
+EO, \pm_af13f5d8-0e43-4971-80c2-8e10f108bad4, z_64efd86f-57d5-40fa-bcec-9e79e9a57bb1, Right, 1.0
+EO, z_64efd86f-57d5-40fa-bcec-9e79e9a57bb1, /_8d2658c3-517a-4d6f-8731-c7c48df39206, Right, 1.0
+EO, /_8d2658c3-517a-4d6f-8731-c7c48df39206, \sqrt_e3a7d4e7-f475-4ca1-a147-44f5b43c9580, Right, 1.0
+EO, (_52da4c2e-bd5b-4d90-af62-bbea3d214b80, \pm_af13f5d8-0e43-4971-80c2-8e10f108bad4, Right, 1.0
+EO, \pm_af13f5d8-0e43-4971-80c2-8e10f108bad4, )_b2647e2f-d53d-459a-9f3d-6e07b2292795, Right, 1.0
+EO, 1_331bbee9-1d83-4e08-bb53-879fec1cffd7, +_c14fcdfe-a4ef-44de-9693-8e83eb4ebe34, Right, 1.0
+EO, +_c14fcdfe-a4ef-44de-9693-8e83eb4ebe34, C_09fa7954-652b-4876-abb8-71464900162c, Right, 1.0
+EO, C_09fa7954-652b-4876-abb8-71464900162c, e_6aad7842-7eb7-45be-8088-566ac901c104, Right, 1.0
+EO, e_6aad7842-7eb7-45be-8088-566ac901c104, (_52da4c2e-bd5b-4d90-af62-bbea3d214b80, Right, 1.0
+EO, 14, 1_331bbee9-1d83-4e08-bb53-879fec1cffd7, Right, 1.0
+EO, 1_331bbee9-1d83-4e08-bb53-879fec1cffd7, )_9c857988-bd49-40d8-b8a1-8ba2fb74c5d9, Right, 1.0
+EO, -_82d556fb-4daa-408e-9491-1aa00756e7b1, 2_5164d98e-8d66-4700-9d06-2e10acd770ab, Right, 1.0
+EO, 14, -_82d556fb-4daa-408e-9491-1aa00756e7b1, Sup, 1.0
+EO, 0, 3, Right, 1.0
+EO, 3, 4, Right, 1.0
+EO, 4, 12, Right, 1.0
+EO, 12, 13, Right, 1.0
+EO, 13, 14, Right, 1.0

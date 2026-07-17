@@ -1,0 +1,61 @@
+# IUD, CROHME_9893
+# Objects(65):
+O, 0, (, 1.0, 0
+O, 1, s, 1.0, 1
+O, 2, j, 1.0, 2, 3, 4
+O, 3, r, 1.0, 5
+O, 4, =, 1.0, 6, 7
+O, 5, \int, 1.0, 8
+O, 6, t, 1.0, 9, 10
+O, 7, 0, 1.0, 11
+O, 8, t, 1.0, 12, 13
+O, 9, 1, 1.0, 14
+O, 10, f, 1.0, 15
+O, 11, r, 1.0, 16
+O, 12, d, 1.0, 17
+O, 13, t, 1.0, 18, 19
+O, 14, i, 1.0, 20, 21
+O, 15, v, 1.0, 22
+O, 16, (, 1.0, 23
+O, 17, x, 1.0, 24, 25
+O, 18, ), 1.0, 26
+O, 19, -, 1.0, 27
+O, 20, s, 1.0, 28
+O, 21, i, 1.0, 29, 30
+O, 22, i, 1.0, 31, 32
+O, 23, j, 1.0, 33, 34
+O, 24, i, 1.0, 35, 36, 37
+O, 25, v, 1.0, 38
+O, 26, p, 1.0, 39, 40
+O, 27, (, 1.0, 41
+O, 28, x, 1.0, 42
+
+# Relations from SRT:
+EO, 2, 14, Right, 1.0
+EO, 1, 2, Sup, 1.0
+EO, 1, 15, Sub, 1.0
+EO, 22, 23, Right, 1.0
+EO, 20, 22, Sup, 1.0
+EO, 20, 25, Sub, 1.0
+EO, x_02eefb4c-a7b8-4142-89ae-cc27ccfcd122, i_7e6f398a-e9ee-42b8-a331-500fc75aeb00, Sub, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 16, Right, 1.0
+EO, 16, 17, Right, 1.0
+EO, 17, 18, Right, 1.0
+EO, 18, 19, Right, 1.0
+EO, 19, 20, Right, 1.0
+EO, 20, 27, Right, 1.0
+EO, 27, 28, Right, 1.0
+EO, 28, )_839fa2d4-4ea4-4c67-b7a7-167ed65c6a5c, Right, 1.0
+EO, )_839fa2d4-4ea4-4c67-b7a7-167ed65c6a5c, )_982f9403-d1c5-42dd-9fa8-62b056350061, Right, 1.0
+EO, )_982f9403-d1c5-42dd-9fa8-62b056350061, \times_fb03117e-269e-4125-b687-314d0b1bb280, Right, 1.0
+EO, \times_fb03117e-269e-4125-b687-314d0b1bb280, (_65bab5cc-a034-4a82-a493-620ad0b5fd4d, Right, 1.0
+EO, (_65bab5cc-a034-4a82-a493-620ad0b5fd4d, x_02eefb4c-a7b8-4142-89ae-cc27ccfcd122, Right, 1.0
+EO, x_02eefb4c-a7b8-4142-89ae-cc27ccfcd122, -_6978ba99-82f9-4f05-b4a8-248fd7ba0fc0, Right, 1.0
+EO, -_6978ba99-82f9-4f05-b4a8-248fd7ba0fc0, v_9d22ef77-bff6-4086-a12d-e4632b21fe64, Right, 1.0
+EO, v_9d22ef77-bff6-4086-a12d-e4632b21fe64, (_6d58cc2d-8e70-4478-b3c1-57ff1e1c45cc, Right, 1.0
+EO, (_6d58cc2d-8e70-4478-b3c1-57ff1e1c45cc, i_4222f8ce-2e71-47b9-a01e-c6da86e10f27, Right, 1.0
+EO, i_4222f8ce-2e71-47b9-a01e-c6da86e10f27, )_9f2e38e0-3b53-4207-b482-200f0e9f0f9b, Right, 1.0
+EO, )_9f2e38e0-3b53-4207-b482-200f0e9f0f9b, )_4f9e683b-2b9f-4a57-91d7-0cf42555ebaf, Right, 1.0
+EO, )_4f9e683b-2b9f-4a57-91d7-0cf42555ebaf, \leq_22467a78-7d28-40f7-b467-99f275e4de29, Right, 1.0
+EO, \leq_22467a78-7d28-40f7-b467-99f275e4de29, 0_b5dab749-c5c5-4a5b-a2fb-e6182428d253, Right, 1.0

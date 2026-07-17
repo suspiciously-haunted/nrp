@@ -1,0 +1,33 @@
+# IUD, CROHME_38068
+# Objects(43):
+O, 0, y, 1.0, 0
+O, 1, j, 1.0, 1, 2
+O, 2, j, 1.0, 3, 4
+O, 3, (, 1.0, 5
+O, 4, E, 1.0, 6, 7
+O, 5, \prime, 1.0, 8
+O, 6, ), 1.0, 9
+O, 7, =, 1.0, 10, 11
+O, 8, \sin, 1.0, 12, 13, 14, 15
+O, 9, t, 1.0, 16, 17
+O, 10, \cos, 1.0, 18, 19, 20
+O, 11, (, 1.0, 21
+O, 12, a, 1.0, 22
+O, 13, \sqrt, 1.0, 23
+O, 14, z, 1.0, 24, 25
+O, 15, ), 1.0, 26
+O, 16, t, 1.0, 27, 28
+
+# Relations from SRT:
+EO, 0, 7, Right, 1.0
+EO, 7, 8, Right, 1.0
+EO, 8, 9, Right, 1.0
+EO, 9, 10, Right, 1.0
+EO, 10, 16, Right, 1.0
+EO, 16, (_3c1d4639-a6bd-4c3b-971f-4b3dc640f773, Right, 1.0
+EO, (_3c1d4639-a6bd-4c3b-971f-4b3dc640f773, \sin_bab41507-2d40-4c63-b86c-4c14be0f2f2e, Right, 1.0
+EO, \sin_bab41507-2d40-4c63-b86c-4c14be0f2f2e, t_04562bb8-0f64-4fcf-b48d-351b26cc221b, Right, 1.0
+EO, t_04562bb8-0f64-4fcf-b48d-351b26cc221b, +_1e3720f0-0464-4f2d-be6c-fc0880569211, Right, 1.0
+EO, +_1e3720f0-0464-4f2d-be6c-fc0880569211, \cos_7ec910e0-4bd3-4998-8cbb-160bf51fcbe7, Right, 1.0
+EO, \cos_7ec910e0-4bd3-4998-8cbb-160bf51fcbe7, t_a4f91e77-6911-4ede-a547-15c8b6eb92f4, Right, 1.0
+EO, t_a4f91e77-6911-4ede-a547-15c8b6eb92f4, )_ba896cea-737f-4ba6-84cd-c721fa6330de, Right, 1.0

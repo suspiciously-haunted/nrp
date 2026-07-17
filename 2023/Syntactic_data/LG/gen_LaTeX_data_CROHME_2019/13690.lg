@@ -1,0 +1,68 @@
+# IUD, CROHME_13690
+# Objects(57):
+O, 0, |, 1.0, 0
+O, 1, \log, 1.0, 1, 2, 3
+O, 2, (, 1.0, 4
+O, 3, 0, 1.0, 5
+O, 4, ,, 1.0, 6
+O, 5, 0, 1.0, 7
+O, 6, ), 1.0, 8
+O, 7, 1, 1.0, 9
+O, 8, 0, 1.0, 10
+O, 9, b, 1.0, 11
+O, 10, -, 1.0, 12
+O, 11, p, 1.0, 13
+O, 12, 2, 1.0, 14
+O, 13, ), 1.0, 15
+O, 14, -, 1.0, 16
+O, 15, \log, 1.0, 17, 18, 19
+O, 16, (, 1.0, 20
+O, 17, p, 1.0, 21, 22
+O, 18, ), 1.0, 23
+O, 19, |, 1.0, 24
+O, 20, \geq, 1.0, 25, 26
+O, 21, 2, 1.0, 27
+O, 22, \log, 1.0, 28, 29, 30
+O, 23, (, 1.0, 31
+O, 24, d, 1.0, 32
+O, 25, -, 1.0, 33
+O, 26, \sqrt, 1.0, 34
+O, 27, d, 1.0, 35
+O, 28, 2, 1.0, 36
+O, 29, n, 1.0, 37
+O, 30, \log, 1.0, 38, 39, 40
+O, 31, \log, 1.0, 41, 42, 43
+
+# Relations from SRT:
+EO, 1, 2, Right, 1.0
+EO, 2, 7, Right, 1.0
+EO, 7, 10, Right, 1.0
+EO, 10, 11, Right, 1.0
+EO, 11, 13, Right, 1.0
+EO, 13, 14, Right, 1.0
+EO, 14, 15, Right, 1.0
+EO, 15, 16, Right, 1.0
+EO, 16, 17, Right, 1.0
+EO, 17, 18, Right, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 19, Right, 1.0
+EO, 27, 28, Sup, 1.0
+EO, 27, -_c84cf637-2dc2-4a9c-b4ce-56cea7d832ce, Right, 1.0
+EO, -_c84cf637-2dc2-4a9c-b4ce-56cea7d832ce, 1_a8ad5886-208e-4039-856a-1f91751313a8, Right, 1.0
+EO, 26, 27, Inside, 1.0
+EO, d_504906e2-ca4f-4fbc-aa72-24529e6b4247, 2_e19404a3-fa9c-4446-8eb7-54e96927c9c2, Sup, 1.0
+EO, d_504906e2-ca4f-4fbc-aa72-24529e6b4247, -_8c9cd568-d87b-4139-8cfe-a39dcfd7a567, Right, 1.0
+EO, -_8c9cd568-d87b-4139-8cfe-a39dcfd7a567, 1_64443a8d-c680-4000-b72c-be36b44a8ad4, Right, 1.0
+EO, \sqrt_2198e2b8-bede-4df6-9a55-30dd956ff8af, d_504906e2-ca4f-4fbc-aa72-24529e6b4247, Inside, 1.0
+EO, 0, 20, Right, 1.0
+EO, 20, 21, Right, 1.0
+EO, 21, 22, Right, 1.0
+EO, 22, 23, Right, 1.0
+EO, 23, 24, Right, 1.0
+EO, 24, 25, Right, 1.0
+EO, 25, 26, Right, 1.0
+EO, 26, )_4d1a67e9-d074-4b8a-896d-8fbb63fb5f09, Right, 1.0
+EO, )_4d1a67e9-d074-4b8a-896d-8fbb63fb5f09, +_3a2bfce3-c750-42fa-9f46-d4798950439d, Right, 1.0
+EO, +_3a2bfce3-c750-42fa-9f46-d4798950439d, 2_b6ecdedf-5f95-4f64-9457-c8c29693a409, Right, 1.0
+EO, 2_b6ecdedf-5f95-4f64-9457-c8c29693a409, d_b6c5f8bc-cc37-4696-bb34-214af8445468, Right, 1.0
+EO, d_b6c5f8bc-cc37-4696-bb34-214af8445468, \sqrt_2198e2b8-bede-4df6-9a55-30dd956ff8af, Right, 1.0

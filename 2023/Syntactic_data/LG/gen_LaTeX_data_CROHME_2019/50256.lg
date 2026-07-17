@@ -1,0 +1,31 @@
+# IUD, CROHME_50256
+# Objects(1817):
+O, 0, x, 1.0, 0
+O, 1, 5, 1.0, 1
+O, 2, 2, 1.0, 2
+O, 3, n, 1.0, 3
+O, 4, =, 1.0, 4, 5
+O, 5, \sqrt, 1.0, 6
+O, 6, r, 1.0, 7
+O, 7, j, 1.0, 8, 9
+O, 8, =, 1.0, 10, 11
+O, 9, r, 1.0, 12
+O, 10, (, 1.0, 13
+O, 11, 2, 1.0, 14
+O, 12, ), 1.0, 15
+O, 13, q, 1.0, 16
+O, 14, (, 1.0, 17, 18
+O, 15, t, 1.0, 19
+
+# Relations from SRT:
+EO, 6, 2_1802d9db-651c-4588-a3ab-6afa10fdb0a4, Sup, 1.0
+EO, a_1dddd8f4-d80e-412a-8e65-0ba563cd7d61, 2_27299aaa-487f-44c9-90bf-f3b50e0a183d, Sup, 1.0
+EO, 6, +_aa5c199d-0630-4321-a24c-55566bce355c, Right, 1.0
+EO, +_aa5c199d-0630-4321-a24c-55566bce355c, a_1dddd8f4-d80e-412a-8e65-0ba563cd7d61, Right, 1.0
+EO, 5, 6, Inside, 1.0
+EO, 0, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 5, \sin_16a36dd1-c929-408c-9a03-796df1b74b70, Right, 1.0
+EO, \sin_16a36dd1-c929-408c-9a03-796df1b74b70, \theta_f76ffd1c-627a-4ac0-a170-18928ac28550, Right, 1.0
+EO, \theta_f76ffd1c-627a-4ac0-a170-18928ac28550, \cos_937b7f31-6ad6-402d-9ecb-7a2c8491af00, Right, 1.0
+EO, \cos_937b7f31-6ad6-402d-9ecb-7a2c8491af00, \phi_e2fd9ae4-bbb1-4329-86cf-ccb91f3233c4, Right, 1.0

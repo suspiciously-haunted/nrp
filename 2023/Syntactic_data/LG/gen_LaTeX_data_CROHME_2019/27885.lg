@@ -1,0 +1,15 @@
+# IUD, CROHME_27885
+# Objects(1425):
+O, 0, \pi, 1.0, 0, 1, 2
+O, 1, 3, 1.0, 3
+O, 2, -, 1.0, 4
+O, 3, 6, 1.0, 5
+O, 4, 0, 1.0, 6
+O, 5, R, 1.0, 7, 8
+
+# Relations from SRT:
+EO, 0, 1, Sup, 1.0
+EO, 2, 0, Above, 1.0
+EO, 2, 3, Below, 1.0
+EO, 5, 6_68383743-003f-4faa-a60e-90a6595afb22, Sup, 1.0
+EO, 2, 5, Right, 1.0

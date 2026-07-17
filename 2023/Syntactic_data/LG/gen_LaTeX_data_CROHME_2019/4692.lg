@@ -1,0 +1,22 @@
+# IUD, CROHME_4692
+# Objects(37):
+O, 0, x, 1.0, 0, 1
+O, 1, =, 1.0, 2, 3
+O, 2, x, 1.0, 4, 5
+O, 3, \prime, 1.0, 6
+O, 4, +, 1.0, 7, 8
+O, 5, 1, 1.0, 9, 10
+O, 6, -, 1.0, 11
+O, 7, 3, 1.0, 12
+O, 8, -, 1.0, 13
+O, 9, x, 1.0, 14
+
+# Relations from SRT:
+EO, 2, 3, Sup, 1.0
+EO, 2, 4, Right, 1.0
+EO, 4, 5, Right, 1.0
+EO, 9, \prime_2a5c7c5c-ef10-4190-bb08-8565042fa26c, Sup, 1.0
+EO, 8, 2, Above, 1.0
+EO, 8, 9, Below, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 8, Right, 1.0

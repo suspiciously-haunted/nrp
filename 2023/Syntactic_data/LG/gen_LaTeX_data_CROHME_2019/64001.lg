@@ -1,0 +1,43 @@
+# IUD, CROHME_64001
+# Objects(31344):
+O, 0, z, 1.0, 0, 1
+O, 1, 2, 1.0, 2
+O, 2, \gamma, 1.0, 3
+O, 3, M, 1.0, 4
+O, 4, 1, 1.0, 5
+O, 5, 0, 1.0, 6
+O, 6, X, 1.0, 7, 8
+O, 7, =, 1.0, 9
+O, 8, \{, 1.0, 10
+O, 9, S, 1.0, 11
+O, 10, 2, 1.0, 12
+O, 11, =, 1.0, 13, 14
+O, 12, E, 1.0, 15, 16
+O, 13, (, 1.0, 17
+O, 14, \sin, 1.0, 18, 19, 20, 21
+O, 15, (, 1.0, 22
+O, 16, 2, 1.0, 23
+O, 17, \theta, 1.0, 24, 25
+O, 18, ), 1.0, 26
+O, 19, ), 1.0, 27
+
+# Relations from SRT:
+EO, 1, r_e5c6b425-988c-4334-94bb-2a9ac6d3c5d2, Right, 1.0
+EO, r_e5c6b425-988c-4334-94bb-2a9ac6d3c5d2, a_b0509129-ca22-46dd-9ddb-c260c7bf6e5d, Right, 1.0
+EO, a_b0509129-ca22-46dd-9ddb-c260c7bf6e5d, c_7cca437b-9f14-4cea-8d77-bc4e72b6d96d, Right, 1.0
+EO, z_274ede1f-3ef3-482f-b171-ae3381cb1f9a, 1, Sub, 1.0
+EO, f_edf5bc93-dc6e-4d14-b6f5-7978815ad057, r_b11d923b-52c8-49ef-9efd-1969cfc65fe0, Right, 1.0
+EO, r_b11d923b-52c8-49ef-9efd-1969cfc65fe0, a_3cfdf9f0-8008-4fc8-94a4-7e2bc9642817, Right, 1.0
+EO, a_3cfdf9f0-8008-4fc8-94a4-7e2bc9642817, c_e9348a23-747e-4df0-8b54-51d1dde75b73, Right, 1.0
+EO, z_6f7bc7d6-49cc-43a6-a9ca-638fac4f9dea, f_edf5bc93-dc6e-4d14-b6f5-7978815ad057, Sub, 1.0
+EO, 0, =_5a0dd5b6-206f-4d41-9058-12a58222b95f, Right, 1.0
+EO, =_5a0dd5b6-206f-4d41-9058-12a58222b95f, c_1d918df2-e9f7-4e94-8857-99e0716c8131, Right, 1.0
+EO, c_1d918df2-e9f7-4e94-8857-99e0716c8131, v_c8c9eaf0-9d61-4c19-a396-0bd284028195, Right, 1.0
+EO, v_c8c9eaf0-9d61-4c19-a396-0bd284028195, z_274ede1f-3ef3-482f-b171-ae3381cb1f9a, Right, 1.0
+EO, z_274ede1f-3ef3-482f-b171-ae3381cb1f9a, =_ed39374a-8730-4c83-a04c-6421bea6feca, Right, 1.0
+EO, =_ed39374a-8730-4c83-a04c-6421bea6feca, c_169f66da-c0d5-4b5f-bfad-b0f2490a9aa3, Right, 1.0
+EO, c_169f66da-c0d5-4b5f-bfad-b0f2490a9aa3, z_6f7bc7d6-49cc-43a6-a9ca-638fac4f9dea, Right, 1.0
+EO, z_6f7bc7d6-49cc-43a6-a9ca-638fac4f9dea, 9, Right, 1.0
+EO, 9, (_ee6ccde2-38fa-4f45-9a48-6e5fea58a648, Right, 1.0
+EO, (_ee6ccde2-38fa-4f45-9a48-6e5fea58a648, 13, Right, 1.0
+EO, 13, )_cc8d3756-3636-4e96-bcd1-c171e265c069, Right, 1.0

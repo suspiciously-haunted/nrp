@@ -1,0 +1,24 @@
+# IUD, CROHME_12348
+# Objects(79):
+O, 0, x, 1.0, 0, 1
+O, 1, \lt, 1.0, 2
+O, 2, s, 1.0, 3
+O, 3, =, 1.0, 4, 5
+O, 4, g, 1.0, 6
+O, 5, (, 1.0, 7
+O, 6, x, 1.0, 8, 9
+O, 7, +, 1.0, 10, 11
+O, 8, 1, 1.0, 12
+O, 9, -, 1.0, 13
+
+# Relations from SRT:
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, u_3af90952-c419-4a7f-99ac-82bc2259dde9, Right, 1.0
+EO, u_3af90952-c419-4a7f-99ac-82bc2259dde9, p_bfbfa939-54b8-4793-88f1-bd2cd7341c13, Right, 1.0
+EO, p_bfbfa939-54b8-4793-88f1-bd2cd7341c13, \gt_4915612d-2cac-4b86-a5d6-bc44a48cb788, Right, 1.0
+EO, \gt_4915612d-2cac-4b86-a5d6-bc44a48cb788, 3_620fcb55-27a6-4bee-bf56-d3e5bee0d341, Right, 1.0
+EO, 3_620fcb55-27a6-4bee-bf56-d3e5bee0d341, +_6e5b4cae-1e20-4bb7-ab26-fb94b9dfa435, Right, 1.0
+EO, +_6e5b4cae-1e20-4bb7-ab26-fb94b9dfa435, x_1bf70ef3-354b-4670-8bb6-d373ab6cd771, Right, 1.0
+EO, x_1bf70ef3-354b-4670-8bb6-d373ab6cd771, +_9fe7f672-e124-40f7-b25b-db39a8056a84, Right, 1.0
+EO, +_9fe7f672-e124-40f7-b25b-db39a8056a84, 1_24b79dc7-1c4f-412c-91fa-d4ad655c613d, Right, 1.0

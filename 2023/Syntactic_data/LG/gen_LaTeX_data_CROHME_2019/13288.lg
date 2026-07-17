@@ -1,0 +1,26 @@
+# IUD, CROHME_13288
+# Objects(151):
+O, 0, \gamma, 1.0, 0
+O, 1, k, 1.0, 1, 2, 3
+O, 2, =, 1.0, 4, 5
+O, 3, -, 1.0, 6
+O, 4, \gamma, 1.0, 7, 8
+O, 5, -, 1.0, 9
+O, 6, 2, 1.0, 10
+O, 7, m, 1.0, 11
+O, 8, 2, 1.0, 12
+O, 9, i, 1.0, 13, 14
+
+# Relations from SRT:
+EO, l_70133f8d-428a-49b9-945d-c80413080b65, a_42b497a5-27d3-48f9-a382-6e38bfc35d04, Right, 1.0
+EO, 0, l_70133f8d-428a-49b9-945d-c80413080b65, Sub, 1.0
+EO, l_30d8ba59-e781-40a7-9a98-3643eb11ff41, s_0c1db018-3ac5-4211-9d32-658618b36844, Right, 1.0
+EO, \gamma_69df438e-fe3a-4528-acb9-170dca33f527, l_30d8ba59-e781-40a7-9a98-3643eb11ff41, Sub, 1.0
+EO, s_794df2d2-5327-4a3a-a4a2-6b8d4674e438, a_a802321e-ec4e-42d3-9465-03796d2b5c74, Right, 1.0
+EO, 4, s_794df2d2-5327-4a3a-a4a2-6b8d4674e438, Sub, 1.0
+EO, 0, \gt_e4d6256e-5f9a-439f-9757-80d4320538f5, Right, 1.0
+EO, \gt_e4d6256e-5f9a-439f-9757-80d4320538f5, \gamma_69df438e-fe3a-4528-acb9-170dca33f527, Right, 1.0
+EO, \gamma_69df438e-fe3a-4528-acb9-170dca33f527, -_2f96d867-640d-4cc0-be59-68c4bc01bed3, Right, 1.0
+EO, -_2f96d867-640d-4cc0-be59-68c4bc01bed3, 4, Right, 1.0
+EO, 4, \gt_90997338-52be-4f61-a382-096b215ddccc, Right, 1.0
+EO, \gt_90997338-52be-4f61-a382-096b215ddccc, 0_973b5311-5b5a-418f-a7f0-b9b5a7577b76, Right, 1.0

@@ -1,0 +1,42 @@
+# IUD, CROHME_21782
+# Objects(74):
+O, 0, \log, 1.0, 0, 1, 2
+O, 1, b, 1.0, 3
+O, 2, (, 1.0, 4
+O, 3, -, 1.0, 5, 6
+O, 4, 1, 1.0, 7
+O, 5, +, 1.0, 8, 9
+O, 6, s, 1.0, 10
+O, 7, R, 1.0, 11, 12
+O, 8, C, 1.0, 13, 14
+O, 9, c, 1.0, 15
+O, 10, -, 1.0, 16
+O, 11, n, 1.0, 17
+O, 12, \theta, 1.0, 18
+O, 13, 1, 1.0, 19, 20
+O, 14, =, 1.0, 21, 22
+O, 15, m, 1.0, 23
+O, 16, 0, 1.0, 24
+O, 17, \theta, 1.0, 25, 26, 27, 28
+
+# Relations from SRT:
+EO, 0, 1, Sub, 1.0
+EO, \log_7f8ad044-0ad4-41b6-aca4-cb0f9a6886b8, b_7c77079d-8be5-4681-8ba4-25c04981260b, Sub, 1.0
+EO, \log_fe293b79-6eba-4f81-9a4b-eefb494d17e0, b_b5264edc-2fc2-4a1e-ab95-eee9722fc13c, Sub, 1.0
+EO, -_e2f60834-3adb-4280-aed4-2bc547f56f1c, c_9e0e628b-07f9-4ea6-aeef-247d9220600d, Above, 1.0
+EO, -_e2f60834-3adb-4280-aed4-2bc547f56f1c, a_ccc9c44f-99a9-4869-9e3c-5256472585cb, Below, 1.0
+EO, 1_024f1c33-2c97-4721-b5e3-1b3bf4b33b86, -_6ed1581a-a73d-49a9-b2c8-aef98ef8715a, Right, 1.0
+EO, -_6ed1581a-a73d-49a9-b2c8-aef98ef8715a, -_e2f60834-3adb-4280-aed4-2bc547f56f1c, Right, 1.0
+EO, (_842d45dd-ea59-479b-b4ea-257eb260c31c, 1_024f1c33-2c97-4721-b5e3-1b3bf4b33b86, Right, 1.0
+EO, 1_024f1c33-2c97-4721-b5e3-1b3bf4b33b86, )_e14dbca3-f3da-471b-93aa-abfe55ffe78b, Right, 1.0
+EO, 0, 2, Right, 1.0
+EO, 2, a_b5707f88-a613-45b4-91fa-ff03fe73f572, Right, 1.0
+EO, a_b5707f88-a613-45b4-91fa-ff03fe73f572, -_b6a76b4c-1c11-4aae-a50c-31684a495294, Right, 1.0
+EO, -_b6a76b4c-1c11-4aae-a50c-31684a495294, c_fc9f1349-c9a9-4a3a-93ec-b14673a17852, Right, 1.0
+EO, c_fc9f1349-c9a9-4a3a-93ec-b14673a17852, )_6783b7be-968a-4b48-a9b8-6e69b1afd5c2, Right, 1.0
+EO, )_6783b7be-968a-4b48-a9b8-6e69b1afd5c2, =_4c3a157b-246b-4f53-939c-28c0a1697616, Right, 1.0
+EO, =_4c3a157b-246b-4f53-939c-28c0a1697616, \log_7f8ad044-0ad4-41b6-aca4-cb0f9a6886b8, Right, 1.0
+EO, \log_7f8ad044-0ad4-41b6-aca4-cb0f9a6886b8, a_7061a56f-74bf-4b40-9bfa-6b39719f3e21, Right, 1.0
+EO, a_7061a56f-74bf-4b40-9bfa-6b39719f3e21, +_ef8e7153-6498-4610-9ce9-e4e9cea3b9ae, Right, 1.0
+EO, +_ef8e7153-6498-4610-9ce9-e4e9cea3b9ae, \log_fe293b79-6eba-4f81-9a4b-eefb494d17e0, Right, 1.0
+EO, \log_fe293b79-6eba-4f81-9a4b-eefb494d17e0, (_842d45dd-ea59-479b-b4ea-257eb260c31c, Right, 1.0

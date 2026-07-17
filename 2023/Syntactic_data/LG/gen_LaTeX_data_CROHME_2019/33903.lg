@@ -1,0 +1,41 @@
+# IUD, CROHME_33903
+# Objects(534):
+O, 0, u, 1.0, 0
+O, 1, (, 1.0, 1
+O, 2, x, 1.0, 2, 3
+O, 3, +, 1.0, 4, 5
+O, 4, y, 1.0, 6
+O, 5, ), 1.0, 7
+O, 6, (, 1.0, 8
+O, 7, x, 1.0, 9
+O, 8, -, 1.0, 10
+O, 9, y, 1.0, 11
+O, 10, ), 1.0, 12
+O, 11, =, 1.0, 13, 14
+O, 12, x, 1.0, 15
+O, 13, 2, 1.0, 16
+O, 14, 2, 1.0, 17
+O, 15, -, 1.0, 18
+O, 16, y, 1.0, 19
+O, 17, 2, 1.0, 20
+O, 18, x, 1.0, 21, 22
+
+# Relations from SRT:
+EO, x_b8755b84-56dc-4e4c-9c0c-81e4e2610ecf, x_7c4fb95c-63e7-4d72-8a9b-6f17c3e3535d, Right, 1.0
+EO, u_74a39a48-5406-42a5-8ace-e5326a4937ae, x_b8755b84-56dc-4e4c-9c0c-81e4e2610ecf, Sub, 1.0
+EO, y_432c8523-5edc-4932-99d7-5971d20aa08e, y_e4761661-53dd-4484-9576-06bc44a02db7, Right, 1.0
+EO, u_d5ddbc3e-8f63-4a1f-900b-570dd56c1bc1, y_432c8523-5edc-4932-99d7-5971d20aa08e, Sub, 1.0
+EO, 0, -_d96209c0-08c5-4ad5-9caa-5b7ad68da054, Right, 1.0
+EO, -_d96209c0-08c5-4ad5-9caa-5b7ad68da054, u_74a39a48-5406-42a5-8ace-e5326a4937ae, Right, 1.0
+EO, u_74a39a48-5406-42a5-8ace-e5326a4937ae, -_8263992e-7ad2-414b-9112-c0c2c343a356, Right, 1.0
+EO, -_8263992e-7ad2-414b-9112-c0c2c343a356, u_d5ddbc3e-8f63-4a1f-900b-570dd56c1bc1, Right, 1.0
+EO, u_d5ddbc3e-8f63-4a1f-900b-570dd56c1bc1, =_90222932-f525-4538-860a-705b1355d903, Right, 1.0
+EO, =_90222932-f525-4538-860a-705b1355d903, f_26ede5ed-272f-49e7-919c-15c3013faf1e, Right, 1.0
+EO, f_26ede5ed-272f-49e7-919c-15c3013faf1e, (_e1e300c6-13ad-46f1-a176-f31b6ced019b, Right, 1.0
+EO, (_e1e300c6-13ad-46f1-a176-f31b6ced019b, x_0e237840-fca7-4fdd-bb83-eebe46cc480e, Right, 1.0
+EO, x_0e237840-fca7-4fdd-bb83-eebe46cc480e, ,_60f9ae48-bc7b-4e43-a19c-6021a08a1d24, Right, 1.0
+EO, ,_60f9ae48-bc7b-4e43-a19c-6021a08a1d24, y_667a4012-b1a5-4863-a216-9bf7b9127a86, Right, 1.0
+EO, y_667a4012-b1a5-4863-a216-9bf7b9127a86, )_57f74028-75fa-40bf-8985-4d9c14df96ca, Right, 1.0
+EO, )_57f74028-75fa-40bf-8985-4d9c14df96ca, =_499e27eb-c8a8-4567-bafb-b1104f6f98a7, Right, 1.0
+EO, =_499e27eb-c8a8-4567-bafb-b1104f6f98a7, x_4f566a6d-8c40-4ee5-aca1-74904c417f12, Right, 1.0
+EO, x_4f566a6d-8c40-4ee5-aca1-74904c417f12, y_3e2b364f-e70a-4cde-8ee5-e395be3e1e35, Right, 1.0

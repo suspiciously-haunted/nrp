@@ -1,0 +1,38 @@
+# IUD, CROHME_67477
+# Objects(256705):
+O, 0, \sum, 1.0, 0
+O, 1, i, 1.0, 1, 2
+O, 2, =, 1.0, 3, 4
+O, 3, 1, 1.0, 5
+O, 4, k, 1.0, 6, 7
+O, 5, p, 1.0, 8, 9, 10
+O, 6, i, 1.0, 11, 12
+O, 7, =, 1.0, 13, 14
+O, 8, 1, 1.0, 15, 16
+O, 9, k, 1.0, 17
+O, 10, B, 1.0, 18, 19
+O, 11, =, 1.0, 20, 21
+O, 12, (, 1.0, 22
+O, 13, H, 1.0, 23, 24, 25
+O, 14, +, 1.0, 26, 27
+
+# Relations from SRT:
+EO, k_38197236-732a-4997-9224-cb57a11c1bf4, =_29a3cea7-637d-49c8-8a4a-ec7eb88a517f, Right, 1.0
+EO, =_29a3cea7-637d-49c8-8a4a-ec7eb88a517f, 1_88c079a8-ff7f-4152-a85b-7a81cb7957db, Right, 1.0
+EO, 0, k_38197236-732a-4997-9224-cb57a11c1bf4, Sup, 1.0
+EO, 0, N_097cc471-16ac-4a6a-ab12-0d138be94077, Sub, 1.0
+EO, \lambda_31507301-2d2c-4458-aa9d-94ba0866c371, k_3cb3d25d-7717-40f2-b6ec-e2acf4b76a98, Sub, 1.0
+EO, 0, \lambda_31507301-2d2c-4458-aa9d-94ba0866c371, Right, 1.0
+EO, k_9ff10ed0-def8-4625-a267-2983d9d29389, =_59a14bb4-94c0-4cf1-889e-e23cddc23212, Right, 1.0
+EO, =_59a14bb4-94c0-4cf1-889e-e23cddc23212, 1_f92cde6e-81ee-45ba-a36c-359cc670d5d9, Right, 1.0
+EO, \sum_a437f036-1296-471c-a184-3760881c2075, k_9ff10ed0-def8-4625-a267-2983d9d29389, Sup, 1.0
+EO, \sum_a437f036-1296-471c-a184-3760881c2075, \infty_fdbf8ed6-ef3c-4f46-8703-04ab3c5e4f02, Sub, 1.0
+EO, 5, k_e0e9d9d2-732b-4c0a-a1a4-49852caacac6, Sub, 1.0
+EO, \sum_a437f036-1296-471c-a184-3760881c2075, 5, Right, 1.0
+EO, -_5296a8b5-751d-41f1-9dff-eedd0bba91e5, 0, Above, 1.0
+EO, -_5296a8b5-751d-41f1-9dff-eedd0bba91e5, \sum_a437f036-1296-471c-a184-3760881c2075, Below, 1.0
+EO, 0.95_3a563e91-ca34-452d-9ac5-19b80e967fbd, 0.95_8870d906-1fe7-4f3f-abf4-9d8988039e41, Right, 1.0
+EO, 0.95_8870d906-1fe7-4f3f-abf4-9d8988039e41, 0.95_4ba32581-f517-4831-8468-6ee25ad4f989, Right, 1.0
+EO, 0.95_4ba32581-f517-4831-8468-6ee25ad4f989, 0.95_f1a90a70-1f2b-43a1-bee1-304c437df5ec, Right, 1.0
+EO, -_5296a8b5-751d-41f1-9dff-eedd0bba91e5, \geq_6752f744-0d6c-4164-b9dc-b934428b8b54, Right, 1.0
+EO, \geq_6752f744-0d6c-4164-b9dc-b934428b8b54, 0.95_3a563e91-ca34-452d-9ac5-19b80e967fbd, Right, 1.0

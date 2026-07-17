@@ -1,0 +1,51 @@
+# IUD, CROHME_11433
+# Objects(70):
+O, 0, \sum, 1.0, 0
+O, 1, n, 1.0, 1
+O, 2, =, 1.0, 2, 3
+O, 3, 1, 1.0, 4
+O, 4, \infty, 1.0, 5
+O, 5, q, 1.0, 6
+O, 6, n, 1.0, 7
+O, 7, \sigma, 1.0, 8
+O, 8, 2, 1.0, 9
+O, 9, -, 1.0, 10
+O, 10, (, 1.0, 11
+O, 11, r, 1.0, 12
+O, 12, =, 1.0, 13, 14
+O, 13, a, 1.0, 15
+O, 14, \sin, 1.0, 16, 17, 18, 19
+O, 15, (, 1.0, 20
+O, 16, 2, 1.0, 21
+O, 17, \theta, 1.0, 22
+O, 18, -, 1.0, 23
+O, 19, \alpha, 1.0, 24
+O, 20, ), 1.0, 25
+O, 21, -, 1.0, 26
+O, 22, \sin, 1.0, 27, 28
+
+# Relations from SRT:
+EO, 1, 2, Right, 1.0
+EO, 2, 3, Right, 1.0
+EO, 0, 1, Sup, 1.0
+EO, 0, 4, Sub, 1.0
+EO, 5, 6, Sup, 1.0
+EO, 7, 0_8626d2a8-d708-4fca-ad3d-8ce8026841d6, Sub, 1.0
+EO, n_789ea82d-bba5-4f16-8371-ee36b7046566, =_0e16b6ad-c6c4-4184-a98e-e38165e5cd84, Right, 1.0
+EO, =_0e16b6ad-c6c4-4184-a98e-e38165e5cd84, 1_d712df16-fa8e-4473-a98c-0eb38bc2985d, Right, 1.0
+EO, \sum_29633ec4-e081-4998-8204-86e63a082ca4, n_789ea82d-bba5-4f16-8371-ee36b7046566, Sup, 1.0
+EO, \sum_29633ec4-e081-4998-8204-86e63a082ca4, \infty_57065bcd-34d4-4035-a524-78d4f8fbb2c7, Sub, 1.0
+EO, q_a1981783-082b-4787-bb92-71be29397c6c, n_14cb0bd2-3492-471a-bf44-9e5bf7828d79, Sup, 1.0
+EO, q_9a588e86-4bca-41ef-ac52-c067976fc4fe, n_79a01ee2-ebb5-4f6a-9670-c242b3645f9a, Sup, 1.0
+EO, 1_b3c4ff23-fb7d-4774-831b-0245287924d3, -_4f0b6fa8-43d6-44ba-97fd-59e2fb0f512a, Right, 1.0
+EO, -_4f0b6fa8-43d6-44ba-97fd-59e2fb0f512a, q_9a588e86-4bca-41ef-ac52-c067976fc4fe, Right, 1.0
+EO, -_78e4b7b4-d375-4a8e-afb7-a8466c9e60c2, q_a1981783-082b-4787-bb92-71be29397c6c, Above, 1.0
+EO, -_78e4b7b4-d375-4a8e-afb7-a8466c9e60c2, 1_b3c4ff23-fb7d-4774-831b-0245287924d3, Below, 1.0
+EO, 0, 5, Right, 1.0
+EO, 5, 7, Right, 1.0
+EO, 7, (_850753fb-d922-4d83-b30d-a129fbd7ba3e, Right, 1.0
+EO, (_850753fb-d922-4d83-b30d-a129fbd7ba3e, n_6f050477-dab4-42cf-b179-4f5111dac03f, Right, 1.0
+EO, n_6f050477-dab4-42cf-b179-4f5111dac03f, )_7ee73248-d345-410b-b460-e869fc7077ca, Right, 1.0
+EO, )_7ee73248-d345-410b-b460-e869fc7077ca, =_74eebe97-1333-4a2c-92de-f43a6ae92e45, Right, 1.0
+EO, =_74eebe97-1333-4a2c-92de-f43a6ae92e45, \sum_29633ec4-e081-4998-8204-86e63a082ca4, Right, 1.0
+EO, \sum_29633ec4-e081-4998-8204-86e63a082ca4, -_78e4b7b4-d375-4a8e-afb7-a8466c9e60c2, Right, 1.0

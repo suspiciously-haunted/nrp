@@ -1,0 +1,42 @@
+# IUD, CROHME_37226
+# Objects(1123):
+O, 0, R, 1.0, 0, 1
+O, 1, H, 1.0, 2, 3, 4
+O, 2, /, 1.0, 5
+O, 3, B, 1.0, 6
+O, 4, 2, 1.0, 7
+O, 5, (, 1.0, 8
+O, 6, p, 1.0, 9, 10
+O, 7, \prime, 1.0, 11
+O, 8, 1, 1.0, 12
+O, 9, 0, 1.0, 13
+O, 10, ,, 1.0, 14
+O, 11, q, 1.0, 15
+O, 12, =, 1.0, 16, 17
+O, 13, 1, 1.0, 18
+O, 14, 0, 1.0, 19
+O, 15, k, 1.0, 20
+O, 16, -, 1.0, 21
+O, 17, n, 1.0, 22
+O, 18, x, 1.0, 23, 24
+O, 19, 1, 1.0, 25
+
+# Relations from SRT:
+EO, a_9349b4be-6d67-4924-b65c-b8dc537fcc41, b_dd9f35b1-ac34-4742-bebe-5d034859909d, Right, 1.0
+EO, b_dd9f35b1-ac34-4742-bebe-5d034859909d, c_5dd3e7d2-3b9a-4af9-ab12-50f3488315ee, Right, 1.0
+EO, c_5dd3e7d2-3b9a-4af9-ab12-50f3488315ee, d_929bffaa-0a4b-4e2e-bfa0-c022c44dd37d, Right, 1.0
+EO, 0, a_9349b4be-6d67-4924-b65c-b8dc537fcc41, Sub, 1.0
+EO, a_320c50f1-a827-4cca-9592-7cb915efb65b, c_970815cd-4738-4726-87a8-d68dee4f5918, Right, 1.0
+EO, c_970815cd-4738-4726-87a8-d68dee4f5918, d_a505ef41-23af-4eb9-9173-f4a04b0b545e, Right, 1.0
+EO, d_a505ef41-23af-4eb9-9173-f4a04b0b545e, b_00ff2a08-9d5e-4f44-9ad1-3bdb36c4e05c, Right, 1.0
+EO, R_77352c04-9af4-4f1d-a177-8d73e3c9b9fe, a_320c50f1-a827-4cca-9592-7cb915efb65b, Sub, 1.0
+EO, a_eebe6f4f-3f2a-4d25-8d97-653103a6fe74, d_d70cd8fe-3ca3-40cb-b2be-73c441204458, Right, 1.0
+EO, d_d70cd8fe-3ca3-40cb-b2be-73c441204458, b_011c9450-6959-43cd-8d55-5a7e7672849d, Right, 1.0
+EO, b_011c9450-6959-43cd-8d55-5a7e7672849d, c_5b83c78e-5069-4a73-9966-6254d696985e, Right, 1.0
+EO, R_20284ffb-2265-40ce-885b-adf47970e680, a_eebe6f4f-3f2a-4d25-8d97-653103a6fe74, Sub, 1.0
+EO, 0, +_d902277c-5f5f-450d-a99b-7fcb963dd96f, Right, 1.0
+EO, +_d902277c-5f5f-450d-a99b-7fcb963dd96f, R_77352c04-9af4-4f1d-a177-8d73e3c9b9fe, Right, 1.0
+EO, R_77352c04-9af4-4f1d-a177-8d73e3c9b9fe, +_e8292962-d135-4af7-a6ca-c4d201fa24c8, Right, 1.0
+EO, +_e8292962-d135-4af7-a6ca-c4d201fa24c8, R_20284ffb-2265-40ce-885b-adf47970e680, Right, 1.0
+EO, R_20284ffb-2265-40ce-885b-adf47970e680, =_3d69bb8a-f48f-460e-8f10-2d8e10f418d8, Right, 1.0
+EO, =_3d69bb8a-f48f-460e-8f10-2d8e10f418d8, 0_f9c40c7c-0200-4d55-9604-f5f8c5075c51, Right, 1.0

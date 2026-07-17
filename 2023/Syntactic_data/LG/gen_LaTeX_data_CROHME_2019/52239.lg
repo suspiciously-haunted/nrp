@@ -1,0 +1,51 @@
+# IUD, CROHME_52239
+# Objects(2240):
+O, 0, a, 1.0, 0
+O, 1, 0, 1.0, 1
+O, 2, x, 1.0, 2, 3
+O, 3, n, 1.0, 4
+O, 4, =, 1.0, 5, 6
+O, 5, A, 1.0, 7, 8, 9
+O, 6, =, 1.0, 10, 11
+O, 7, k, 1.0, 12
+O, 8, T, 1.0, 13, 14
+O, 9, -, 1.0, 15
+O, 10, e, 1.0, 16
+O, 11, \alpha, 1.0, 17
+O, 12, 1, 1.0, 18
+O, 13, 3, 1.0, 19
+O, 14, (, 1.0, 20
+O, 15, 2, 1.0, 21
+O, 16, ), 1.0, 22
+O, 17, ,, 1.0, 23
+O, 18, B, 1.0, 24
+O, 19, -, 1.0, 25
+O, 20, 2, 1.0, 26
+O, 21, \mu, 1.0, 27
+O, 22, 0, 1.0, 28
+O, 23, m, 1.0, 29
+O, 24, c, 1.0, 30
+O, 25, 2, 1.0, 31
+
+# Relations from SRT:
+EO, 0, 1, Sub, 1.0
+EO, 2, n_0fe8db9f-049e-4a4f-8ffc-57428531524b, Sup, 1.0
+EO, a_a5e7f246-3b11-4c13-a2a3-a64053ea9e32, 1_855908a5-536c-4717-9ba4-965037770d18, Sub, 1.0
+EO, n_d1563b5c-2d95-41ec-bb8d-068c2b4b9b28, -_8153df7d-5940-47af-a3f7-199ed0e8fdb8, Right, 1.0
+EO, -_8153df7d-5940-47af-a3f7-199ed0e8fdb8, 1_6eda766b-9930-439c-9dfe-6caa701295fb, Right, 1.0
+EO, x_4c5d34d1-4a93-4c7a-acaa-df2e7c7f0521, n_d1563b5c-2d95-41ec-bb8d-068c2b4b9b28, Sup, 1.0
+EO, n_66592640-da49-42b9-b366-44dd28d9ba41, -_f65d7106-79f9-454e-b074-f706460897a7, Right, 1.0
+EO, -_f65d7106-79f9-454e-b074-f706460897a7, 1_653bd4ae-6541-4ae5-968b-d55b7b5b9130, Right, 1.0
+EO, a_209d847b-fe7d-4014-acab-f86a5e59714d, n_66592640-da49-42b9-b366-44dd28d9ba41, Sub, 1.0
+EO, a_7f6d6480-1f1b-4f77-84a9-30efae01ac08, n_c97d2859-8da6-4665-94ca-3cfa3acabfbb, Sub, 1.0
+EO, 0, 2, Right, 1.0
+EO, 2, +_2ad5d94c-d261-4fc0-a65b-a64f70346ff8, Right, 1.0
+EO, +_2ad5d94c-d261-4fc0-a65b-a64f70346ff8, a_a5e7f246-3b11-4c13-a2a3-a64053ea9e32, Right, 1.0
+EO, a_a5e7f246-3b11-4c13-a2a3-a64053ea9e32, x_4c5d34d1-4a93-4c7a-acaa-df2e7c7f0521, Right, 1.0
+EO, x_4c5d34d1-4a93-4c7a-acaa-df2e7c7f0521, +_6bb665e6-9f39-4810-b150-b3d8292116be, Right, 1.0
+EO, +_6bb665e6-9f39-4810-b150-b3d8292116be, \ldots_ac633332-44d7-4584-9543-94e45dbd24ec, Right, 1.0
+EO, \ldots_ac633332-44d7-4584-9543-94e45dbd24ec, +_29407f79-22de-4afb-8724-7199079aeba2, Right, 1.0
+EO, +_29407f79-22de-4afb-8724-7199079aeba2, a_209d847b-fe7d-4014-acab-f86a5e59714d, Right, 1.0
+EO, a_209d847b-fe7d-4014-acab-f86a5e59714d, x_b15ed631-4fc9-488f-b5c0-e8c2803e832e, Right, 1.0
+EO, x_b15ed631-4fc9-488f-b5c0-e8c2803e832e, +_e4181974-829e-4c63-a1f7-9258d3fb4c92, Right, 1.0
+EO, +_e4181974-829e-4c63-a1f7-9258d3fb4c92, a_7f6d6480-1f1b-4f77-84a9-30efae01ac08, Right, 1.0

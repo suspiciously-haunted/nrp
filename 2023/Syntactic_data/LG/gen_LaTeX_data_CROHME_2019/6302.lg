@@ -1,0 +1,48 @@
+# IUD, CROHME_6302
+# Objects(36):
+O, 0, C, 1.0, 0
+O, 1, i, 1.0, 1, 2
+O, 2, j, 1.0, 3, 4
+O, 3, =, 1.0, 5, 6
+O, 4, \sqrt, 1.0, 7
+O, 5, C, 1.0, 8
+O, 6, i, 1.0, 9, 10
+O, 7, i, 1.0, 11, 12
+O, 8, C, 1.0, 13
+O, 9, j, 1.0, 14, 15
+O, 10, j, 1.0, 16, 17
+O, 11, =, 1.0, 18, 19
+O, 12, \gamma, 1.0, 20
+O, 13, 0, 1.0, 21
+O, 14, +, 1.0, 22, 23
+O, 15, \gamma, 1.0, 24
+O, 16, 1, 1.0, 25
+O, 17, u, 1.0, 26
+O, 18, 2, 1.0, 27
+O, 19, -, 1.0, 28
+
+# Relations from SRT:
+EO, 12, 13, Sub, 1.0
+EO, 15, 16, Sub, 1.0
+EO, 17, 18, Sup, 1.0
+EO, c_68c9781d-5247-45c0-a4e5-132c7fad0615, 2_cdc1e88d-e5a4-4b18-82c8-076ad7f21ba4, Sup, 1.0
+EO, 19, 17, Above, 1.0
+EO, 19, c_68c9781d-5247-45c0-a4e5-132c7fad0615, Below, 1.0
+EO, \gamma_fe1704d7-c68e-4885-a24f-617da496408d, 2_d7c50d35-4f95-41d1-a76e-a081bdaca320, Sub, 1.0
+EO, u_14d16833-04d5-4c46-9df1-cb65575084c5, r_80810c2c-bce3-43de-9c5a-f7475bd52853, Sup, 1.0
+EO, u_14d16833-04d5-4c46-9df1-cb65575084c5, 2_8f961bc2-548a-4bcb-a1ab-ad94d78a7edf, Sub, 1.0
+EO, c_1acbc4d3-3f88-40ff-8ecb-bbb937726eee, 2_83432a6d-fc30-4e09-890b-49a04782db19, Sup, 1.0
+EO, -_7ef61984-40bf-4310-8f79-7624c02c3f57, u_14d16833-04d5-4c46-9df1-cb65575084c5, Above, 1.0
+EO, -_7ef61984-40bf-4310-8f79-7624c02c3f57, c_1acbc4d3-3f88-40ff-8ecb-bbb937726eee, Below, 1.0
+EO, 0, 11, Right, 1.0
+EO, 11, 12, Right, 1.0
+EO, 12, 14, Right, 1.0
+EO, 14, 15, Right, 1.0
+EO, 15, 19, Right, 1.0
+EO, 19, +_2d423266-bd16-4901-9d85-085614e8a6b5, Right, 1.0
+EO, +_2d423266-bd16-4901-9d85-085614e8a6b5, \gamma_fe1704d7-c68e-4885-a24f-617da496408d, Right, 1.0
+EO, \gamma_fe1704d7-c68e-4885-a24f-617da496408d, -_7ef61984-40bf-4310-8f79-7624c02c3f57, Right, 1.0
+EO, -_7ef61984-40bf-4310-8f79-7624c02c3f57, +_f5a5efb7-9b57-433e-9b2a-2be1efe2c573, Right, 1.0
+EO, +_f5a5efb7-9b57-433e-9b2a-2be1efe2c573, ._f93dc98c-4022-4b42-a7d4-62942222d7e4, Right, 1.0
+EO, ._f93dc98c-4022-4b42-a7d4-62942222d7e4, ._65c0dcad-7b66-4dfe-a54a-6d04239cb7b0, Right, 1.0
+EO, ._65c0dcad-7b66-4dfe-a54a-6d04239cb7b0, ._27b8abe5-6207-4954-af6c-8bb12740f26e, Right, 1.0

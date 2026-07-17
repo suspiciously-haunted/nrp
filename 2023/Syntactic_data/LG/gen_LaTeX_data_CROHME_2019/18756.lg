@@ -1,0 +1,42 @@
+# IUD, CROHME_18756
+# Objects(306):
+O, 0, \sigma, 1.0, 0
+O, 1, i, 1.0, 1, 2
+O, 2, =, 1.0, 3, 4
+O, 3, \sigma, 1.0, 5
+O, 4, 0, 1.0, 6
+O, 5, 2, 1.0, 7
+O, 6, 2, 1.0, 8
+O, 7, 1, 1.0, 9
+O, 8, \prime, 1.0, 10
+O, 9, (, 1.0, 11
+O, 10, k, 1.0, 12, 13
+O, 11, t, 1.0, 14, 15
+O, 12, -, 1.0, 16
+O, 13, m, 1.0, 17
+O, 14, ), 1.0, 18
+O, 15, =, 1.0, 19, 20
+O, 16, \sigma, 1.0, 21
+O, 17, (, 1.0, 22
+O, 18, d, 1.0, 23, 24
+
+# Relations from SRT:
+EO, 0, 1_a29e9913-d772-4b78-8149-e69805d6eb05, Sup, 1.0
+EO, 0, 2_bdc9b665-9545-436b-99be-436dba06b980, Sub, 1.0
+EO, \sigma_2d797cd3-23be-47b8-b8b5-caa2a1ffff3a, 1_1689a79f-49c1-4d63-b9b9-02f75ca45af1, Sub, 1.0
+EO, \sigma_6f311b30-3506-4a05-8ab3-8e6961d203b7, 2_ce1ef9cc-a9a2-4151-a6bf-6f99ca625974, Sub, 1.0
+EO, \sigma_698789e0-da79-4b2d-a6ee-1ce7a7a89f9b, 2_34146bc4-4898-4038-9651-1a5f22116d81, Sup, 1.0
+EO, \sigma_698789e0-da79-4b2d-a6ee-1ce7a7a89f9b, 2_e6d3e692-9e59-48d8-baab-1031997ae816, Sub, 1.0
+EO, k_09844015-8b2b-47d1-9990-18a123926d14, 2_cdb2cd42-b1e7-4f19-b7a8-839b399abf66, Sup, 1.0
+EO, \sigma_a54edd6f-6302-48a8-a217-c11b9c1dd457, y_57e24135-de93-47b9-9889-b7333f667936, Sup, 1.0
+EO, \sigma_a54edd6f-6302-48a8-a217-c11b9c1dd457, 2_e95d8cd9-e498-4f5d-b2de-dd0379f60044, Sub, 1.0
+EO, 0, -_e18a2922-3cd4-43cc-84bb-effc4303dfbd, Right, 1.0
+EO, -_e18a2922-3cd4-43cc-84bb-effc4303dfbd, \sigma_2d797cd3-23be-47b8-b8b5-caa2a1ffff3a, Right, 1.0
+EO, \sigma_2d797cd3-23be-47b8-b8b5-caa2a1ffff3a, \sigma_6f311b30-3506-4a05-8ab3-8e6961d203b7, Right, 1.0
+EO, \sigma_6f311b30-3506-4a05-8ab3-8e6961d203b7, +_0b3b32fd-c643-4eaa-ba01-ecf150980ae8, Right, 1.0
+EO, +_0b3b32fd-c643-4eaa-ba01-ecf150980ae8, \sigma_698789e0-da79-4b2d-a6ee-1ce7a7a89f9b, Right, 1.0
+EO, \sigma_698789e0-da79-4b2d-a6ee-1ce7a7a89f9b, =_b79b8cd5-9bb5-4020-87e8-696a74689e37, Right, 1.0
+EO, =_b79b8cd5-9bb5-4020-87e8-696a74689e37, 3_8d849808-700d-4ca6-b5cb-08d2166ce963, Right, 1.0
+EO, 3_8d849808-700d-4ca6-b5cb-08d2166ce963, k_09844015-8b2b-47d1-9990-18a123926d14, Right, 1.0
+EO, k_09844015-8b2b-47d1-9990-18a123926d14, =_1fa9a86b-cd4e-45ef-a00b-c2127ebd3d4a, Right, 1.0
+EO, =_1fa9a86b-cd4e-45ef-a00b-c2127ebd3d4a, \sigma_a54edd6f-6302-48a8-a217-c11b9c1dd457, Right, 1.0

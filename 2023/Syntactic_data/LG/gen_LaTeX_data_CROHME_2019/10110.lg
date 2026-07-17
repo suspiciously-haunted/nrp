@@ -1,0 +1,15 @@
+# IUD, CROHME_10110
+# Objects(90):
+O, 0, x, 1.0, 0, 1
+O, 1, =, 1.0, 2, 3
+O, 2, x, 1.0, 4
+O, 3, \mu, 1.0, 5
+O, 4, a, 1.0, 6, 7
+O, 5, p, 1.0, 8
+
+# Relations from SRT:
+EO, 2, 3, Sup, 1.0
+EO, \gamma_bd7a5a33-136e-4e9c-9ce4-7c02cf1a9100, \mu_f3f2dded-2ad7-4700-80af-91ed0e28ea74, Sub, 1.0
+EO, 0, 1, Right, 1.0
+EO, 1, 2, Right, 1.0
+EO, 2, \gamma_bd7a5a33-136e-4e9c-9ce4-7c02cf1a9100, Right, 1.0

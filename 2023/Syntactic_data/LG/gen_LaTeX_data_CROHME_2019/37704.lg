@@ -1,0 +1,18 @@
+# IUD, CROHME_37704
+# Objects(1835):
+O, 0, R, 1.0, 0, 1
+O, 1, =, 1.0, 2, 3
+O, 2, |, 1.0, 4
+O, 3, r, 1.0, 5
+O, 4, |, 1.0, 6
+O, 5, 2, 1.0, 7
+O, 6, \geq, 1.0, 8, 9
+O, 7, 1, 1.0, 10
+
+# Relations from SRT:
+EO, f_2a16f37f-23de-45f5-9333-2671b9d2677b, 1_04c6b4b4-7ff1-42a5-b651-303e5e094649, Right, 1.0
+EO, 0, f_2a16f37f-23de-45f5-9333-2671b9d2677b, Sub, 1.0
+EO, f_fd32b9a5-39b3-4eeb-aa79-19ebb71f0df0, 2_eba56b2e-2e98-44f6-ab78-9c9f0da33eab, Right, 1.0
+EO, R_ecf461d8-c4ad-413e-adac-2849592b0317, f_fd32b9a5-39b3-4eeb-aa79-19ebb71f0df0, Sub, 1.0
+EO, 0, =_2ad4dd1f-db0e-47a1-bc33-0a267ecb6608, Right, 1.0
+EO, =_2ad4dd1f-db0e-47a1-bc33-0a267ecb6608, R_ecf461d8-c4ad-413e-adac-2849592b0317, Right, 1.0
